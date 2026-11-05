@@ -78,14 +78,17 @@ def save_results():
     print(f"{'=' * 60}")
 
 print(r"""
-╔═╗╔═╗╦  ╔╦╗╔═╗╦═╗  ╔╦╗╔═╗╔╦╗╔═╗
-╠╣ ║ ║║   ║║║╣ ╠╦╝   ║║║ ║ ║║║╣ 
-╚  ╚═╝╩═╝═╩╝╚═╝╩╚═  ═╩╝╚═╝ ═╩╝╚═╝
+███╗   ██╗███████╗████████╗███████╗██╗     ██╗██╗  ██╗
+████╗  ██║██╔════╝╚══██╔══╝██╔════╝██║     ██║╚██╗██╔╝
+██╔██╗ ██║█████╗     ██║   █████╗  ██║     ██║ ╚███╔╝
+██║╚██╗██║██╔══╝     ██║   ██╔══╝  ██║     ██║ ██╔██╗
+██║ ╚████║███████╗   ██║   ██║     ███████╗██║██╔╝ ██╗
+╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝╚═╝  ╚═╝
 
-            Checker Netflix Cookie Account V3
+            Checker Netflix Cookie Account V4
             By     : Kenjisubagja / Klikajar
             Github : kenjisubagja
-            FB     : R Panji Subbagja
+            FB     : R Panji Subagja
 """)
 
 signal.signal(signal.SIGINT, signal_handler)
