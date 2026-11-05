@@ -1,0 +1,21 @@
+#USERNAME       : Paul
+#EMAIL          : r.thiebault@free.fr
+#PHONE          : +33663954634
+#EMAIL VERIFIED : Yes
+#CREATED        : août 2017
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (4505)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 23 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Raphaël
+#CHECKED AT     : 2026-11-05 11:33:48
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785177752	OptanonAlertBoxClosed	2025-07-27T18:42:32.572Z
+.netflix.com	TRUE	/	FALSE	1785177750	nfvdid	BQFmAAEBEM_NW7dowY53uhhqcLCh-nhglgaVgPJK_cnvlXpqOuxDJ5epgtPjj_Hmk2iGAbhL4lPl_-Ou0DvRc_8Ce1S5thiKBLrcwNQAFs0hzlxXQdMOsRQzzPZWnRYwvH_RytlZnCKXs6be8Yfm0MCbAH6OX-0j
+.netflix.com	TRUE	/	TRUE	1808595530	NetflixId	ct%3DBgjHlOvcAxKEBEEabT1OylZsXbyMMZvKMhnHJFMrRtnYAYyFI-mh-MT3eiT4N-1lYtugH5kgJd5McsL8tRmI04KZoyhVNxkuO5TrmSpFsekGutmeAkFqhiHnfPgKEFX9PGwUhK4Bizru2J98XNKMvZL7Rxe92F8LmUSt1OJ9dbEfWJ9eTp6vWrUX13F6nyLJYSj1jhp6qJO6U0PDw9sItuUfhouIGlTzpkNQK3i4kbzHPEE3vNB37wqyABe72UBwOWsvtDjwn7aRRG_Uwt2lzL4TAbLAd9S4wZYa2OKrnpdMyESazuTsoidV1sNpV66PaSCy4BfvPEUUgxlDYijnmL-nFde50r9KxV8L7oU8sXvEPfbHMzoactTR7ij15pfyGI0wWYoIvC-fy3EuyuQR-YtIZh0nSaWx8nIy9vD3ifrgClEGoFJ5hcfVekxSfBB0cSzzgdVdZ02-7cc52XCYO0_mhykHjblnIaeee6AfALyS6OvlBcoAQ0pDD3V_6dOBE8jXG84Emd8FYRj1-6fQfquKQXzjM9DVMHijKqvug1SuqjtkqU-l5VXdCiKvVVPXe4jy-JaC5qlTXByVmezhJUPkv71CQmJ68icdyn1dZAlnPEobEE7LD46zUn-CDkL_oN8PtY_rBFLBctwfW8CQltsFsJ40GAhQ6SmAPnYChnkJd7SraG2pks1oZQp3TRgGIg4KDCl80b5PXIVVFBaTUg..%26ch%3DAQEAEAABABTkBV9PysbF_iFFBWh_rvf6ek8BwazAHwI.%26v%3D3%26pg%3DEW7EVI3GBNH5PFC3DOD5F4D3MA
+.netflix.com	TRUE	/	TRUE	1808595530	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3d60fmqoD-4ca3Dmbnt4hlTYZAIAXzzw.%26dt%3D1777059530209
+.netflix.com	TRUE	/	FALSE	1808596344	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+21%3A52%3A24+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae2f524e-5725-4f85-89f8-b19423746191&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BIDF&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784836344	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

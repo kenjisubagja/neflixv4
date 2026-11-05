@@ -1,0 +1,25 @@
+#USERNAME       : Júnior
+#EMAIL          : mariaalicesousarosa@gmail.com
+#PHONE          : +5586988934465
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : CC (8482)
+#EXPIRE         : 2026-11-28
+#DAYS LEFT      : 22 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Maria Alice
+#CHECKED AT     : 2026-11-05 10:41:50
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1789445396	flwssn	1a300cfd-406f-4eaf-ae54-317cba22805b
+.netflix.com	TRUE	/	TRUE	1789520999	gsid	54022be2-86ba-40f0-ad24-88a24b115b21
+.netflix.com	TRUE	/	TRUE	1823994596	nap	BgiJv-vcAxJJnGjEaiUOVrjTY8_77QpUC3IAMdqtaq_Q8Frzf0Odb0Am1ZK6cDbfm0ZTr10vylytSQvYTgtq_tYRHZ-BNutLK-vHXRUfRAlrCxgGIg4KDNRHvzEr-sBAM8bYOA..
+.netflix.com	TRUE	/	TRUE	1820970657	NetflixId	ct%3DBgjHlOvcAxLpAwC9b8Tr76sXwRX4wcRWGIQEsxQvXEy_hFF-rFBy5yh4_bkBFKRxtD8-RhfXwXxphXtpXQ_kacoiE69Dro9B-G9o6GLGudMKf97Vny_E1jPG4LiSk6wtwOLx5W1PLgR1ScVFvRzLWQ24YS4xrKsnwJHJm5xfc3lkJ_7BMF2RbquxUORYNkLaMEfqPjiDNm-SDLZhpNgRxyQyQjAzdsdHkMiU3lA1qIgFwPoLzbQKazgzY-bx8QGcEvfrMDE1AG0DwQgZhDqU36bcjDCbLy5pmD_qeZo7mjK-G8MUD3wG3jT6Mxkpwnzr3Vxkve78KozV9DhrpBIt3O2PylWjqp-Wjzr5Kl97IIFGNMWm98EczZcyWMZHHAj547oHoqbJzJTQl3_7taCTRMyFbTqc_rtDT_iNlBMRAeS-nV8fwkRoIPXdEgNyeoLY_obu_EIunW2SqTAdvitWuk4rYJL4DJS-ggcn2Q26FHbzQ1y0G7pSYXidLvdVlygT-pMA8Y7WidmvXlAKm4H-JqczLXlydiK4eTm7FrO_Ip04bqK_fYYjj5-jiGaWm6-5Is4-WIB0aJw3oZ5XC2aAG1Gxu08JA2OBO8D1MIEA6WZ2Ub8YWIHYBJuHIF8yoTU8gCd4mddPIPQYG_nKGMnQeh36DhgGIg4KDKRAIedt5u0p1fzIpA..%26ch%3DAQEAEAABABSB5XgKUUou4g6ISUU9i8iZYzqLW02115A.%26v%3D3%26pg%3D72KHT2HXXBA3PJKFOP47UQ3EZU
+.netflix.com	TRUE	/	FALSE	1799884181	nfvdid	BQFmAAEBEPTJah3gWyd4Ecnp1MvAPmhgMeQJbwZw1VG73ZQGVbiF5KRM5SjQY03pyW6Px01U3q0RT9E8rmFoRxPQO5BmcPtqp8ETwZ6X5Tzab2bOknJDiyatrcw52To72iBT1t1C4z1iJCH2_36h9-09bedv6-B5
+.netflix.com	TRUE	/	FALSE	1799884192	OptanonAlertBoxClosed	2026-01-13T23:49:52.194Z
+.netflix.com	TRUE	/	FALSE	1820970608	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+14+2026+22%3A10%3A08+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0cd6a634-cb47-48c6-a139-a17a8686f7df&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768348192741&AwaitingReconsent=false&intType=3&geolocation=BR%3BPI&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1789440775	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1820970657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSwSBw0nxZlzd7E8QhlnTHt2wcdy-JVgiI.%26dt%3D1789434657982
+www.netflix.com	FALSE	/	FALSE	1789521006	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

@@ -1,0 +1,24 @@
+#USERNAME       : Bryan
+#EMAIL          : Bromeo1692@protonmail.com
+#PHONE          : +16477625480
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2016
+#COUNTRY        : Canada 🇨🇦
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : ROGERS_INT_BILLED (7944)
+#EXPIRE         : 2027-10-25
+#DAYS LEFT      : 354 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Bryan
+#CHECKED AT     : 2026-11-05 11:07:40
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1824440486	OptanonAlertBoxClosed	2026-10-25T05:01:26.283Z
+.netflix.com	TRUE	/	TRUE	1827464493	dsca	true
+.netflix.com	TRUE	/	FALSE	1824440490	nfvdid	BQFmAAEBEPn4gyjBC6SN3fa14c3RgvVgskv9il7rDoQYDD-ZOVjZEsSSrVADsze1VPoh__WhNzGQNdjKtDLPRzIPgJqo80Te1IU9xmXjpy9gAHReXb9QQzTXEopktIhXZRI66lXsGH13qXqjIzMwj63PvHn1ngoQ
+.netflix.com	TRUE	/	TRUE	1824485952	NetflixId	ct%3DBgjHlOvcAxK8Ay93TO4EL_F_5AF5PS2bZeAXzRtmuxaXvzVHQYBfrlLeBiLvu3W7uxxpM1R2u8FnnApb82qjnOUUeGk-XaHa76WPsrIXzG11YnMa7M7fXVwpTnAODzgFEoDcWXV17PxGJA6cP0rkdWIx6Tj9USonq69d3BKz9ae6aOGb4YLNWCIzXR3AzlZvOi3Vp6IGAlgKvRjCx_RKT5s9HEuJt1C0OeEHW83JOMO9yJqYJkR1q3qR0A8D0vOa7P_EpT7lkVLkVF1cwZ_O3ybbmiKb5ANJwltwdXiucWgtXYrda7HuzyyqDzAGNVh1Qa6UYMzXzdfa94gGhVnO7C6GOkC1d_QERPyQt3JC-rnlLqCIfRhytDZHFFIy65uQiMYPuuX9bYLZ7cGxN3qVc7Lb1y0R7FyBeqYltEYtZR8cUCPhgbp8cBOIpvnZ2UHvnqEnw2EWKtaBegpEtX1pYcgulJAn3QRLyz_QWWf7mx2UhMeAgy-rUC6s71n7LM8rypCfH52qbjeDUl2y5rRFeSzOqRNwqownALGm6RI7EmysYL-RMaUbc3XU304YqX4c0tGVKbCCFreE2Rq2jOubCoKlj99vfxgGIg4KDMPVxrIWzlB4AEYjew..%26ch%3DAQEAEAABABQkKQJN5LWUbY6fuzTu50i-0uuQPjBpyyY.%26v%3D3%26pg%3DFG5ZES6AMVCQRDBNJGD6QN6CQY
+.netflix.com	TRUE	/	FALSE	1824485955	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+25+2026+13%3A39%3A15+GMT-0400+(Eastern+Daylight+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a623492b-fe91-45ea-8685-64ccb6c896b6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&lastConsentTs=1792904486&intType=3&crTime=1792904486451&geolocation=CA%3BON
+.netflix.com	TRUE	/	TRUE	1824485952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4ofBw9WwwFiqfhNHskEhZZ0SNbv0Dgmw.%26dt%3D1792949950624
+.netflix.com	TRUE	/	FALSE	1800725954	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800725954	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800725962	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

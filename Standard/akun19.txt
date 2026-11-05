@@ -1,0 +1,24 @@
+#USERNAME       : ethan
+#EMAIL          : estelledunas41@hotmail.fr
+#PHONE          : +33698167229
+#EMAIL VERIFIED : Yes
+#CREATED        : juillet 2018
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : FREE_ILIAD_BILLED (0777)
+#EXPIRE         : 2027-10-09
+#DAYS LEFT      : 338 Days
+#EXTRA MEMBER   : No
+#PROFILES       : vincent
+#CHECKED AT     : 2026-11-05 12:10:05
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795983818	OptanonAlertBoxClosed	2025-11-29T20:23:38.964Z
+.netflix.com	TRUE	/	TRUE	1799007862	dsca	true
+.netflix.com	TRUE	/	FALSE	1795983861	nfvdid	BQFmAAEBEEpK2xuvL6fXsnv8M3__TW5gD5c0T5tN7UdybVnPq8DAgV9fXOWYe_WHjiu2sVHIh4SkCp7rnzn6wxjjLkRcmxUZJC54tD-bXZWiU8uVmNbS6yD5WaKDBf-mC-mRTbDy68bWKIOycYxJ_rtza7n68X6o
+.netflix.com	TRUE	/	TRUE	1823063489	NetflixId	ct%3DBgjHlOvcAxKDBEJe5-NrkjFE0deSGsMzbSoQb8hLs4KRqIbD0UCL5UitBkbPYk6lpGypMdsvNTlKi0NdqVn1JF5Zoc6Ae7pVAyTEbcXLpux0fU61LwRlbXg-NbhTe7LcK6Ahm4mloAhXWUv8cuFb8ev8c9s6wAasZ1wagV2R-q2UzyRdIODaFTF1IdWnPqnN1tpXkqQbB6Qtt4_ClZFMxMFtK4dXQ9uwLotRaOlcoLj6Mln3-oh0QNEkjDKmzatABs1KQ9eO5ynMpyjNpKB_sTKJIfJHXoT3KiTqoSJUc0uDctqye1FxDZjZ6x__nOhNyTf-qO1tY2Mwi3JW1mNS_RtCXvBE53P84sEslKGT0LkCgkKW2xpQovk9YPVJIN10SJUhiJPJZqYaq5JpmIpSQuKdxMELTRd2vbeTeB0L_QVuzduuohjHhakAz__sG_KhRPBMNyJ0VL5V2NuyYXiShiYPWHxvh0ksSwtebmambgibBnhwiRPFlv4ngnKJ34u3FCfVAL8Vg-OkYXpcW4IBvJguIhpc5Y0XYbKPOMpk28e7V_XCDsK8mltlT_eD9WqFkfze5Rh_RV6LMrz1kUCf--qRGEs3GbnpEMrbl3Lu5EyJzP9a93C_czpNLugOhdW3pkTI13kYCXVxdSnFJAMVUg7P0x_AGXG-RE-BRoNvhEIiIP084jQKPHVcVt-fGAYiDgoMl931ojcQJ17rQvEC%26ch%3DAQEAEAABABRm31HQOJRVVRjb5cuSwPLaw_P_x4Dj0c0.%26v%3D3%26pg%3DVHBCCT3HYRGNPGZQ3NTZNGJYHI
+.netflix.com	TRUE	/	FALSE	1823063491	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+09+2026+08%3A31%3A31+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cbcb722d-5ae3-4e99-ae5a-bca9d8878fd5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BCVL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1823063489	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7QlT40p5aNmlUN-Ahea8ANhUuLwlurzo.%26dt%3D1791527503475
+.netflix.com	TRUE	/	FALSE	1799303491	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799303491	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799328126	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

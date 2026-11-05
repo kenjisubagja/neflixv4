@@ -1,0 +1,20 @@
+#USERNAME       : Zoe
+#EMAIL          : louencosta@hotmail.com
+#PHONE          : +5511934192904
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão | HD | 2 Streams
+#PAYMENT METHOD : CC (5702)
+#EXPIRE         : 2026-12-04
+#DAYS LEFT      : 28 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Louen
+#CHECKED AT     : 2026-11-05 10:38:07
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807993928	OptanonAlertBoxClosed	2026-04-17T20:32:08.162Z
+.netflix.com	TRUE	/	FALSE	1807993970	nfvdid	BQFmAAEBEEupaHSrOENLoY5efOQsPcRgJrZLXm1MPK5jLuj26NtWsXS3-Z6MUyYrblN2Nsc1lrIcfQ69TC4I0uvLVIwEqKjT0M4vjwzzAM7ZiCm30ob-yNLbzAVW1wQYkXOA1gPC1vjHxNSTJ4_J8VxUEUQ8sn_6
+.netflix.com	TRUE	/	FALSE	1812573361	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+17%3A36%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=841e1278-d020-4154-ba4e-79efab4cc79a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776457928565&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813264574	NetflixId	ct%3DBgjHlOvcAxKBBCoRg6LHeBoAgGnFcdiWUK5RP7JRD_ROKSpcVB9jtytCO8UEbuu6lUEbHfRSgf9n6TDcyVjbQjGJgiisxWYpxmBTLbP8skIuGp4Ij_0opuoNU60bo4nh1hnhaPpc3_wjhgf2e11P3-JFXDtyfTQSSQ3Q3QeBbu_UcuAYYsY_b5tCFf5g_DPyzfL2Tpj9QfExeCXIA5U6NhRrUW4gUp3u0LYrt43ilHKDm72wFedupYxhdR6kOQV-PutmhHBdprEMH3TUcCd72INzFvR6OwctoGvbFmAFsUfm-XQUJtAPuBFKuTyOcbptmxkW64CgKwXrVvlPagLtvDNFLPbNappGGSLqwUt0ji0tbDixjIC6zpGdMqmkq3qRai3R-YpxLCq3CEj8VqtXDpC0Ac_EwZf6MHZUL8fQ11-uUoXtSlHW-oQzobSe59mY2FPUa4W1ncmUAKxPiggICaGPJsuHsTS56iYyPEe0qsu_LsaE0DaHo1iXB_-ynez72rZhIh-RJsA9-v3bVIwsPyLWkUTiVdPiR92mpBybJPdUJt-dFsc-rxbmpKnkKWpfAxo0W5m9_HlUXaydfSVdNpFJIMX0fTgGrGFSaQ7FmJqQcxHGjWsQb-3Fbb9Kp7N3dyEP72FNrrZUO2UZh0rXAY0HrXQVtOWxNAZBw4kohgDenoUi2AJHtt1NmhgGIg4KDAmjg5E_iQejG20EoA..%26ch%3DAQEAEAABABRtuPe7rGNWHNAxkWCxwPc5gk1kwYbKwSs.%26v%3D3%26pg%3DALKAKISTHNCSVLBIIJFZ7HLGVE
+.netflix.com	TRUE	/	TRUE	1813264574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGds-XrV2xjtBxyZvulbwVRDE822K8urw.%26dt%3D1781728574467

@@ -1,0 +1,23 @@
+#USERNAME       : Karaba
+#EMAIL          : netflixpartage37@gmail.com
+#PHONE          : +33659081827
+#EMAIL VERIFIED : Yes
+#CREATED        : octobre 2017
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : PAYPAL
+#EXPIRE         : 2026-11-23
+#DAYS LEFT      : 17 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Nico
+#CHECKED AT     : 2026-11-05 12:20:18
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801259926	OptanonAlertBoxClosed	2026-01-29T21:58:46.418Z
+.netflix.com	TRUE	/	TRUE	1804284005	dsca	true
+.netflix.com	TRUE	/	FALSE	1801260005	nfvdid	BQFmAAEBEHz3zMKWekCApKPBnbyx00pgEMkh94TZXuFf1wjYuxYdLqItYNMpS2U8qB8v-p5xQvA6ZbhfxoJUg3k8ikU48b_2dv2L3WZ7Iw9-qFABfzWzpi2edwESHfl3_9djh3rUBJDb8eI0CvteO9T-uwSm6eWB
+.netflix.com	TRUE	/	TRUE	1801503782	NetflixId	ct%3DBgjHlOvcAxLNAyoJU2rEW_qMDy4M-H5jNFzUF6DWVl9lFAZ_artQLXFklqlV_68MaKIYToKousSVxSJ1ss4SMW_p307EaswcQFMKmEJ01dRbLIm1HYHbArz4lO58ETCXpZpW3rkzT4pXg_FyBzv2bq1IbfiQ7r9k9t7V8LbDZenrzLhNf8uIOZwd2Tti2kGcyD9DLDVjGOF8_uLniwBvtQo_Kzkf8mkjffzbhRV5Ixa6SNdLmqK9LHJ74_qNqPwIb9Bzwfgx7UYOh0RYPitocoI6IM6BMhS7gul7KDKQRY5D9Qv_kWvDLzcDxI8pRRY0qBf0Mpr5UMWB8r_vg3_nATXBM6efY776TZjkJkzD3UzvueutPtTAScj9qf0Kn2IXRoxxcxC3OYg3LQooalkU270itmSCPjR7ls-lIQgaaU0PPmIEzfxgvyql_VzqHigiEP94G7s9EOk2B_Ewq--ATVL1Thwsv6oEVfKFAuxyA71qPxCL6S8dXHsceN52BudwQswW4fwsDzJaTSy9GlwWLDDNO7cBV9ITns7d0GiNEd1GPhwev15DxhICP3CIO2mjtJw3MT9gUVyjTQF5W3onZT-Kp4JejlRXPGK2MgELDrz9jrhHWmkLGAYiDgoMLHaWSz5Q9fUHFVhM%26ch%3DAQEAEAABABRMDfGNNSuoBGGjt8JY59e7exB83BTfT3c.%26v%3D3%26pg%3DZQU4SX6LUZFEVPFEIKMCUMKQD4
+.netflix.com	TRUE	/	FALSE	1801503783	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+18%3A43%3A03+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e31c3a8b-cf7d-42c9-838e-e1bcd52da6fb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1769723927410&geolocation=FR%3BCVL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801503782	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSuZ0uRzuXWjems1IcHkfsFmKmPZxz45OU.%26dt%3D1769967781784
+.netflix.com	TRUE	/	FALSE	1777743783	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777743783	netflix-sans-normal-3-loaded	true

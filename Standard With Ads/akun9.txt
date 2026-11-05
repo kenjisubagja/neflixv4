@@ -1,0 +1,29 @@
+#USERNAME       : Railson
+#EMAIL          : railsonrego@gmail.com
+#PHONE          : +5593991482550
+#EMAIL VERIFIED : Yes
+#CREATED        : maio de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (4475)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 4 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Railson
+#CHECKED AT     : 2026-11-05 11:02:25
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1820566651	OptanonAlertBoxClosed	2026-09-10T08:57:31.925Z
+.netflix.com	TRUE	/	FALSE	1820566654	nfvdid	BQFmAAEBELQMLqc7o2t9WTgswHY3se9glwoaycgeUFNTN3CrAdmDDAe5ImmY1FbYH5TKhoQacpUUxelKA5nnKWa9XZ26nBoCH63X66Q2euGe_mQ6qJZm16lc53E9Cc_2A0Kt0-BRBjn9GpO1xe5paQD012Y_9XLI
+secured.netflix.com	FALSE	/	TRUE	1823590684	thx_guid	f685f746cbadded89394a0c6d53e4c69
+secured.netflix.com	FALSE	/	TRUE	1823591209	tmx_guid	AAzxWNrT3YSwi6SGFZAp70m3n8XIQn_FDAliNHhU4GGzxACRIc-GYHi5v7Dz8OxDt_eesrJN-WYb5jc3r6WYx9vs_OOPrw
+.netflix.com	TRUE	/title	TRUE	1827106110	dsca	true
+.netflix.com	TRUE	/	FALSE	1800165722	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800165722	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1824082111	NetflixId	ct%3DBgjHlOvcAxL0A2V_ARenCltd0Hpt-DtCUbUd757_tm4zybD5wWxqmzwpS4jJBeof-pBzIek5HeApqwzGO6RphB3qBqXfCNdG6ReHFvumpXMbBZdXJw66zG8tiBP0euuiISNr69r0uXCTw2kOsLNtWk2uodcCKBHzN_gq4EjoRScROyIsJUuk0HeN7LTtfZXkE7dicCexFBXiq6vpXuDKNkWvlKSoAmpjNp1QyQBya6EFfkOqpJ4c6vwCDBdXmt-M-B4_ryWw9Mqa4PLGbF3dON2A1f-LNjdky5uRAFqithTjiYfJMSk_-r-1Bm-HD12LbdF_kFo5awbG4JpQ5n3zZZNZIzZuvacndOBsfRuEfp44lCjrefXOX6mgyrU_0ZJLQHIAV4h6eHgi2zx8w1wfS081s29bIB77NgCmfFLM48R-8HbHS2PC8TN9vQJJ-CkFf1TgGJSMr2GWVOF3zrdFWrjSOIlH4IgJUhja6pjSbkEgBVV-JOBIYLKod5JS0gh-_iy-ZWQt5HHlkwGJeK9jRbpHySy5F6RlX2DVz_RUmT-iZpvwsW8VS6I3psX7yQEdRIFpBHVeNTSNVDDD1DfldLca7vY1M8Q6mmgHLQtWiEdrSDMs8QhMqe8rS6RNG_hl6EbIGElOEt_UaOyLIkNjv3JmrRBjhELCESSFomOTGAYiDgoMMgSJKMHWnKCCNAQ9%26ch%3DAQEAEAABABQPJDmJhz7zFTIcm90NuwmaboEhrBJaO10.%26v%3D3%26pg%3DZZFBPF4FAZFZFBLRSZ6QCYORWI
+.netflix.com	TRUE	/	FALSE	1824082112	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+20+2026+22%3A28%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5d66e312-a138-47d3-a97d-c61fecd0b3d9&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789030652546&AwaitingReconsent=false&fclco=&lastConsentTs=1789030651&intType=3&geolocation=BR%3BCE
+.netflix.com	TRUE	/	TRUE	1824082111	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbEQTN4wqnDudzYXneXOd1Y87a4WzhdFI.%26dt%3D1792546111146
+www.netflix.com	FALSE	/	FALSE	1792632512	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1792632508	gsid	81a8f3b1-177d-4343-94a4-47cd7bd32bb7
+.netflix.com	TRUE	/	TRUE	1827106108	nap	BgimwOvcAxJJsocueMwFEDhk3vFCLr9hQtxtYg7FY-TUlZsmbh2UMn3IEQMIKbmtpxp0NCJODLQPKAd01pKlLdtgcZIVXJ5DKDRGJNZxA_IOmRgGIg4KDENi6NEP5LgTyiJ_Jg..
+.netflix.com	TRUE	/	FALSE	1792547964	profilesNewSession	0

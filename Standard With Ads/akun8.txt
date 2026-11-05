@@ -1,0 +1,22 @@
+#USERNAME       : LK
+#EMAIL          : memerenciano0807@gmail.com
+#PHONE          : +5511999842908
+#EMAIL VERIFIED : Yes
+#CREATED        : julho de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (2687)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 23 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Memerenciano
+#CHECKED AT     : 2026-11-05 10:47:50
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1822440144	OptanonAlertBoxClosed	2026-10-02T01:22:24.640Z
+.netflix.com	TRUE	/	FALSE	1822440179	nfvdid	BQFmAAEBEB94g5EPgEGDoFG4irOG_0FgdqrjsrpXD3dFyMfdGZwz-FByntgT5EvzZcAE0ZOfnV-77QHcbnLXo7M4mDzrHTLqV96ozrEVlCkJ26noEI-Jv2psLCQoyjkKNfyiuNDGNBQBe0i3i7_FPug5hALOZunA
+.netflix.com	TRUE	/	TRUE	1822440308	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRAxCdVW1VckJnqFYzVwdy0EiySE_PdoK4AraUCNXWzKnO1na4m2_8zYk_Ah-Edg7-6RptytofOo6WNlWMsC4CDsh4AzjnfjGMhs-k7ReRNfaFMCNt_9Zj7uzBIncCFQfuoIeCRYUP5xJ1BNAeYZapzklBLjzu9sDYK4a3NewFkc_UnDDvpUEbFtV7RAJdojYxdKPQxDrWgLOR-FNnQBhqYWTlc7p8QMqYSYgpjKijClt4TwmJvsbgxN2Wx9PAnRbWVQvj208r8QMa4yuydb3PXsNmiCQsZmVNPwZADWClL_6-bmxFCFcTJVXia6pYNvr9w0nwTDSHyVEV4LGZldmZ7zOWXR3fRxr07fboGlAMavmQGLB-nK2YrTmPWZLPdE6OxEN8pMy-i4efKX-_UCSkj6f6geNnKqq-dwIJ6HrF1_kGKAVY34JbUJmSHEYX4Hs3fnsozTpILl1DTVZwI9Va9EYYkoykWCM7YAKURaeWjAGUG0OkrglmqftzJS-eBbHmfrh6LjsvoJ_QLruS6mcbfJpKGAYiDgoM8B_HgmqxyuXtgbU-%26pg%3DBBNTMKSOM5D5DARSVISYRL2ZPQ%26ch%3DAQEAEAABABTGnfTcpCmZJZrRHcuwcKjSyahPSIadlDs.
+.netflix.com	TRUE	/	TRUE	1822440308	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-8ZBW88xipdVvxhSjVEUPZbAz49DNg_s.%26dt%3D1790904307962
+.netflix.com	TRUE	/	FALSE	1822440310	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+01+2026+22%3A25%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=223b6173-ae2c-4c29-9a06-66af2933d50a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1790904144&intType=3&crTime=1790904145077&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1798680310	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798680310	netflix-sans-normal-3-loaded	true

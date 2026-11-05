@@ -1,0 +1,19 @@
+#USERNAME       : Aadil
+#EMAIL          : puriaadil38@gmail.com
+#PHONE          : +918684893193
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-30
+#DAYS LEFT      : 24 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Aadil
+#CHECKED AT     : 2026-11-05 12:29:09
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798376365	nfvdid	BQFmAAEBEOkEFrM312vC81df8m7BsLpg-RZ_p40Btgn2DNJe_SxXSAVzrDhbK2_fifaFUh0jjq1UfhP-XD6e0kl0tNspyxGa3XIcxKzXm-IGGLhsvvyuYecLaeIVUEwhGpmNCrJvPYv_lvOMAVpkw0Xn1AhnV_FX
+.netflix.com	TRUE	/	TRUE	1821786792	NetflixId	ct%3DBgjHlOvcAxKzA7kIW89RNC8vaYlcLEt3lnTcPFEcwo7PRtLBWeqy_AHhdioyvPywlre3MC2EK1Xy6PSSZHiWooyMaWvqAV4ke7Gx49UsGx80zDU9S7D-0H6Q3Dl1l3-0sS8L9XqpCwxejq3NLeEErV42uxUJ-aoUBSivowGeWohujcC415ac4j4QvvGWQAUWTjUNVyirLm5YHGkAzt1sLi9XsFZ6dAVCTZ4M2RFVHzHC0D7ogtqg4rbYMwx5axEc9ZG-ibBkRzJoAJDUmRObtsT95R1eYjXG8thqxe3JvD7Lga9ZvIyzyFQ-FoDzXPh04onzSV0RnndJ9169rKEmFDH_r4L-gKM5ysvWyw9Lb_AgG1f_9A086uiR4uqkpvlRqmRZF3ra9f29VgpAJMepjHX8SKc1d4L9S5OaS09ZGk8OryAxZtMT9clr3SGEVEX3-ef6igbIFHgNT2orn016XDsND5E-xmk5RBX7zn65tPsrthcH2SjgnhVH2NSX6n9SeQYhEexw-9SUrlDlMHzTjYTb1oatgl_mLlkBvVlWddPlT6arfUmW-caB-o7GO0D0421AopecGbYYbNgyMxgGIg4KDOGh8vSeBZaJwNl8xg..%26ch%3DAQEAEAABABQ_IJ0kRe9fLRLLMLBAeGeo93yuJIzdcLc.%26v%3D3%26pg%3DKPAY5GCVUBBUJA42AKEWRXBR3Y
+.netflix.com	TRUE	/	FALSE	1821786795	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+24+2026+12%3A53%3A15+GMT%2B0100+(British+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9889b33b-ccf0-4a92-ba95-a98b8252058d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1821786792	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSI0JuvvCC8czehRAHalhj1Wy6tOxu5JIk.%26dt%3D1790250791531

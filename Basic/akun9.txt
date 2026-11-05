@@ -1,0 +1,29 @@
+#USERNAME       : Cardinal Carter
+#EMAIL          : jamescartermbongo@gmail.com
+#PHONE          : +254720734405
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2026
+#COUNTRY        : KE
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : CC (2906)
+#EXPIRE         : 2026-12-01
+#DAYS LEFT      : 25 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Cardinal Carter
+#CHECKED AT     : 2026-11-05 09:59:52
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1793624285	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+secured.netflix.com	FALSE	/	TRUE	1828119668	thx_guid	8f01bb2363b62bff612e121eda390a58
+help.netflix.com	FALSE	/	FALSE	1793646466	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+secured.netflix.com	FALSE	/	TRUE	1828119876	tmx_guid	AAw51FeNmBxG1uADjwJ-E87hwuIDi5UJDm2Abny580uWtotpB97Jw8p4tj5vlwn5XS_5GVPowfD1l59zXE73bYdnE-WgPw
+.netflix.com	TRUE	/	FALSE	1825101747	nfvdid	BQFmAAEBEFlRPHKzvntRRU179YxSdbhgoTLCeqlNNff4P4kp0Cg0HorCWA5Jxmd7iQXnN4-MVQdCFWegsM03LYesMIcoWqqoKvRa5QLUHgSqRvYip6MCD4U6f9K6gPyjVajHxHNoAb0F34wNldIXHMM9rrT8HPpC
+.netflix.com	TRUE	/	TRUE	1793656198	gsid	d682af2d-dfe8-42d7-9ffe-59c8b961c88d
+.netflix.com	TRUE	/	TRUE	1825107131	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1UrLp_K5wWyjE0gTO_vkCFmu9c_nr4g8.%26dt%3D1793571131392
+.netflix.com	TRUE	/	TRUE	1825107131	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA5LTNa28kcGe5n3micBHrLuUxVrVzW8Zr_GLIv2NNs_LBFPAd4XLpy85ibq9qjEVFVRGPJceqowx4U_OslMJeJMIsBeI99ikGBiEp6DLoMdkucdnj3sp_HXkqyFOpwxQ7t_4FVR3htKjZa3jJw2fyPU4jq5Wie4MOtl0GWILnf_z_C-X_Tym3IdNXpck0hUeaSDB-8FgBH69axYvVCCs6OD3WvN_dKSC3JsZFBNDDjuuPI2tfjYj7MUxb3rlsubsW7tTpvFMw2V65sCQFPe7M4k2T9qk_3Q03zxf-Ow0zIMXlk5Kwu8hwuV1bSBYpgNz9IntsstOBOY09mftlockIMicZ4YTItikI6DEXr06FYCJx4ns_JDPYiN0FSa1d-913XpOwBXmmk2bQi1fuSyKfbiDzl0eGTKGWwHgKlFxqB7bqCNqTAgPlIh4JYdOASm5AjcTZwCXMvlN-fiblZsA5p2bRMnXWmlb2JW9oTnP8xW9pDKKIlA3x-Cd3mk6kpC8tl3NipCEf1XJC35jJdL529JInO9V-04AFrQYBiIOCgxU5OUePiNMdPqla34.%26pg%3DMOIRKATE45CFJGVOZVMTDO6CNA%26ch%3DAQEAEAABABS88Y-bBbG4kVlp4WPN9ZdP4i9DRSyRXBc.
+.netflix.com	TRUE	/	FALSE	1793597960	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1793606992	flwssn	5c12a895-9e96-47ec-8c9b-452876f41477
+.netflix.com	TRUE	/	FALSE	1801372192	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1825132192	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+02+2026+08%3A09%3A52+GMT%2B0300+(East+Africa+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e93dde84-f20e-4cb7-8328-7b7f8b83182d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1793340627222
+.netflix.com	TRUE	/	FALSE	1801372192	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801372192	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,25 @@
+#USERNAME       : Elizabeth
+#EMAIL          : uriberebeca0@gmail.com
+#PHONE          : +18296984610
+#EMAIL VERIFIED : Yes
+#CREATED        : enero de 2026
+#COUNTRY        : DO
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (0209)
+#EXPIRE         : 2026-11-27
+#DAYS LEFT      : 21 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Nicole
+#CHECKED AT     : 2026-11-05 11:36:26
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803592988	nfvdid	BQFmAAEBEJfK9izNQSlEI6E3HmxLysVg8HftvtIT1-Gf7zhcwBun5lmtF94A2s2OaDEZpxu9bCGZnZF7rG2nu56Ck_nOLokZet6bge0ItYNijISexWZvGeL-PhQWqE7Hn7HWGShbcZYsuiXJjWJob4t6en5r8Cub
+.netflix.com	TRUE	/	TRUE	1824679317	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8uPGSBao3lvMq1OFd-36Xmm7BaKklVGw.%26dt%3D1793143318889
+.netflix.com	TRUE	/	TRUE	1824679317	NetflixId	ct%3DBgjHlOvcAxKHBH2UsxaMcYzMMdUJCp7R-nJbQAbub3xFTSxfFPBrdbNvz3WW4rUScWAhNdykwp7h6fl_Z815-fngtXrKSyF5H_U-QYH5VvL2jaGrwQxjz7zUelQZ4GcENRBMixlStBKfHUI_oGWscLVY635wJ0G6Q8cOaDULLiQveNtI3p9DZWWg59VbpxUX8c2KWwjuNsqC0NkK2ECYrjbE5jPvVH7o3RGlw4JK5IQ5mv6qz16PC5afaq4MjJh6MdJYTxekwKeW4qpKVzSJ3X3HQPjiPfucDPlY2x-xQ2r-Ot9P7P2RcjjO9_sy6YtLN5DSAq_bPR6AzirUDSMOg3yig9g-EYkLDcJ2Fwd4V_fHzLwPVO0IXAWl8Q76x24n9SBwBVJcRNwpzM2vEGs2s5sYSbWiZbNGk6pPHiDqTXvKt7a_NIuJ5IMYuLi2YcAiUCujkGv_w1VUN4rqTztg0pOXElalld8LXWFp3V8962XiarmX43vUD1rctVUCbkj_NPS9zHmiqT1TmLTesz9W_F32ME3u-yF_k63-6MLVfiyhSPjJchfQUQwQRJXSUPes2U7OB4N-crzpEOPULdJbIq5i5oh1An98U9iBYOTlG2oD6LFMTJgjLZNegDbFy-HVP9_E5TRI5ypcAaLomkD1RaP2Wdln7KBBS2OKMmcLbATk2dFKX1KUi9_WAx0wdvxwyhgGIg4KDLe8QGBs3E9cI1ppBw..%26ch%3DAQEAEAABABSfG_QL_ts7Q5_UTWLzVzU1aIJFiflhR1Y.%26v%3D3%26pg%3DLYDSKIQURFEMTNX5YYWICDFMZE
+.netflix.com	TRUE	/	TRUE	1793229720	gsid	02f9aacc-bc2f-4333-97f8-d355297e9b22
+www.netflix.com	FALSE	/	FALSE	1793229728	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1800929750	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800929750	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800929750	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1824689770	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+27+2026+22%3A16%3A10+GMT-0400+(hora+de+verano+oriental)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=971e0db3-d4bd-48a1-ae17-bf2c44cd493c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768443929300&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1793178539	profilesNewSession	0

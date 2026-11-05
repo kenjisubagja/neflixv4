@@ -1,0 +1,21 @@
+#USERNAME       : Sharon
+#EMAIL          : kkmalhi12@icloud.com
+#PHONE          : +447423277768
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard with adverts | HD | 2 Streams
+#PAYMENT METHOD : CC (5611)
+#EXPIRE         : 2026-11-13
+#DAYS LEFT      : 7 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Kamal
+#CHECKED AT     : 2026-11-05 12:32:39
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1814799832	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+05+2026+16%3A03%3A52+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ebad0ae-2c5d-43b9-a761-60ac78912113&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1791039832	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791039832	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791039832	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1814914681	NetflixId	ct%3DBgjHlOvcAxKABM-RONvEd7QvPZjdFDmN4acCw2rBTyTK2ZOlInV6Agw7NKt7DWqcpwEsrnWRCsfYrNeRmiU_YL5k37ZdGic1snkd0ArYch9m3Eqh_tvdmT8PjmGlPQGw4VCs1n3k3xdJLoXRUagCLNtCZ0MpjEL8ftQ7ooWEmlEAfXPNdiJ0U1mTSqbEpTqalhkhniKjR_m3S4pt7lD66OIO4ZMGtU1Ztsf6Y3jk4jyUYdRMjmfbtZq2NkwR609CBMZeg_LG67jy_Ed7fSTiUY1uoVhTQ9iSum_7zOT76hVMBHwGZAQX6qIDDKbSgTBZkIt-HtvvIu4Hh-snaWdx1KIMckjiD5aSGp9GSnYPeyVEs0RnjvjZuqjEG1Kfaz6VrFSZUZeXtfiEZI4Lh7ZOZd6UL4ktLimn-cmamF8_7fvZ2JPsgo-WWuyG6wsYN3g6PP48LwexRMZKFtAC7LE1HWuL8OSgZMvYRTbhiWapJ1Qh20uMYnSttysWD1WjQwHqS9_h1R5E-_XxOvceaIGSHoRrNaf5mB7F6VJsFVcqmFiv2bQptmNyPv4OOBmmZU_slBANXmdKVpylJbeJNd94LEIqY3zR6QcDMXi40tPyeOlCqbhsNFquC7-IgBLO3OSrxmKfbbKiLMjBKhDFXan2-kx_thf5BF6pU5SM6t6wPjNcG80O2FFJFEABGAYiDgoMC26LtG_uVXQ5_XHd%26ch%3DAQEAEAABABTX7N7E85s_XHVmN7lQ07QDJ_uxAaTMkM0.%26v%3D3%26pg%3DFEBTZT6UKBGDBKE5DSAV5LEMXQ
+.netflix.com	TRUE	/	TRUE	1814914681	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgP6dAoBkvOPk9WYkBJ4HOmenycN2P2AE.%26dt%3D1783378681792

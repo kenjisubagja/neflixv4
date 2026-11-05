@@ -1,0 +1,19 @@
+#USERNAME       : Jose Luis
+#EMAIL          : cati2479@gmail.com
+#PHONE          : +34637301046
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2024
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : CC (3012)
+#EXPIRE         : 2026-11-30
+#DAYS LEFT      : 24 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Catalina
+#CHECKED AT     : 2026-11-05 12:00:12
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805716726	dsca	customer
+.netflix.com	TRUE	/	TRUE	1815388921	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_eQA-kIySQimQkJolO91Jn1Wep5BhLy98Z9QMdwgWsAJ7ajeG6-q03nRh4rNh8QtJ8GQ7RqX8gwfIKFHqo4NrKJY_xsz4QDjLVUa2dF9l8JQcBFNEf6GShHgXUnqOYhL8c58H0cNfeGoYAPjGYiaigflC_55NrFitlTIJQWetCAQ1YUKtmER60cvpCCjcHiKn4CdB1mH2d6h3LedxbKd2B8KUZ6FchNGeTIq1QgSTS15xjUQzwT7YDca_glVs4dGPfxm7QU09m7SFfcscwGDlcUgNgV0agVidsMyOHQG2xApans8A0uBXyyXtd3PcAMCCbvPEOmx_NKIhuasqOf_o6Vr97UzXyGhYP8N-JVR0tsQJoidH_p5h9WvdLVbBgbX2zTn1hjZJiPaXOLjac1F6KoW-xCUsiA3ITye6wXaf6ce9bddPdHhX6L3R-LMxFlsLpKQS10Q7OB1-UOnzZ-FydQBTSW38M_8MPNpaYYqv8HiILL6kcxcj_VQsmDtpkruswvIbhQAbzyBi0bII04MNq3K67SFAPJiXwIGAYiDgoMPHUsmApSLgH3k5Vd%26pg%3DPCE7MQXQUZAW3MMIWVXIRGOZ4E%26ch%3DAQEAEAABABQqwUVw2G6pHjVPKZnQJZAtDE7LCATVybY.
+.netflix.com	TRUE	/	TRUE	1815388921	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-pVcowhMSGzm6rygcd1mDc79y8zjYKAE.%26dt%3D1783853036285
+.netflix.com	TRUE	/	FALSE	1815389494	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+12+2026+12%3A51%3A34+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c934e287-4876-4f1b-9f1d-6e016346645f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BVC&prevHadToken=0&isDntEnabled=0

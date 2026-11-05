@@ -1,0 +1,22 @@
+#USERNAME       : Jose panchito
+#EMAIL          : jvegiani@gmail.com
+#PHONE          : +541158927435
+#EMAIL VERIFIED : Yes
+#CREATED        : Juli 2026
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (2049)
+#EXPIRE         : 2026-11-13
+#DAYS LEFT      : 7 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Jose panchito
+#CHECKED AT     : 2026-11-05 10:15:57
+#==================================================
+
+secured.netflix.com	FALSE	/	TRUE	1800728936	thx_guid	eeae38c2338f95ae98e9b4ec45f2244a
+secured.netflix.com	FALSE	/	TRUE	1808937756	tmx_guid	AAwQjbaIiUpjDzZt-_PCHvBxSY8Gg0LJUnfV9WKffheTUim43vBbboxRCqF1c1Hx02YGLS34d7O_c-rpmPdYQHHP-Tc3LA
+.netflix.com	TRUE	/	FALSE	1810147098	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15%3A38%3A18+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ea745ba-e266-458a-b00a-ceb597065f2a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786387096	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786387096	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1810229164	NetflixId	ct%3DBgjHlOvcAxKJBI4mp8a3_o8U5CGyvR1V_Wc9p-69f9gfsHmieBSDmP_Q8w--R2Z6R88naF4F9HjuJJhZU5_23c5_5dKgx03BDwNnZ3O9BGB8gpFblBl5xZh5EJUgrhC43lhhgGPRaBOdmMO1x3kNxt7CLQl_k3hbHtC6Egn1nQw86p7_sFyOSlpYu_Ff-HTriuA3QcA4PFZv_ldgiIpRFvu3urFEd5r8qxiZgsJFrEgo7SYk1K8NJ_eRmTVh6TRSP0J_Hw60T0j_XmZHgOXJcrLdlOM_gie-b8rL_WHmRMwwRO1jdPo_6mcjTSDIjbFBzj19-QPyUR2wAOvXYLiXr6p141T3iGOb8V2nze7FG58-9qO17GXN9g0w5rL2UQF2riGHjZx0qrXPUereKsvQjndgjdRZ8kCG3xBIPvDZuJOS5njqTS58Ug8yoCmq59y646iqEcljIrej_AhhVtcpyovErSh89uZRcsTcw6u3RwX7izgK5_YWSA9m0h4DW6SwqRuqpynrx0Dk19-U66it9CWZXO-cKXzmtTqMKShl8k0liv9qtR_WXzzxN3_8-smeCE9HlHYlZq_yGrMBGutIyg-gO83jiEFyBA8Kwfk4YejW2u1Hvol48NlX6Ko3aupJo0lplWMaol3fSq4BX3p_9dnotG-xbv0dJFYiCwEvL3aW4KphRwpcLWm86qrr8BQerVKUGAYiDgoMzD05eCISUpbyVAoi%26ch%3DAQEAEAABABQBDX74M7nCjWRJHn67Oi9J8EQE2iKt42Q.%26v%3D3%26pg%3D5Y5GBBPJEJEGFDPIJU5Q5GN7Y4
+.netflix.com	TRUE	/	TRUE	1810229164	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTV9juSpdqIi-CHWOCU6-UZ7EPubykqr0s.%26dt%3D1778693164638

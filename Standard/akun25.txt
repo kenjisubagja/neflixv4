@@ -1,0 +1,21 @@
+#USERNAME       : pas
+#EMAIL          : sylvain.becquet2812@orange.fr
+#PHONE          : +33664385143
+#EMAIL VERIFIED : Yes
+#CREATED        : janvier 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (8248)
+#EXPIRE         : 2026-11-22
+#DAYS LEFT      : 16 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Vous
+#CHECKED AT     : 2026-11-05 12:13:26
+#==================================================
+
+﻿.netflix.com	FALSE	/	TRUE	1795285638	dsca	true
+.netflix.com	TRUE	/	TRUE	1814644155	NetflixId	ct%3DBgjHlOvcAxKDBCbVpFAjlrRnTbEKbEKFnLju1UG_jIuETwV8OQk3mg5rvhXJ5hPrxCFdwYhNSxnhuBRp0rE_-wg81OS_oYU0QQtOt-OlQOV6QEOjp5DDJ6GkXTlP74_jiiWsKgDvMle7url4Q0dhXTnGpIUSMnYvmbn8R6RZ7SoXwTgqiyIK4GxD1noVCehBWmlnqtSKzXUkfu5kzByRUo0RfHewb51alakEWXkdgiqoSp5QF3WOo69UzazBDoItXUOcheP86X8GZWzKP__GyOFjqMjxiKd9F7gIeIVswXDzKp20q5fSX_RuuYe6w_i6e1H0tm2l497KLVGaJ1p3lKNrg4KMtzFt0zC7rdPkQstnzFLuNmC91yRxA17Lwwxa9s8rruFmQR92P7vKL2Ngcjq6-hIjfz4H6iFTUrwG4rLBGMbmnApAjdpQjhjMSwZ4fggHnzv80VAggazNoWZbV8YGRIWUcIVYc4xU3ZDUDKTK_V6uvM4QuxE6ivBicTUDfh7JKHQmvtVj8tWbu28s_eEvZYNAYusUdGMLTbJ9kQBIPEeMDREJ6-k8ivPa-44img4dI6Wv87V891VX3_smRglie_lL0JX3ui28Z3wCy-c2ueW-vzA_nkrvLNnKY9D17du0R8qOVk9GVPGz3vkBy3H-fZ0c9Eh1Mczm-X59UIDsHb4hJU8v636t4KbFGAYiDgoM58dLXrdbVHQIBNL6%26ch%3DAQEAEAABABT8fsZJcnpk8RmlWaw3Xx2he5rQMZROTnQ.%26v%3D3%26pg%3DYW4SFHCS5RCSLJO56IFC274CI4
+.netflix.com	TRUE	/	FALSE	1814644159	OptanonAlertBoxClosed	2026-07-03T19:49:19.913Z
+.netflix.com	TRUE	/	FALSE	1814644160	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+03+2026+21%3A49%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=860733b6-c3dd-4b32-ac24-b3626f6f8d2f&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA&isDntEnabled=0&prevHadToken=0&fclco=&crTime=1783108160184
+.netflix.com	TRUE	/	TRUE	1814644155	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRPqPy_W2bxxtftqWND8-4JnaspEAbqWQ.%26dt%3D1783108155589
+.netflix.com	TRUE	/	FALSE	1814644155	nfvdid	BQFmAAEBEOpoT6oo3ZUrYMCpZD5DbyFgsKd-f_bC9vabOmesQkqHVJy7IGiweQh2-uexFwdu-Dnz4Nbuv43G5MU-N8ZMj0ZbJ2S_AmkHj5bCGFFq5b-TlQoLp3xQ_9aZO2TU0zmewlNKmPWielokK8-7ZNcmD4Mi
