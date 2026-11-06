@@ -1,0 +1,27 @@
+#USERNAME       : Henrique
+#EMAIL          : henriqueabt13@gmail.com
+#PHONE          : +5563981016672
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Standard with ads | HD | 2 Streams
+#PAYMENT METHOD : DC (2053)
+#EXPIRE         : 2026-11-11
+#DAYS LEFT      : 4 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Henrique
+#CHECKED AT     : 2026-11-06 03:41:49
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1790742947	flwssn	0b67e0d7-e3f6-4684-a089-7059a7c36444
+.netflix.com	TRUE	/	TRUE	1790818547	gsid	f164b397-5275-4024-8eb7-2ea4238df756
+.netflix.com	TRUE	/	TRUE	1825292201	nap	BgimwOvcAxJJPR-wlgDlgacIG58IoS5qzc91A2Sy5h0FloSsQONZ8kuqhMhTFUtUzp44OmqdgsoK31-MXJRsO_-jxDi2QyX4jk3gAr3D5v6V_xgGIg4KDK9n5xS709LNUKdxMQ..
+.netflix.com	TRUE	/	TRUE	1822268199	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA0PX4H065M6fV0UCJPig0BNi5jorrbQhtKo6BNQXHtN6dUQRw-5H9ymiw1f1QSRgXd9Ek0RR4A3ix2HF2lTqr1Rg6O5KVLUkYSSGfQMJ0CFAroN7ELIP76bz-if3Wjq-0difjDeabsqzcS2s4eO0DvQ8HMYdeUoiW3_d8oL6mKUN2-bySl1-LDsLHvLyoNVT7wPn-fVxW0dctCVdb2ebtWO4WeqTo6Pl8etw7Xz4uTUroQIMo9ReRK3H9sKCZIQKtyxSuyj19lJKW_qS3VfcSxZh934QqhpsXpfsIPyptIvCXwAffkcfnzByi0dNon3ipLZRgWNlJe_pnkdt54Z_MbmwCDCZJcd3ptNb7yTwjBhxjtstQIMhUxSUkTBKQphwQcZMcZmNJqP-nEeOp0iBhC51IVlDRcHkG87LWnDPwHa1L1Qo1ma6VxQ6OBgBJeI_0jte-ceE6aDHMrzd1hpUBAi5UkPmAJDO5S1gO6GMqz9bWrElNEqQ-Yh7WBiELtgzWUX5UHSkvrXFVTxJNSH9HwSDuoA5BmAJ2Vj2pijAlhdUlhgGIg4KDBTghQV2uQmAWUauEg..%26pg%3D54LKTTDGHJAEXNWVQGSPI7WF6I%26ch%3DAQEAEAABABQMs_-bkUKYt4Fgg9jMF9DtWp6_eCb2DB0.
+.netflix.com	TRUE	/	FALSE	1798508201	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798508201	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1822268199	nfvdid	BQFmAAEBEFrsJkdcvFgBpNPFSuRbvNxgE3gpO1igESPZm4oSLTFWvHn9vhy_bnfnrdz0L2K99lmZfQof3JN3bg8MOGDy3tjaAoVQqdxy667la0mg1dB0coZIjw51-xT6ux31aCUIWz_LLrCkLEUOQPOLD09hDlKt
+.netflix.com	TRUE	/	FALSE	1822268176	OptanonAlertBoxClosed	2026-09-30T01:36:16.381Z
+.netflix.com	TRUE	/	FALSE	1822268201	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+29+2026+22%3A36%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0a1ad246-6cdf-442c-837b-88bc616f0147&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1790732176&intType=3&crTime=1790732152528&geolocation=BR%3BTO&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1790742850	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1822268199	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQQFIg0IjqFSpNVD2CUg24enpH6L1eYTZw.%26dt%3D1790732199652
+www.netflix.com	FALSE	/	FALSE	1790818549	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

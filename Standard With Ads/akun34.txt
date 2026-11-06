@@ -1,0 +1,25 @@
+#USERNAME       : Bruja
+#EMAIL          : lydiababianorena@gmail.com
+#PHONE          : +34685535259
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : CC (8608)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Bruja
+#CHECKED AT     : 2026-11-06 07:44:19
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811713531	OptanonAlertBoxClosed	2026-05-30T21:45:31.916Z
+.netflix.com	TRUE	/	TRUE	1796488559	gsid	65ed9ce5-e3e4-47c5-81b2-4dadee595d44
+.netflix.com	TRUE	/	TRUE	1811713638	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA6HxwNI8o0-prjxJoFWxT5e6T6rx-zhlHpj7eQwcCcSZKvVOQs1hwuGgVRU8FJXtcQZrfqZIUeKCxM3g-PAD2GDU3PixOBDtuy7qvMcch7M-BEkJFufqiwaJgcr1oq1Mxbo3n9pdHnph8eJaeLD_BkYzwehKGDvCx_7W_J8eqzCgFm5GSNnVgXhFOLzuGS0e698Hpl0K48xR1N7yDJz1NdqBoqz5hLTomj5-ObqSCYiiXpaqiROFG384cHSQmIQ9rWuimBDKIDwAlknpV8BQ-_jliPMTKDO9DqQ-t2XDVDF1mDX2Sz4aDBQXWBikzZJVe0n2E6PdNczmuYHHGsMf75BWy-3UucyA1hw_DdyBpkFumg5REfcC77AFWRI9-K8DV3jQG7NIPcJz2z6fq47usyz_1Lv7ijCS-GKPHi8YmRYmgSOQTaI4xw35Jjr9kZ04hLN31JbYYOZ-zfZPXUAJg8gq9QFyVlebKCXDJbq_a9R-Jiv1l2jq20UidBwiYdbnNA1ixhABV0cI-zqSvPDVQmgEoS15ObQQNlZRqUlIyRgGIg4KDI67RstbfGAR5Ndryw..%26pg%3DASLV3R4G7RGGTLSBTQRVOBKNKE%26ch%3DAQEAEAABABQAkYrB5Z7rk76zC_WFP0pls0QHYXu1O8M.
+.netflix.com	TRUE	/	FALSE	1811713641	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+23%3A47%3A21+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0d5171e7-e581-4539-a83c-91fdd31b1dc4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1780177532469&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811713638	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRyj7a1QKrxAnBLUsCJRYgqBuaJlKC80gU.%26dt%3D1780177639455
+.netflix.com	TRUE	/	TRUE	1814737640	nap	BgjduevcAxJJmQ6-95VEZcoW0zya7YHzIwDHGhICMH92odgi-Bq8QyzJex2OpKBBTh55W5WkvSZdRYq_WTtyXBUk735sG3X-E-KjLZelRkkV_BgGIg4KDK2W8vRXQ3bi0aQong..
+.netflix.com	TRUE	/	FALSE	1796488559	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488559	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811713638	nfvdid	BQFmAAEBEDSRZJDlgnmv1dmCFlXOTLtgSqbxCYsTbw6AmTXajMoSlv_YuU9eGi2wBNxVHDD25qTMnvCFTCUqKhopfXfrw7GiiwBVIlTG0-DZHyy0VrMpPtOhC1pCK2M67VVyuOvu1w0pqFg3x_YvCqiFpCvOeBbj
+.netflix.com	TRUE	/	FALSE	1796488559	profilesNewSession	0

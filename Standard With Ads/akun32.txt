@@ -1,0 +1,20 @@
+#USERNAME       : Jean
+#EMAIL          : jc543991@gmail.com
+#PHONE          : +5547988514405
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (4211)
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 26 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Jean
+#CHECKED AT     : 2026-11-06 02:35:40
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1804464133	NetflixId	ct%3DBgjHlOvcAxK3A7UoPoY6_PzHTri8cGRbisKIzQJxyySf2Xfje7xJvZQqUSdgwDLptzjJItN-7aHmH2pl5bkN6Wd0dqijQbzIDTq0jiNPTKuehT57jTyBLt2TXFScyzjmpLnUsBMRLZnk_XeSh6qoSi8Ssk1rMJsBUQSk1sOZKnLdrOQNVUDZjRzK01aiM4WuAR_njJ0PKlij2rUafrwCPFg0qjHFT4Zjby_i7mfvj9fWtev16uNB875IAzCEI7ISOke6oEI-J3wHR2SOMaxfS8Ut1MasjD-BOgocVbB8dZ_f9Fx9L-oakzKbIck6KEtKF4B1TeInDpd_cpnMgS9rhIOVyC7KcWZ2FDX4tqI1hQqyDfqj1bqGpkuLc7mzUo_yMF26kz3FkbUagdbtGvm4RP7K4GZhimK3x-FUuPS30i4P3LZZK6PHLLIgX8QAwaw1uZYGK15ewDN05yJbc84NdhGQ2oFdCmAaHT-g5lVkVnUzjLmD5VuKvnxkdQem0LAFjE61-oNSUvrrfYs2qC_Cusr1UjUeNd9JUFy_XNS7gJwEL0C2CfxMTZxF7yVpXWt0G1qVQa5rRUNd_e_p0TirpU0YBiIOCgyb02jkb_eLk4MAUPA.%26ch%3DAQEAEAABABSL43QDjksu5qFkezLPUkhA2glocMBOy0k.%26v%3D3%26pg%3DKDI2LMG27FFT7FEZOQSGZTYUMM
+.netflix.com	TRUE	/	FALSE	1801157466	nfvdid	BQFmAAEBEHZORynNipYpPfXCzhAGrgVgebIZ_TfAU0FanLBXI22dHa0nrJzQiDAHubWYrDEakJZEx_5pcVrHxCY9-ScEdN6OAiSk2WAQcWEOWTUZ74uWbn-SMPPrKLWBNj4pHMeTTOkgV7cBp-AqlOItCXiHXSeO
+.netflix.com	TRUE	/	FALSE	1801157412	OptanonAlertBoxClosed	2026-01-28T17:30:12.421Z
+.netflix.com	TRUE	/	FALSE	1804464325	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+21%3A05%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c337a628-a672-41fe-b2d9-9364cfe32ace&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769621412818&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC
+.netflix.com	TRUE	/	TRUE	1804464133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhh92PhaNgQ1o--FjXmIHiwANn_CjAHwI.%26dt%3D1772928138141

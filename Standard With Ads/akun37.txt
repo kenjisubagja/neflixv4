@@ -1,0 +1,22 @@
+#USERNAME       : Santi
+#EMAIL          : carie.gasz8@gmail.com
+#PHONE          : +524481101215
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2024
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : CC (0963)
+#EXPIRE         : 2026-11-08
+#DAYS LEFT      : 1 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Ayanné Caríe
+#CHECKED AT     : 2026-11-06 07:44:22
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1821144419	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA4r_Cy9KYcFvGHTdckJ51JxQrvq59mgwAJOkGrJUoZXJfB5mpCky_M9SrOxMnf-6ijdOI86PDoIeAbtu9rDOi0crHOvV2Ye6blu25JdapslFG3oE4l-U7H-IIblDR6vllesFFBmCRlTGNlqH8RRZ0WOkQ2STBRP6PepB5YEa9J13jtnpzNN3KbnUNNqF_8hXcrRNGFGwtmhUxHbNeXsUQ02RP1oySYdscsLRbiLaMhJU0el7v27aFzEyybwQmGTFB_2ux4_sZ5eXBJe_vVS6YtObm3RdLTjfgIyB_cYlKK5HYibQ8aZ40brpsGOwoBE4ivo5v-Ygx1rpjiOO12RuYgxS_jhLzyomYz1EpTYKjg0ddJ0yPRMuwoNpc0ITIAlUGOW6huU0jpIkLZhdaReRLa5gHi4epBB0kAuyxxAMMKcwTu3XTayS8v_lHmE58CO43QJI4jFoN2Xb3egMSvYhGttxECtldKc8oTYC4Pg8sGo6OfIBef3Eg9eSXdfHeLpVSJV3OiAWOR8PT_seXSo4lTcs5h0MqFFXF3gYBiIOCgwP9IwvVQdkICVOiDA.%26pg%3DOHAKA46B2BHKZKBHJMTY47XKWM%26ch%3DAQEAEAABABRXMfFcgi7aWR1uRwof33djGWUia7AuVsU.
+.netflix.com	TRUE	/	FALSE	1797384421	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797384421	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1821144413	nfvdid	BQFmAAEBECc7xzU4dD_OaBBUVm4OCRVgyQrDB6vLwplhcec0ljR6vgOu9TRjvROmYOExCPshPYFn6lWVaEUx-1Sl2vwVGvxMfu6lobf02NmxlzLCJ1dZ_86aXD-ek5YHD8pCVpr6_zNs5bu8klzVXfEMrsFywjFd
+.netflix.com	TRUE	/	FALSE	1821144479	OptanonAlertBoxClosed	2026-09-17T01:27:59.624Z
+.netflix.com	TRUE	/	FALSE	1821144479	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+16+2026+19%3A27%3A59+GMT-0600+(hora+est%C3%A1ndar+central)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c05b7ebe-47cb-4930-bff6-894ac2c2e382&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789608479811&AwaitingReconsent=false&fclco=&lastConsentTs=1789608479&intType=3
+.netflix.com	TRUE	/	TRUE	1821144419	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXVaRptQORwRb9rO51ZIpDvKY6z0B8inw.%26dt%3D1789608418979

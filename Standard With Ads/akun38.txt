@@ -1,0 +1,25 @@
+#USERNAME       : L0BR3G0
+#EMAIL          : l0br3g0s@gmail.com
+#PHONE          : +525647594114
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2026
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : CC (1900)
+#EXPIRE         : 2026-11-21
+#DAYS LEFT      : 14 Days
+#EXTRA MEMBER   : No
+#PROFILES       : L0BR3G0
+#CHECKED AT     : 2026-11-06 07:44:23
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488540	gsid	62f04619-ccd2-458f-a193-6aa0838cec06
+.netflix.com	TRUE	/	TRUE	1825534626	nap	BgimwOvcAxJJzOf-p-ejU_oU5LRo-c6WtOoUmwKpxYvS0ShtRHWqBxZiuI-sGbyy3Djm2UM1T_B1PFIlFFw6mGZrI5XOrYzpScewnk5-ZiZBWxgGIg4KDJWxb5rM-E1c1uoeRw..
+.netflix.com	TRUE	/	TRUE	1822510626	NetflixId	ct%3DBgjHlOvcAxKvAwLfB2AcPA9ngI609xBTUip2gN4DHl8LtZk3hps_OfojErOqjzvNTPpanwDAWoLLPog_gphrhj4r0_VAaBBEJqYNDlpQDPiyDRBybU6uwCa-EeiVDDXdhCxW8ehDKYKZ-8egAumy2wgMMt74W1DfVu75KEmXy2epnTHJU6HMmu9jh9TNhX20jAVE2mTY2F76Egd7DMixYxtKrtDFmHa7-gXyve7JBEF4NNRsmQ_R3hyKgo653puT_cQ81QJwIpERERVweihpOTVhrgnAID4v4ncYnX7UNXbsAtQxqb66SFc56z7ROJ609oYXSuHyyP-6fJtV_juF_QRwr4CHpzbpkOwYbezRCq5rSd-IGkVUd1MsVIzX9rZB_xkHYwJL_5yC4gG30jkvDecb5cOY-x_DiigG37U_UkaWnEjp6CzYzIHIMjkAt3xiekTO1QwtJVpYYyW9_MuKzTBYr-0EYwhpQz5mQM3vAyM1w4AzuXfI-LtDioJTG7itYLhdbbWrrl2J86MNckYfuTdMNOTPyz8Rf7ZE6EudprZlEDaJ8sWG4xwufQ0HLfBSON_3ibp1f9S1GAYiDgoMG4_kj7MKIi7PvHrG%26ch%3DAQEAEAABABR5VGHd3I9qOufrSvZmp4m-ZA8Q_45iEKI.%26v%3D3%26pg%3D6J4W6DICW5CXHAUP7AFKDKPCKU
+.netflix.com	TRUE	/	FALSE	1798750626	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798750626	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1822422666	nfvdid	BQFmAAEBEM4HvULbpTX7jkAKiSFIHXtgL4JULhXHjtJF0dg-nYlsduBFM8allXbkdcGq7gSOUZDv1aZKRMLRD1VZLXB-L9Yzf_2h4As412usa1WIEkBANULE-je33kMnM0-cdW0vUAY4JLswj0VoVbH6tTZA3Iun
+.netflix.com	TRUE	/	FALSE	1799526376	OptanonAlertBoxClosed	2026-01-09T20:26:16.288Z
+.netflix.com	TRUE	/	FALSE	1822423276	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+01+2026+14%3A41%3A16+GMT-0600+(hora+est%C3%A1ndar+central)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf8abaa7-cc10-4c90-939e-93a89ed0d6bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCMX&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1798750626	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1822510626	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTy2kWV0c69IiVvTa-kU3IePs864NfdQN4.%26dt%3D1790974626737

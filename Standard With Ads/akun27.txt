@@ -1,24 +1,24 @@
-#USERNAME       : DEEP
-#EMAIL          : thecreepdeep@gmail.com
-#PHONE          : +447904933637
+#USERNAME       : Nyllo
+#EMAIL          : agdasilva303@gmail.com
+#PHONE          : +5583987654145
 #EMAIL VERIFIED : Yes
-#CREATED        : September 2026
-#COUNTRY        : United Kingdom 🇬🇧
-#PLAN           : Standard with ads | HD | 2 Streams
-#PAYMENT METHOD : DCB
-#EXPIRE         : 2026-11-25
-#DAYS LEFT      : 19 Days
+#CREATED        : março de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (5336)
+#EXPIRE         : 2026-11-22
+#DAYS LEFT      : 15 Days
 #EXTRA MEMBER   : No
-#PROFILES       : DEEP
-#CHECKED AT     : 2026-11-05 12:28:05
+#PROFILES       : Nyllo
+#CHECKED AT     : 2026-11-06 07:44:15
 #==================================================
 
-.netflix.com	TRUE	/	FALSE	1819473803	OptanonAlertBoxClosed	2026-08-28T17:23:23.350Z
-.netflix.com	TRUE	/	FALSE	1819658083	nfvdid	BQFmAAEBEGeUA8RA5_iks6uqmOZb1jRgTbSqvlU-1Nne4UrXtnCyIxtwDFu7RX3a7YvSKgUF39BxcIn4FyPu__i73JNIOv1N1yplfkMK2-9v8-Nmw1CHOv3-j_pcNyawVYwxuHIpYWIKj91XE7-koZghi6SCEi4Y
-.netflix.com	TRUE	/	TRUE	1824937438	dsca	true
-.netflix.com	TRUE	/	FALSE	1824413987	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+22%3A39%3A47+GMT%2B0100+(British+Summer+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc182b47-f500-4b4b-9e47-2989c3d700e3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&isDntEnabled=0&prevHadToken=0&fclco=&lastConsentTs=1787937803&crTime=1787937803687
-.netflix.com	TRUE	/	FALSE	1800653987	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1800653987	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1800653987	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
-.netflix.com	TRUE	/	TRUE	1824480899	NetflixId	ct%3DBgjHlOvcAxKHBJY0RGLfxfAAJRnuNYVZ4qKS3fEu5qH-MFwHsANvhiShK6UQOw0VWkCJHdUltqT14AMP2KuReP0jxBB1mpvcIO1L4kACEiu_w5nmoyByw1UUO5QOpXd7c4lzwGKx_Ledy7n_G0nfF22kKjgNMEm8_jjmgyFS2OuAo7yWHv1j896RXbYTzOlc19NpzHlw0QoPjEhBnXILGQW0WciGz3cZNTK7QM0tZlGuiBbuuV0EpQZSal5FvtF8yehq4AWl4lU9p5rPPjqeqBMVc-ctAem4n-8UHjdPpzISurkIDruQm_CnuaoTCG26sOTytTwq4hqAkglRUy806y5eaGc0CfAd47Enc-z8kl7dxOrD8gmFphHGa8yh4un46HHZMjdAaAcs_VOg6KHpoYkmv-VqOBfiLiAuDx0gabbLoCNFapG1Kq09w8WHXxmsgpGtF6af_avSqccAhgOYzD0tfoGKMs0RJUTki4c7fEhrKcLKd6lyOTz2LQxfxbek6iuqjFdzYXWTMSSZivTj3UVPd3uuxwiMI0APaxxtT3_uVBbYCwcIgEQwj555S5oy4QFIy_cMl12DWijSmreWwoRw2Rez_cDc_YhvHSIVN09Lnxi-pndeL8V7iKiJ9OiDj_xRwn8-U4PcjNMPsODtFRoOduUVQjhgeD4h4p-7YPd7VC6grL2kQayLUE2jYx-IjRgGIg4KDKvkMpu_c97p5Fc7BQ..%26ch%3DAQEAEAABABTO5DZ9SI4fSUwWB_Iy9904QtoxZiM7Cxc.%26v%3D3%26pg%3DTVCPHFO7KZAZXHC2J3BBONVIWY
-.netflix.com	TRUE	/	TRUE	1824480899	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiPpcyo3PjnNz4RLkoueayvDiHdkg5Hek.%26dt%3D1792944899315
+.netflix.com	TRUE	/	TRUE	1796488539	gsid	63c8e6b8-70fe-4dae-881a-b7f4b862ba90
+.netflix.com	TRUE	/	TRUE	1822277633	NetflixId	ct%3DBgjHlOvcAxKDBMkEM0xd9mL1f4YM-0KafQF2GpmUZy7JZBiiLWAeIGELQg89kCI1WD-axrEF6P0k8Vv23pbs2tNvNMlZWwzgLjKfWCk_aso2yPWLjAH705oPC6mBvhWiVaY3mgkXJXgjD_t8ytahFUiXHYUtxqtAsz7HEDdN7TnEcagC5XL8aBceK7HRRZ2SbdYiZzJmrXi05DoALOV9GFKz-UIqQizvzvHwy5vaBiUVUBv3_EEdXgN-cptAVMIFtfzycdYPOQattF65UsjgWua1pIXPFojhrofqVms7HNAYPVG7-OvyrRXHtUlkEscAY1vJblapQIcc0NBjsE3UdpRB-lmnERB965PBjRk3aYNfjr7H7in2Z8Q-xWxuxQZ1DVhE4PrJ-G_9KgL9nK4BVeyfiCsYC6mHUqHkUeHa8XHDGHNiJtMzfU-9EVVuAB3ZcUcIcLaSFKKsk7IgUkldphXBugnWniIF3B1mfyo99mry5paL2iyKOrk-PE2t8MfTD1XRO-3qBVsbmXunuk1rvTBmfb0jGd9xp7i5AFBetbCPKAgyWtlV2PRJnYMkeIYuFwaw9YutbkYVAu55WL5kEbI_TMXFK55fSLiad0TIWjE3hc8M_3x_FUkudnouK-heOHn4SqqEpN9WnxLfcZVWcyk-My8j0AP_mKcZIrwalPv5W8_iaKAnE0NJxnAuGAYiDgoMJPRUItnnesiPekRs%26ch%3DAQEAEAABABSAkxScUSjhNWyThev8jQ_wFNcgxKa3IVY.%26v%3D3%26pg%3DG5OLJUA5XNGONIHAEDTWRIV3YY
+.netflix.com	TRUE	/	FALSE	1798532762	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798532762	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805744315	nfvdid	BQFmAAEBEOuUQdmzI_Hh0OfDtT_8BdpgGQuZP7fj8cHQ8B-3t9ycUhI0YJPEOiy60FeM7wYuvTriXsCEfI1_TNJ9DrI8u5_GaThZS8V_2n2vWe-MOf-eLNc9hY-X1m09mBL5tz6awAAtY7KY3HKMREbLdNqgR935
+.netflix.com	TRUE	/	FALSE	1805744162	OptanonAlertBoxClosed	2026-03-22T19:36:02.237Z
+.netflix.com	TRUE	/	FALSE	1822277646	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+30+2026+01%3A14%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=669ed108-027e-4f84-9c7e-10c28bb70ce0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774208162734&AwaitingReconsent=false&intType=3&geolocation=BR%3BPB&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1798532762	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1822277633	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1gS1SwrqAhK4gOvedOo-H1mmbbdWaIb8.%26dt%3D1790741667241

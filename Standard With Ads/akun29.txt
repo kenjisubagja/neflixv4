@@ -1,0 +1,23 @@
+#USERNAME       : ismael
+#EMAIL          : dalianimayer@gmail.com
+#PHONE          : +55999981398
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (7030)
+#EXPIRE         : 2026-12-04
+#DAYS LEFT      : 27 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Daliane Mayer Acosta
+#CHECKED AT     : 2026-11-06 07:44:15
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488539	gsid	73ffaeb3-319d-4d57-97c1-3a52d919dca1
+.netflix.com	TRUE	/	TRUE	1821700231	NetflixId	ct%3DBgjHlOvcAxKEBCVlOc_yHwWL5Yx-ociLhwnqUHOJRrX5rhdk0BCfnI1O-ZYCIjWllf0b8f4UhrCv_s0RmuU8Wil2hIMIloUl4_jU-wTCKyNl9rVIfTgXXBcoAz9U07ZFlp8yX4Ym2F8kZ6Aikje19a8Dx2cT1Jal17hNMwnga5m20vly3zVKA6XX3EdStDoGWl_wb5CWe-caGSt6j8gSeB1OH_cbMSXc0am9ram_7UnER52ZRvXDSDKFNDIwRHMo3T5K_0NkGTT25XRu7dkv3yaxbIIGF0cA7foIJy0I-qITcxM3KoB0sRs6Tk5GNnQxRBoX_YuZjsCW19mOHxTPZSFtSWUPbbVP-kqHBfC28IL9gsf94IfMVIbaiPzn-ns7crP3f3cfDVd3FvwrrEb0sy6aqHGujd1J4iuEfvuqVG5F_V0_YlmDj2kjloVE64pqeW901TvpgrQ02AzovD40DlgTDrDuwdpFbYj7AXK4Twg3Lbp1TTpYT1VZR4NBrf6yl2-m0OfDtPEcgdC7GwHceTearzqixjLcytaHzCpQQZanF7h52PiL-dH8lto6Nf0X86KiYoMzd5vUmnBQlRSIipHwq7c3_Hq5D47L9VeZLFqkghZlm0VI5-WPMmWqtjl_p1iVIgqpTzH0nZZXf6nJAIw2GxEtmliYX9YD0i4WxMWJROe9ctEfmdi8K0QAbRgGIg4KDM9Z0aL5bScTLUlpHA..%26ch%3DAQEAEAABABQrdrIQaRmeEG8lvp5UEK4CRQchEfH5gqk.%26v%3D3%26pg%3DE2O3LFS2TVC3XDUSL4X62FBRQQ
+.netflix.com	TRUE	/	FALSE	1797975443	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797975443	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1819727081	nfvdid	BQFmAAEBEA-eYMvyp8jiqtxDpNyYRslgtnf3-Z3lPpyj90Yp5xN_qRGDbUETSu2YdYF-WbcNIe7xmcm37Q4WwBxwll4D2_4Gyg8XU6TUqUnV_yJYUmjddRR07PJ_f4Sg_-C8ZTJQ4vgPK5f8oWAAnlZG9Sun4J3E
+.netflix.com	TRUE	/	FALSE	1819727044	OptanonAlertBoxClosed	2026-08-31T15:44:04.788Z
+.netflix.com	TRUE	/	FALSE	1821735451	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+23+2026+18%3A37%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=520f4dba-5eaa-4f14-97de-e4ed0a908dc8&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&lastConsentTs=1788191044&intType=3&crTime=1788191045281&geolocation=BR%3BRS
+.netflix.com	TRUE	/	TRUE	1821700231	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyZkHXbCPIJSvhmjiwIQJn8G9n-wGtmPI.%26dt%3D1790164231296

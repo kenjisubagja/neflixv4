@@ -1,0 +1,24 @@
+#USERNAME       : Alessandro
+#EMAIL          : alessandro.final2@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : CC (9840)
+#EXPIRE         : 2026-11-30
+#DAYS LEFT      : 23 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Alessandro
+#CHECKED AT     : 2026-11-06 04:00:36
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1790979335	gsid	88e687d3-a309-4100-b6ab-a2af24506b82
+.netflix.com	TRUE	/	TRUE	1825452935	nap	BgimwOvcAxJJ8eg4m1wbYFQj40tPAniBqkUM8nINqVLCgQjfI6q0M_0U1J6X2ymCvEwYReqr2vUb-R59HlrJ5rqNLhncNyyXzzCAhOfVrzZhwxgGIg4KDNOhsMdYC-k-7SAnkg..
+.netflix.com	TRUE	/	TRUE	1822428934	NetflixId	ct%3DBgjHlOvcAxL_AzvVvRP_5zL6bHmqpu6pS2_egj4rX1QF7XNjTFMTUqxnxL4FMvU6i6e8xg_aT0WVebNued7OY4csWl6Q1U3T-c_t_RvTNelSpwHU-jPTPMTwKNoCs0Q6Kw-5m2d7rxUm5INYsGFPEMpgUWc4zoBlC7ZmQznHqtQIQocegu5V7HJrAdeMqvJb-qnhrrBmocL8dPQaoaRUjvfpi9etm-mKaDQNqZeDmrOnomn4i1MMuUh1TKrQPLsIO04LcA72g88r5gKV-v1-uQOHbFFN1ugI41BoiH-4KqjFgc4Vpq3DBMkoFvV2X3l-nPYUWfM0NJHPy3ZJa267pNgGG1BgKexIJALOJ0hlVuCBMaUFhiQCwn5KvWEzW8PXaELQoi65pBrpGvL2cu7vVDsxWbhB6oSn_Io4SGNwfIPbL7vTMMNrc0XbAKQGjA_oofTkPWENq95V09Oy702OdKQgeX5JV0hVnLD6lLV3X-owVkyffFYZ0SXcE43jW0E0ZUDND6STwhXjuIldbJq-ijwHlnr4_3g2QP_GhcG8yfM0ydEkQb5aNJO8h2_LpfgnoIm3hIUa224J5u0E0SL3QZVE5ha4Mel3f1qPOHCD3Dd0QpdEHAnHeMZqynep0_CYgodwxOxRHs1vPyFNcTKOe0LRV7__Rw3LHBTEszoMq2rVOOzsHrK8Bv4YBiIOCgxmAkqjRQvTqzbMiAE.%26ch%3DAQEAEAABABRMRTyfOC97JNYOGR3UmnYUJtfV-wTjfqw.%26v%3D3%26pg%3DMBYYW4TTEFBHPAU32I5KKRTPCU
+.netflix.com	TRUE	/	FALSE	1820695120	nfvdid	BQFmAAEBECLDrtRWsakoXNf-bEwqIH1gavTGE_s5SjFUr57NGeFVN7hJDWuGEwq3Qezef8gsLNpIfo0TMDsufB3XVjxD_A6xmJ-JEXZIK9jqyJfN8NNtSEd-mXzKzfBqvQN52lqI-rhM-saXMjh6oV9knXHZ4zQ6
+.netflix.com	TRUE	/	FALSE	1820695133	OptanonAlertBoxClosed	2026-09-11T20:38:53.357Z
+.netflix.com	TRUE	/	FALSE	1822428935	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+01+2026+19%3A15%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a310ebb8-a1dc-4ecc-bc76-209a3b239ae5&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789159180190&AwaitingReconsent=false&fclco=&lastConsentTs=1789159133&intType=3&geolocation=BR%3BGO
+.netflix.com	TRUE	/	FALSE	1790894862	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1822428934	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfN2kuOUvuaI7B3ckM7qs0JH6dmzzNwVs.%26dt%3D1790892936247
+www.netflix.com	FALSE	/	FALSE	1790979335	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

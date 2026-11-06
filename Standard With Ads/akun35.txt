@@ -1,0 +1,23 @@
+#USERNAME       : Marcos
+#EMAIL          : mima2874@gmail.com
+#PHONE          : +34619197120
+#EMAIL VERIFIED : Yes
+#CREATED        : noviembre de 2024
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : LOWI_ES_BILLED
+#EXPIRE         : 2027-08-07
+#DAYS LEFT      : 274 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Mima2874
+#CHECKED AT     : 2026-11-06 07:44:19
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1820691414	dsca	true
+.netflix.com	TRUE	/	TRUE	1817667422	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA9ih6_gTVR2JlQHZkmvCXF4aoUn26l8lRweUTEtPabqFSP6ojWQZa0yxTh8mNv4ZClmAd5VyRvHjREQSXiBh2k1YukYHNnDm7pIA2GlKe1LmK7K1PXkjcZKzmIqGahJ_FF3Azt1vadtqJLTsKV4YPgKtEvjlmdqBhWW9Ck8sz1Lx3D2LT9ci8LKk8vAOelh2tOKGPGxEjQ2NgBUa-rjPaCfMmWZK6dh-W7dpd_1KYQkHh7LvOLho3vFN0YabE0dev2Py-lKY5HHtA3tOLj7hIQeKrYW0spF54JuPYA58OBgdovhQgwnUhcCwxENBj7flh7btNrFN_d1PmGuNRIsFwiZJDDD0Hte5Z0KsNcH36FpmXwpbIfuCpX_fyZrBwddBep8dOi0VIas7R0Ko4P3iTKp08WEMXnxSNEV07gCqwHhUQZ2MC_JpAwqx5rjJEdbHFIfiOc7uugSvGrplmwhwoU33IQfk7bNSvk8eApG6HuyE3BUyfbXbSSphrNcOIfyNbWWELMrKYYd6VhWSCjnLqXzUTGGO4xgGIg4KDCaNqKQI2yNEOFEHhg..%26pg%3D2CFCYIERUVA2VFBDTCU4HLM5TQ%26ch%3DAQEAEAABABRC38L8JrvCR9tYKxokpsPzCk7POV8DIJU.
+.netflix.com	TRUE	/	FALSE	1793907483	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793907483	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1817667412	nfvdid	BQFmAAEBEG-P1Yg9p8pXOjf6loHl-axgIOojAns39GxIdF1h-2hhme_Jm9-qoF2AJg4t5oXoh1DDlzdyfpgHhk_iqyz0tVcKKyFbQ_tw_7BaNolnkRgi6yidNcmvfs2JAqZAJtumBzFaVFDOPr1Q9UKwX4hjBanq
+.netflix.com	TRUE	/	FALSE	1817667404	OptanonAlertBoxClosed	2026-08-07T19:36:44.449Z
+.netflix.com	TRUE	/	FALSE	1817667483	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+07+2026+21%3A38%3A03+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ab8b835d-54a7-4ee5-ac91-98a2e94f275e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1786131404817&geolocation=ES%3BCL
+.netflix.com	TRUE	/	TRUE	1817667422	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTN0lDIK01X14ZitPRaMfbEEwpY71KVlIo.%26dt%3D1786131425952

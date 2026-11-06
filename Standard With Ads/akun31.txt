@@ -1,0 +1,20 @@
+#USERNAME       : Johnson
+#EMAIL          : j.o.chen.family@gmail.com
+#PHONE          : +55998589647
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2023
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (2918)
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 26 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Johnson
+#CHECKED AT     : 2026-11-06 03:41:39
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA2Tza6DkDm7dxKLi9WH3BYDLVFytyBVx0QCFnglriJlihcDUsiJO5FeEXT0u2vJLkJdztJrPnh5SiddrOfqohgBWNyQOn3WzB-I-14XCaHTpD1Uu17sSCKtwxxYjpi7pG0r5-P9LTg3MHlJpX8MZvbIxTmdf_MAMkIM5L56a-21vYBnyDw1PN67B18nN8LJdhuaD7c1ANz9u2A2sqbrZ2QyOugWVN5eBlRzkTa79YHyshjhjjVTymJ12mc3lJS6Jh_Ds7eLsRiSMWOlCa4lBx0l5_jXzVHOH5GccJQ40nZwN6CeOxd2v9E1xS6P7fd-RVERbRqhZZjAWNmMiNMXn-1id9Y6UceNtJ8CWuC-djDEGRZg-LQyUX0b3eJPTsUBgWomjK3aowxu4js3uSvIwoGK2PylDh1D3tOy2qway7D-xZfvrz9-IfmXTdFH4wrX-j5VolYgCI7KVO3la88o-YZFegHZ2DlDtmX_ALiM8rPVCogvf0M7YdZ3vUFdj8weWHNQMypnFCrL8bRgGIg4KDKRGwB7Gb7DWl3mvLQ..%26pg%3DRZOZYTHMJNBB3LIVJEB7JYUM6I%26ch%3DAQEAEAABABRsf33CpOMUkNCABy-R64huqDQdo74LBDA.
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIXdjsTKcWaD8-ke9y69diFgKdUT5Bblj0fvtTzoPzGHIcnB6WIPJQHC-uC9m259WVeVqhvjt72UURFEem9gMo0oX3ZQIDJ6eAo4yWC8zh-jXC8iiy1k1aPqqQlWJaEcqLhJLWbNFeliV__yzMMd7qHT
+.netflix.com	TRUE	/	FALSE	0	OptanonAlertBoxClosed	2026-01-20T18:52:16.686Z
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+20+2026+15%3A56%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=74445a90-d7b6-4a78-8a53-e50e42570ea8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768935137177&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUaVLSG0giGVzCJIIMMEvRKaAwXnV50d0.%26dt%3D1768935405314

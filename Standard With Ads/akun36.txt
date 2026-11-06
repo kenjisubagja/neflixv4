@@ -1,0 +1,17 @@
+#USERNAME       : bourdirichard
+#EMAIL          : bourdirichard@gmail.com
+#PHONE          : +33668221964
+#EMAIL VERIFIED : Yes
+#CREATED        : octobre 2021
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub | HD | 2 Streams
+#PAYMENT METHOD : FREE_ILIAD_BILLED
+#EXPIRE         : 2027-07-20
+#DAYS LEFT      : 256 Days
+#EXTRA MEMBER   : No
+#PROFILES       : bourdirichard
+#CHECKED AT     : 2026-11-06 03:45:20
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1816073736	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKqAyHwSCSd4MfB_AvRH-NOx1CcDbkO20KxAKbHgu0Y5TL4U3fSrWrIJmhFDf2U_YKH-3rSXcpM3TvhNdUvmQorowzPtPEMrCRcR46oTDCHTlOoF18csuBzZZOKIL2vf1GqjLH-vcHWDLP-u7lPHQwToxXWbhcQDoVUKw-b-CkB05B_VoZyCAdpq7GHPooXPTMyY02wWRUIigpjmtZn1ab9uz2JfKlNEPgvXFaFl6eHuY2onjDS-u8N6E4uY_oEktNU04b6wvq477mYj_9kNeLseMKVqQ2yxXIN667bBJEAVYNGPkZGje0141v6xEHxtMK6eztl6h4JXAPpdpu-ows6zO1u5Q2ygl6yGlHgzkMvLk9t_eDKQYGcuo5-PSDpg-lpIMoOuaysryEUiOKL0bzrD75AsN80rpktHFAX0zixPS7qgfm_jM04nRhNLs-jL-2gBQx_EYU3RHLvw1Vz3hfQtr-KP8u3GwOdNsRe9XxEvwRLULGZwDy0XwL0hNU5_MX6DezfPhw9tHtzA-ibtElFPUgQA_F7Ssha3SqGto15NQWzZAR7dk3N4pdAExgGIg4KDDvrAQueHgnTp-vnHQ..%26pg%3DH3PCFQRRGBDDVDVYJQZRNOIDOY%26ch%3DAQEAEAABABQfO28XIDKGqtyI5ulgMVou0N5MtCAsxGo.
+.netflix.com	TRUE	/	TRUE	1816073736	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiuGxifQOr_4p7p3A6iQEVFzGw3ECc3rA.%26dt%3D1784537709576
