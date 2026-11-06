@@ -1,0 +1,17 @@
+#USERNAME       : Hassan Shafqat
+#EMAIL          : hassanshafqat465@gmail.com
+#PHONE          : +923325285189
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2023
+#COUNTRY        : Pakistan 🇵🇰
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (2858)
+#EXPIRE         : 2026-12-01
+#DAYS LEFT      : 24 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Hassan Shafqat
+#CHECKED AT     : 2026-11-06 07:44:38
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1806383612	NetflixId	ct%3DBgjHlOvcAxLFA1NjnX5rX9qLJNwAT7-RpjpnmMPhNxvrXi7V_x_kOETDnlJW2JkGuWgF9kjO5bFrBsgsSz41gQHE-Ld7RxN9XOKUu1WXwzEl_luc2spJV2QyvBR6ipwWCC8yTXuhSAi143iip3aDLdxlGkYtRmeyGFTOICCdz3Ho3opNW5k1j9bnyD6Wjz9-3nKODk3UeRhm_IPO0MnK7LJlblzksInTxQikdXbZxVTJdmP59FuGIfXsAtqQVSda-goq0DvY7DmAfEv8hvAleB2oMsQezgwaI-iHOOAli19HJ_EwGe8vOLAaiT4Ewin6-doBpordUbLu0YwudTbeDcOwrd5aymHNeEx1m29Sez5u7XqRmxSO2jINzHMq4vZDAfYbXy18TBcBW-gia9FBsE6TEa2J1EBLdCtx57rUqSN1bWvxuoziif1ye4b5l5eShROBv19sPE8Rd_zj9DFim_26FaeUbdr6J5-kcVtjsnVk6QdGdtK2OiO2Hy8mFzOT3wUFT11fzslmxHot_h64rh9VU4xcrRSB8Cqg6fDfHknaAUCZ6dNwitsH_JFUCkN7ONkoxnZ4RJ6Zw5llR0IUjsGYgAxqBpOiDpbwEIKAfhgGIg4KDONtKLuFlTVcpaZGEQ..%26ch%3DAQEAEAABABTitgRDDC8P4BRbYhQNnRjZKpHrlRrg0-s.%26v%3D3%26pg%3DOVMUWYRMQJGCJBWLQDYSMFYJIY
+.netflix.com	TRUE	/	TRUE	1806383612	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwrx43e0Bz5QI4p9Ucm8ja-DAxaKRhTBY.%26dt%3D1774847612904

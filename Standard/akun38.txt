@@ -1,0 +1,17 @@
+#USERNAME       : amiteshkamble138552
+#EMAIL          : amiteshkamble138552@gmail.com
+#PHONE          : +919579671785
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-25
+#DAYS LEFT      : 18 Days
+#EXTRA MEMBER   : No
+#PROFILES       : amiteshkamble138552
+#CHECKED AT     : 2026-11-06 07:44:33
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1814542289	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKxA5VMStfS8gYx3nWqX2lTNc4inj9sSJckUpd4CgJAgWJ4TaW_4DWWt6cNQfwznmvOMrR6deauzlRimTfmNCcTnyDX8qIZRiIl6xs1GPR54Ob49-tjvhpgqMg_Xe1o7LeOTyQTr5hcoPKmgEI0DMbbjcwLk33PwsnCvxT-du3-zSP3OMTJUstkEpegBliPlXPTlwnKtR9Qu9qQLnQospVK0cQtpAJVE8hUnp6tcoxwWo8kfsm5ia_72X8rgic5QKM4GklSJhO1RwhSyuacLokaTaDHuKmqwNjUL9smXCFM6XZoTHe8iWpSw2jOjsCibyotbwu1uKSEDnjTrcDV0wQuXQdjsHH6Cc2Ct4dTkcLl3fFMWoZPedUEvlQaD2xJOERLgSqoR24fApOBE0K5RcQQmG3egugbeakXCC6nADXAUuBTQnBgeYg3AMLLqiMdLqhtCX7CGZfZutFOj0wQyKojEhpOuTnaZE89_4nHabXnvsOn3Z8L_3ZMVgjTNNxtk3ukJucMW6RU-lfGx2xT5HPGF0-lSy3jvgDSxkJV1EyN8xEPGEP1fNEEQ5g4esih-cPcQKsYBiIOCgzWKB9KLtB4w4WXkOY.%26pg%3D3KE2FN25OBB7HHF4PEYZV56UII%26ch%3DAQEAEAABABTLfGW6AqRBFphJueyOafmXzmnv7KS6Og4.
+.netflix.com	TRUE	/	TRUE	1814542289	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpFeyaWMH47aEbJLkjLaQkApgQWvRcj4c.%26dt%3D1783006288239

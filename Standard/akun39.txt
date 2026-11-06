@@ -1,0 +1,22 @@
+#USERNAME       : yash Thakur
+#EMAIL          : plusnew99+pupes5@zohomail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-07
+#DAYS LEFT      : 1 Days
+#EXTRA MEMBER   : No
+#PROFILES       : yash Thakur
+#CHECKED AT     : 2026-11-05 23:33:28
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1817801688	nfvdid	BQFmAAEBEI9WFI5GYIzJd5HTlv2N2cpgQSsCdQZBxbAjEW-rX92JAL7Hmv9eLotRJHP9C44RvZmMRV3reDaXWveCG6RKYUGbMWRet1K1QhjpDrDpLZhgG098iz_yyR_NSi4CW8Q1HQ3bKIZg3K_pfQtxk60IpBRS
+.netflix.com	TRUE	/	FALSE	1824365931	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+13%3A48%3A51+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=955518f2-b579-44ec-a26b-cee38ffa7396&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1786265478644&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1824365933	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSMkKxDN44WFWcgQu-XUWitZ851rUfI6ng.%26dt%3D1792829933170
+.netflix.com	TRUE	/	FALSE	1800605929	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1824365933	NetflixId	ct%3DBgjHlOvcAxKJBK7po5ZKaR2vG3WjjFWdG6OkyFvqK_UHiZnWpGMhEgF9CrG0FBeOEybQfTpbnT9lgZfPanq-y8onk41VYOjSR8SdIcXqdGV3FlpgubLr8b_S-LbceOf54yWOvtDyhDsIpJsFS9icnjTa0-z31587Si5JoztFSkkJVD3l6YjuvCAm9adnyq9PkceqOSc0TM43k13x76-sLiho6hhiPLAeXd7ObjhWkiwK_5M2U8Myqex8bd9O_d9CuEt227kGi6U_OKIi4Ebk8IMorrXZzVoLAFe_Z5lZ_l-t94wysLoutp54Bj7wz-JSvKTpD7hd7JI6DK0g2aXKjJ3UCBpprBUdWlwLPcpJRs6TPlWRu6ac6DxYwcZnYvK7jdAugppd_g_iAG6BhBZRVZIPcgr-03zuqRnOJB2PCy9f1oXHolTw92rQwcRpAuVxNsY-8zxzkJseeUVNETnsrD17pBjeBLLuzSS-mLcUznSqqo1ES8XAwhHLCnTvg5qxI9TMD9A6iFHcavLlgomW3q1VdvStLAHpahP0be_6M4ZzArcZrPJwh2vbTgnFj82kyanJDgZ9dax2DQrvECOlI-xxAd_bAE3-7xLHQQp4OQ4JGkcg7WT1yWmPyRP52qltIGREC1WVsYq5J7Lg4RW7vF1aMnCiwg-0NAIwIiiGBak1IJu1owX6U3lgzjqsMg2AU1T2GAYiDgoMXXEWacNEyqP0vTWu%26ch%3DAQEAEAABABT9ZUggS-jaDE4eYV4ohhkawr60c4tTvAk.%26v%3D3%26pg%3DGPST567TPVFL7JH5GZUQHJSGXY
+.netflix.com	TRUE	/	FALSE	1800605929	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800605929	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,25 @@
+#USERNAME       : Marceau
+#EMAIL          : sdubrule@gmail.com
+#PHONE          : +33608994910
+#EMAIL VERIFIED : Yes
+#CREATED        : juin 2024
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (7313)
+#EXPIRE         : 2026-11-14
+#DAYS LEFT      : 7 Days
+#EXTRA MEMBER   : No
+#PROFILES       : sophie
+#CHECKED AT     : 2026-11-06 07:44:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1818892542	OptanonAlertBoxClosed	2026-08-21T23:55:42.789Z
+.netflix.com	TRUE	/	TRUE	1823548761	dsca	true
+.netflix.com	TRUE	/	FALSE	1820524759	nfvdid	BQFmAAEBEBeIdcFCJJ_mOSjhzgXZX6NgIAAXt1-hNOeRLDccqbkbofYbsgHg4cvUkDT2KetBcqgsABnj93oFS81d7juV1UL1_ki5EPzV7hNaShKAVzxUeMUfrp_orVZui-wh0vrWOluANm4p7SDy-3das97hY2gQ
+.netflix.com	TRUE	/	FALSE	1821557500	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+21+2026+22%3A11%3A40+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0cfe88c3-c7fd-439a-8367-e7b8d53413d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1787356542&intType=1&crTime=1787356543214&geolocation=FR%3BPDL&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797797500	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797797500	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797797500	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1822068151	NetflixId	ct%3DBgjHlOvcAxKJBAXogdp1_pSW2Y4zqUESZl5nXmtViM0DZ64EzIKK0PHZp98CI-9o6aBamqn4ArCpUFME-FN-mO-hfr7yJL7IApwicdWRu3sEfbcQRLY93aGa8b3ZtPiGjNaqQmzeA4EicMQelWr-4ZDhQ40gFDV7EiXhMI2wTEym2JRnZa4zfKx2eamapOjltfuvkpJyr9K9KRVu-TtiIvJiUTHkQras9ye_Bs0CO9muyx7kA31goF31fVpH98T7_DUIaxIbrG798WCMFI6MmaVruUU4iEZgem2yogv2-Oc9JcHGeupaG8l2tGK8tIId8bGv1C9AyXLMgk9sH77FLuDXMwll1SxMRiwqFM59n_RdMhmouYiiGpkh8uMlph9HzFn6MXFXJrvAmAcECmoVaTYCrdetvDIOp_KfppQ0N1D1AzUD2rXkF1VeaObYWaObEZZBPxw6TacJRM0qrKPiKwWVdNtM5MK7Cn7SQ8mMRnvfb7sw_vhZpSru_TrYU6ee2GfgFJBBYNqkjSyZTGqyzM0OhGZTJASxW1hCYgDTpgdomiP7-yGjjeTqwTI-lSgQ1r5QdbbOFSRKJ30JvxEIUqipFuIe0lysew6R7GJ6hMqfD7zUcemOziVy9Tao6-8ZmxJV8s5-KLGCsrolgGtjv73RXanqfMF6MzSX1r9pp2RtfleAyfjqRK37vPePV9P-h_FFGAYiDgoMtONunVjlDcv03FGF%26ch%3DAQEAEAABABT9C8G8tYpGjiL-oCO4kgNEyn8hGjSulrM.%26v%3D3%26pg%3DWDRL2BMMK5DFXATHHMVSUDBVBQ
+.netflix.com	TRUE	/	TRUE	1822068151	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQv2Z5jb_LqiWmhYeFCyC3E7XFtfiYmwM.%26dt%3D1790532151398
+.netflix.com	TRUE	/	FALSE	1796488540	profilesNewSession	0

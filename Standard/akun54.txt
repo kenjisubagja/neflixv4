@@ -1,0 +1,24 @@
+#USERNAME       : Burak
+#EMAIL          : 1280bro@gmail.com
+#PHONE          : +905416369169
+#EMAIL VERIFIED : Yes
+#CREATED        : Ekim 2024
+#COUNTRY        : Turkey 🇹🇷
+#PLAN           : Standart | HD | 2 Streams
+#PAYMENT METHOD : CC (8781)
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 26 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Burak
+#CHECKED AT     : 2026-11-06 07:44:42
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488541	gsid	4a35b6d7-1a74-45a9-bf16-a2868dc5f276
+.netflix.com	TRUE	/	TRUE	1812970310	NetflixId	ct%3DBgjHlOvcAxKaBBSRqwdqAtG8Vh_9fsKnhKwpcqJykGDv9QdzlouCmM5LWEGaUpEhTpAybD7BJyqj22tOCuB1nmxCP0el8t6X5N-X9tJiIPThwtQX5LRr70YIobTWp6EQFahK1y8G_dplnkuDQJU51tWuV3HynjcpXaNh5mMBb3lV1OSB1P5TvVYuIMJ3g1wJPrwKm1tWPriRpcJQ7A4vhDN5WSHIai6ZZRH2mlcEfQh_l-9mqB1CbTDeu7ebrwtpTGBorUaT0irYyRq3Km--UCZ8Ho_ijU_13Whs7gPhJJjrUXOW9RtgGiO4Lx2yo_bTlCR7X1MMsI19mPk4ZJiLBxdZgKU2-1A3ACaqdwazBcrL9U9vkdnfzyBjFTWjONFn1_EDK6CK4IVbNsvTjKRmDJa44moYRAuni-EOkI8EKLvyfE3sO1mxokAQ9sLyuxZs0I9JZ8HZD7DxvCcaeOo3raMPmAjvEvxgKfDQTwQIVvxkmnAmG4SAGxiWhFVXbB9RYUPhRp9LHu6Nr21vrK5eA4YvqGpVj6WyteV3B9e9zG3whktecXwaB4rVUn3Bd2GnGmssISyFRhX792vhe-NjAHaqTPUUn0ajeGbkuhCr41uvmuLK74-mmZbQWE7HdroHc_GULjiWI7Lh3aIL6ntIWycTYKSMZUun-cWA9hjoboaGvh7AVUVbQruiWJfSY4ksiTY26U0jcDW_nMg6Ijq5kyrX2WAYBiIOCgx0eCo_8G8AdIrOi_o.%26ch%3DAQEAEAABABSVkFVA3YlhhJAWx4xwsDJ7anLLiENcPy0.%26v%3D3%26pg%3D6M3WAKPENBBWRK3GWGZ475FXGA
+.netflix.com	TRUE	/	FALSE	1796488541	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488541	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488541	nfvdid	BQFmAAEBEJuzUfN1S2JkS1ylAVuQCVZgEJUNYsmROpuVRSlZJAxxHWFu7r7Cs-1B4y45oetGkhkyOkrSxKx2HqD4PNrEgff8nsE7PDvS0u8r5Va7gfCeetSW11ucvFTOOXxpOC-Oh4Y-xmFy7byS7xXV7p24i-NH
+.netflix.com	TRUE	/	FALSE	1796488541	OptanonAlertBoxClosed	2025-09-23T17:49:52.721Z
+.netflix.com	TRUE	/	FALSE	1812997703	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+21%3A28%3A23+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=063ff5f6-7063-4090-a301-66f9908c7140&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B16&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1796488541	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1812970310	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQaiATJ86EoCaRTiRE5a8gtTjIBn20zAFg.%26dt%3D1781434310530

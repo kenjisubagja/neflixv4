@@ -1,0 +1,21 @@
+#USERNAME       : campino.tv
+#EMAIL          : campino.tv@gmail.com
+#PHONE          : +351918738565
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2025
+#COUNTRY        : Portugal 🇵🇹
+#PLAN           : Padrão | HD | 2 Streams
+#PAYMENT METHOD : VODAFONE_PORTUG_BILLED
+#EXPIRE         : 2027-02-01
+#DAYS LEFT      : 87 Days
+#EXTRA MEMBER   : No
+#PROFILES       : campino.tv
+#CHECKED AT     : 2026-11-06 04:38:07
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1804491679	dsca	true
+.netflix.com	TRUE	/	TRUE	1801467670	NetflixId	ct%3DBgjHlOvcAxKXA0_nf7yyZAuzi7yWbIEqxwoErzQoucCBzEuj13ffB-ZiZDATlECWBnG2ax1HJSer_roQFv5pdUAkuiOaxe1USdkjG3u8PkK1vw8NLl1QFGZ-OuDd8BTEWyrl2qibTjWOUCtaOPNzDvBhNB3uZ1jlnEWsPkMmecIt1-2leUwqTxXmJ_oS-mDS8XJhwfxKj-YUo5gNdOq2ZHnlb8nnR7p_v2seZEmplKb79MZ2evax0kbAacfk6FRqilZeDmf3EdHVy-wQeaHPu7MHrua2EAy9hYGgKpCCQoM0PougEo2IkN-9A38Xrdb251eH0hhi1gondLnRmQTBujiskiqYA23lg9aMfKNt7Lt9uYOx6otwPuslZ91aT2KjfHaS_JAfc4G61ZTXlYEk7xq8f04XKP7uvnGsrjPdQQ4Bb6TiyOVDqGq4-6zsaqwbV6zzIOQAxOr9nUrn70NyTT16dEw7eFWpUKFiOnFfJeYsdYzxfC6KmS-BmmVECMywQQDFOtEHCt2x6tM4fLEcdSu1_NUS4uaFVvbKM42W-ViCGAYiDgoMo71uJJ52vM8gYO5y%26ch%3DAQEAEAABABQiYybkApSP7bjd7x_1QlnYnVjCbxaMoFY.%26v%3D3%26pg%3DHATF5IMMWZGR5HCGXE3XJSW2ZU
+.netflix.com	TRUE	/	FALSE	1800736966	nfvdid	BQFmAAEBEJmZNUXCvGOULeDnDU2-L1Vg3boTelcdmeuiOab_d0yTYCJP7I28YtQBTdfBxfmKaiWxZfvhgPoPDT3_lvKSJ1XCeKQD2SBRVqxrP2ZM9ivM3FGFczF1Z-L4KiRwasgqtV7ZIgB9jvFmiA91XAkP00mw
+.netflix.com	TRUE	/	FALSE	1800736882	OptanonAlertBoxClosed	2026-01-23T20:41:22.612Z
+.netflix.com	TRUE	/	FALSE	1801467728	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+07%3A42%3A08+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2743b5c-80c6-4b87-994c-df0434063cff&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1769200883166&geolocation=PT%3B11&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801467670	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdIUDPqrLQi7RttpV9srQg4BeqOQAzayU.%26dt%3D1769931670240

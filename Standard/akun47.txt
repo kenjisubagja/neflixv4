@@ -1,0 +1,25 @@
+#USERNAME       : unborncell
+#EMAIL          : unborncell@gmail.com
+#PHONE          : +923105161840
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2026
+#COUNTRY        : Pakistan 🇵🇰
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (7529)
+#EXPIRE         : 2026-11-15
+#DAYS LEFT      : 8 Days
+#EXTRA MEMBER   : No
+#PROFILES       : unborncell
+#CHECKED AT     : 2026-11-06 00:52:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1818056474	nfvdid	BQFmAAEBEL98lucFngM2s4r0jpwZlixgV_1cZ44VIb7wFu6IuCAbYArwUkcM0R4YUQFjUKJVVpbBTGnSPzVbttXTDK_XogLYfq4v96ZRfVd1E2Vr05ovY52RIAhIUllMwqRzGlv3477lROjKM_11gP98Ioa81Q7H
+.netflix.com	TRUE	/	TRUE	1824019448	NetflixId	ct%3DBgjHlOvcAxKRBJDz5cXU6yyM4kGNA0tsmbnwKZwEAB0bHpMVjdkPd1N8D6EHt2gv5Q-pCv1Ghd8DAxxVGgyogPFo9uZpIQciOgteRdhornaiN0BJRAk9n8mzeII564FXuN36zQ2B99mwklFuZXqvlA4beiMHjTW3W-X2zSnVhUdmCg3bQ1vUcPcZM45hSBJtmmTtVCDkIEDJPzs1sB0GObrYxHvSTPwp6f6hoM7YyhGC2Tt7Im6OKyD0ImKpBfgAj8qnNYAsvNJrN2YYD9MgDIzr1k1-MMAN92sUTtsiDLzX5sNF1F9CtxCQnvpfDRSDfGfevjX1Orn1tn7A4qYGt1A9wcsEEdK7oEflqhgP6Ykg7IuPGkMlNn0f0senEV4Kv0yMjxfDNVOJh5ZX6hQjB5l190GUHBmZInlPpLUYfQVEkB5ynNMB-hXMLTuBoy-mXEvX4QkOR3pVjShwhUbBOoVo_dSWhgYs_SPL460i7fLA4W_RM4stTClPC4g260FzsFs2b7IVRlKLFFisJnhu5QYzV--aTae_CNSrqVJQj5dSeKoWoObGIGoa36xzo-21fmNph8_Dj2Y_U7dD5gg6_VwoIt57VSv6kxFJT-eYiPzCujFjNUiM95HAWJ2mmPzbzaeTt0vwaLdxH9NSMikRRE7OvtLBrY18sbhMGQNVL0sCEnFh8qRcYt4c_ahqRX9aLSavrBCFR-bxx_kYBiIOCgxF6PiJRvMIUmzKKys.%26ch%3DAQEAEAABABQ0HBpLivevyMwvMhfNDX9ykVfFueK33IQ.%26v%3D3%26pg%3DBZNTKN7KVJEQRJX6JH5KB2LBMI
+.netflix.com	TRUE	/	FALSE	1824019454	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+20+2026+13%3A04%3A14+GMT%2B0500+(Pakistan+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c287825e-cdec-4ea7-aec8-cd1d8a816e88&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1786520409575&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1824019448	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPRi86Ct5pJ-nGOvagL6pRrbU8Lc9yZ-k.%26dt%3D1792483446996
+www.netflix.com	FALSE	/	FALSE	1792569854	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1792569850	gsid	774a53a6-9183-47ce-9c3c-a87208f6a2ed
+.netflix.com	TRUE	/	FALSE	1800259450	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800259450	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800259450	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1792485699	profilesNewSession	0

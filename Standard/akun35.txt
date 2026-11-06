@@ -1,0 +1,21 @@
+#USERNAME       : Ayman
+#EMAIL          : moraco81@gmail.com
+#PHONE          : +34722532281
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2023
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (0949)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Ayman
+#CHECKED AT     : 2026-11-06 07:44:30
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796177398	dsca	true
+.netflix.com	TRUE	/	TRUE	1810925526	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRAw0zCp-Gb9WXZFR0p7R7QHYjdaM94b0XlBzWncz_r7I9D73i_F4WhT0bvIY7nzE6_mMBoXHOs2gVTlf5MiHxtpW5rwZOoig3z8E2jIAfgfX3xSJwWRREeItYMdYIJ9D4AatqmQsIzZdg7KYoudzVn-q1Viz5xkTuol7KIOdX1xDtvTgSYKD_JWbuF_X9IDRHlFVeO7Hkq6i_DObx3RK-n7Xy70CJPleFhWn5w2SNgAZAF6m9w2l_Q7qphKb0HrDkW8APhKIvcZF97_VIXgD6dSjHReQDtGcRTdsY-myYwE3pwoR5RkRmQc5_OQ2sHo1ShCmrb_TPatUWigKvL1dkMq4vU3C9_QKytWRqwQJ5NlFh-YQfyYnw_WbxEBS-gcbVfpmuBeNTm1zmXWiq-fZhvUyNBtAG_Xpj0Fk7hiT5FcYQIvEN0bkyMFrkodWeeZLFo93iULhChB5JRPWlrhCSUhU_3NPj8xBoLKX-DqTBjMnAAyZbvXKOqncpAYayHT_bss9iR5Jc1wx1l9zD1MtDPje4GAYiDgoMItGe6Tlws8V__0Dd%26pg%3DFYT6L3LJTRH7RCFU3IEGTZQAQA%26ch%3DAQEAEAABABRoBFJ9zBybQOfiLVl2cfMRUm2EPMecIvk.
+.netflix.com	TRUE	/	FALSE	1796488539	nfvdid	BQFmAAEBEHV8l43fyVwfDitlOcTnW4tgZTihSYVft_MQLA2fmHeXH-isHbml5YLj9cCX2t6ZzsaU5OLs93nXIxn6SvMIrqAbKHACNhb-GC_CS_bsLD15mIrVXAlhRQW2IiQojj0M-gu1YZlIb5Mdb9cEUzizjgWS
+.netflix.com	TRUE	/	FALSE	1796488539	OptanonAlertBoxClosed	2025-10-24T01:25:40.459Z
+.netflix.com	TRUE	/	FALSE	1810925528	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+20%3A52%3A08+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e35d8ed9-848d-4009-8f23-44c6ebb9d772&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMU&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810925526	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIhd54h9uPMwStilmmCXTCPuDITekV47s.%26dt%3D1779389526439

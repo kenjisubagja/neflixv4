@@ -1,0 +1,24 @@
+#USERNAME       : Nickol
+#EMAIL          : nickolcardoza@hotmail.com
+#PHONE          : +51917767706
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2017
+#COUNTRY        : Peru 🇵🇪
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (9613)
+#EXPIRE         : 2026-11-15
+#DAYS LEFT      : 8 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Nickol
+#CHECKED AT     : 2026-11-06 07:44:37
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796379457	flwssn	bd72548f-5a1a-4781-85ed-61c3419eebc6
+.netflix.com	TRUE	/	TRUE	1796379457	gsid	5a92958c-8a3a-4922-bf5f-ba5a3885abea
+.netflix.com	TRUE	/	TRUE	1821215574	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRAwCW19aha2IFCt2_G0_knk3SqIQkktBZsXUg96YX83qbisU6zjvfc6cHeezNup_KW6pm0viSxPI_3xTurzXMQWf1AmWzJs-vy_JjKWSXhgYWmoJIixig-TLN5uZi1PeUsxPXml2KivlxwRQAAczbKnpS8t8SNbo0Q_Eu-cGdyFS8shSV1hrmz_sMvrZFOfdSwyujGaRyYXtnNnFayf9849SeW2mjU7r20dm1DW9mb4dxfCBHcjSpXJNijZjplQdq8vMucSQxJPkiYslryw2KWocBIDfhEaqtxvfe6N48OCv79DdoHOj4ZB21d_RTzGZDPphSqUCxRRZCOCmZuC08Pxbb5SSs_SVDgrvZZpUza42c2Tt34qSNBhyfjq1zkWos7oqL8H5kANMzYDkd4PD447NV7rRThmC5IjXnopWD590J__O9pTFuh9uPKAGO9It9pTFHMXfxW5VdhBZIu8JootdA51aw26iO57nqAQZKDnOMHjbR2MnaR58pDMwqpb38t-6RewAmGY3KGaoQo7ReyuPPGAYiDgoMwLTMynEXNubTKYsP%26pg%3DBU4K7HFSRBAYXPYCDKUFWU74LU%26ch%3DAQEAEAABABRqu9PLoDTzjrZgvCqyekjZwb9DPe0QUN0.
+.netflix.com	TRUE	/	FALSE	1797455577	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797455577	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795284582	nfvdid	BQFmAAEBEJL6vGZL2WZuLwf1eQgucidg8KMLmfvC7nOyvxcKhOVRblBqUgKXCQ59t_p37cVZ3XR9K01yYGwUwayb7aLwG8GoM31vUTc1q4Bb3SpnvXJ4VJgXjqQGZrfMxNoJOxEDDvj6GhPskCfqZeJZS92RN6QH
+.netflix.com	TRUE	/	FALSE	1821215577	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+17+2026+16%3A12%3A57+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08eec385-e852-44a6-a034-93541c01057a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1796379457	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1821215574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSsRoM4flqe19d_3YwOaq6OJrqmGHqRx8k.%26dt%3D1789679575163

@@ -1,0 +1,27 @@
+#USERNAME       : Dong
+#EMAIL          : dhong_dj@hotmail.com
+#PHONE          : +66971902825
+#EMAIL VERIFIED : Yes
+#CREATED        : มีนาคม 2563
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : มาตรฐาน | HD | 2 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-11-27
+#DAYS LEFT      : 20 Days
+#EXTRA MEMBER   : No
+#PROFILES       : KJ
+#CHECKED AT     : 2026-11-06 03:36:38
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1790697574	flwssn	a51e90a5-f900-423b-a750-cd61dbfb7fe4
+.netflix.com	TRUE	/	FALSE	1798463185	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1798463185	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1790773149	gsid	25ae8d16-d3d9-4944-a4e7-658e2fc63d4e
+.netflix.com	TRUE	/	TRUE	1822222839	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA_zf9kc57aX9KankBuihzfuTOCL0A0daaEWx8HG8QUUxajIl0xAy3EQmdTZtoV-21MbNAdT29blBh2pCZpZ4uQJPwN2DuolcK5oPeVH14T1RT7Ei-MKmk2yGwWNYhcXVJL9cvRDO5vo03YKGIuNjOobyTNUZX3s-jXk_XqilpX7Dc-ssgVhJxly0vK9ZKlj-Ow9gl6OJqnaSQPqmFT8usYJ5DlntupXC2nRPCpmSY2vLKK7YUS-tctmGF5L85FkNRQApyThzoHsPsxCKuFxzfrpQrjqkUHyIUG9g_pCuLhlZKjlQw7yn72X0HA5jCpV4gknmm6lcM4ZBlnibESMVkW2NtD-rLR4ZX1q9NiUSvIsiMP0eS-MgAlgSvcE2-1xmp2PdvyF7PriAllVOfM8kTnon9mC3KFC_mfqw2YeyZJj8uxtlKqRJrrdN2YjG_nGJOhzBut_kIwC9gm9qRnWn_ZVa5kJeJvz-MPyixudkNHcCU_OXmENGC5r-hgbL9d0k__kYt364WCiPtMKJRX2y-yeqjcipw2VEOBgGIg4KDLvhd7013EJwOZzaRQ..%26pg%3DNOHDAXB4MRCX7KAUC6WUA6XQMA%26ch%3DAQEAEAABABQk9xdH11cu3mai4ukoviguheHPkxTPjvs.
+.netflix.com	TRUE	/	FALSE	1798463185	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798463185	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1822222832	nfvdid	BQFmAAEBEIA-4-JiXOI4u_FOn5jYTSxgr5qQkXLGOfpAYeuKMp869Od3zY4OT08bG60Oc_RGMG1eC_Q6FjucrAvD2LvKMfslfybdTzeBMzNVJeWFGobSzo_SkNY45lJDf6YwsNEpgWcPY2Mf7YXxYdenuoW3R7NK
+.netflix.com	TRUE	/	FALSE	1822223186	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+29+2026+20%3A06%3A26+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5f8d3f5e-4f84-490e-a905-605384fc835d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1790686755501&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1790689199	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1822222839	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROyzKLUY2wFOPWmdQVWcHHHJeGg1U1T1k.%26dt%3D1790686839779
+www.netflix.com	FALSE	/	FALSE	1790773151	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

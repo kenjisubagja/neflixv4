@@ -1,0 +1,26 @@
+#USERNAME       : Hector El Mejor
+#EMAIL          : jhdr2779@gmail.com
+#PHONE          : +526621749064
+#EMAIL VERIFIED : Yes
+#CREATED        : junio de 2013
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (7494)
+#EXPIRE         : 2026-12-05
+#DAYS LEFT      : 28 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Hector
+#CHECKED AT     : 2026-11-06 07:44:36
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488540	dsca	true
+.netflix.com	TRUE	/	FALSE	1796488540	flwssn	e2ebbc88-6ff5-4dd1-94fe-cba5535b2e45
+.netflix.com	TRUE	/	TRUE	1796488540	gsid	6870b07e-7f3f-47fb-ae49-65602f6ed043
+.netflix.com	TRUE	/	TRUE	1796488540	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAyqzQd034Wz-DxEjf3Pg39TQ3wXHLEYxFpmyoIR1THZk5YcHhGEo7_8W6ASLOHQ6OkaFHpZxL5Az4rqQ1BwSaFa4msE2lEPmTDtxuxF_N4OxqQ7SiK4gWEwIApVNVQk5oNNSRv2w6ZBr2iaq-yWlYJVsmpjL4jP2lrm_zy5Ekbhdh3KbYOoItFUktdVZOo8MT9YKAPC5NhHvaILtKpH1oDwqv_GncOT9SlG14MWlndREjO_FZJ7SmXkMwvh6n3m1hGSUFKVt9KTkL5DXnBe9uv_eJ3Oq9OZKZOortvcU8OQD08sy6-U84aFuZe5jOy-nvfF5dfQQwUj69Cle0e8nwfLj-HLDTqeH6YfUggiml7xgi8L9tTGxEgRNfAnMXjYEGmfuVKQfFrEDGKW-fMWuksbELQKdc5mKL1H7tPl84nrsbYNfgZWP2R_WoYa2yq_Dgw9w82yqYaQDw5-gZaMSGMJVh81PhkxJYy2lfXxWDA0YaGCKKsRVpFImhPlXThg1TdxwTGFqROorcBeFHAbF3LMu1lob0aGL2x0ETBgGIg4KDEcubompiuqOB4dE-A..%26pg%3DO2HN7LHP5VGFNJAZOWHWS2PC6Y%26ch%3DAQEAEAABABSxEMmuglRtYyGZLUnSCEPmNLZybP5Q_Cg.
+.netflix.com	TRUE	/	FALSE	1796488540	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488540	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488540	nfvdid	BQFmAAEBEEvEQcrOX-awy6Ln5bXBhkBgcALZpaF91pniduuiR6CppbwxxfBlbc_hS8GfmAQv_zMcuqT8W85go4IJ3R3eZCqqvhm6jaiuVpGeaNinxobws4OWVHVGfPAF6le1OMYfRLEiUYal7L4S4Z-49CXCmCp_
+.netflix.com	TRUE	/	FALSE	1796488540	OptanonAlertBoxClosed	2026-09-09T02:50:37.731Z
+.netflix.com	TRUE	/	FALSE	1796488540	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+08+2026+19%3A51%3A50+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8654e023-f1f0-4c82-b639-7e1f1796d0f4&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1788922238078&fclco=&lastConsentTs=1788922237&intType=3&geolocation=MX%3BSON&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796488540	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1796488540	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpoOdRCDtF0lsEi3cQ13akUjcKYX8N5wQ.%26dt%3D1788922292541

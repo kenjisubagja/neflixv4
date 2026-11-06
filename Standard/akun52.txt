@@ -1,0 +1,21 @@
+#USERNAME       : junior
+#EMAIL          : joaquinh123@gmail.com
+#PHONE          : +50379352299
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2024
+#COUNTRY        : SV
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (3783)
+#EXPIRE         : 2026-11-20
+#DAYS LEFT      : 13 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Joaquin
+#CHECKED AT     : 2026-11-06 03:57:10
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1821988592	NetflixId	ct%3DBgjHlOvcAxKEBGBWHQq_TbDU15AIrD9tVNdZBS4uFXMjd2Mm63xsWSY_masH5K-zes-fhZzmJo0-A1kA6cQjgm6GhTtQHYLa3qZv3gu_SCc722K9PNY4p2CfXnjTp1v-zSZATn93yJ96a7KE8spsQOEImr8nkxbO9tTjr-nOwvJn2i7AVSrGGQotsOmoOwoT7J27fqwy_erYkuigrz4N5Q9aktPsC_-2kyJTBruuKl06UTuUb4TyPb5jDJNUB7-Tc3kne82ZTIPLK_BjDAi1ZStihHAjmWMnC_6wDlmo3T0xBrCPbWkbdVvpcH0f5rr1CV7GrV7d1BUQldPgxAEye4iCkAsMH-wdCY5HTNDOE6JiBcqlYq34-gUet1PqlCQTEDc9D8dD8ZcMzwYxE0gsnjLsPxLJ5TC547IzGsvDe_hF7tyJzEQbJktYlzzIwDvkxgp1hkOMrvblk0VJ95iOGT-C6iIhtuGrj6M3weBLkY8QEcMCJcarbyjScEVg0M6bfWllAjW55qBBT6yeq0BjFFP8lCtoKBsqZjHw6cRQLymd-aX2rbxBW45HOSLkVlbR5BhSJ2nVBbFcDuSMSUP_NCUza-PvK5fAJLJ3p78UNbuEIGaG6pbhEtxvAMjQazOlhEYEPCp2Z4Lmh2Wmy1R-8QHbkYbq4JwHCu35Q4MYdRin0roEwaHYWOtHMZcB8xgGIg4KDHaIFNdZGVgMRVDlsg..%26ch%3DAQEAEAABABQ2caKoHm6nwmKH9jnVeAqD1yOiJzGvK4g.%26v%3D3%26pg%3DDI2TIE6UQ5HGPETUSD2JXH2EOQ
+.netflix.com	TRUE	/	FALSE	1798245038	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798245038	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816547602	nfvdid	BQFmAAEBEMN0VApnOQQvsDJ-QPCrwztg7KQKOnrRpuyidSIsO9SE3Uf8hrBoey4ez-jQ8kDSUUeyXXgsgrGAKruSmrONYGGZjtFqZyMH0Gbg2RL0NVXZ-5MDcJxwLFKgvjdNzCv34CDKNtmsH8l-CaoSNYd6Xxie
+.netflix.com	TRUE	/	FALSE	1821990606	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+26+2026+14%3A30%3A06+GMT-0600+(Central+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=dc25279d-b2e7-427a-bf36-9aa79dea4d6b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1785011602202&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1821988592	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMaWQhK7xtpS-PnRrnVd15kdNzYgTdnuk.%26dt%3D1790452592191

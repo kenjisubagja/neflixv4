@@ -1,0 +1,23 @@
+#USERNAME       : Emi
+#EMAIL          : barabasmelinda812@gmail.com
+#PHONE          : +36709478244
+#EMAIL VERIFIED : Yes
+#CREATED        : 2022. december
+#COUNTRY        : Hungary 🇭🇺
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (1349)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 22 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Melinda
+#CHECKED AT     : 2026-11-06 00:05:25
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1822034882	OptanonAlertBoxClosed	2026-09-27T08:48:02.198Z
+.netflix.com	TRUE	/	FALSE	1822326685	nfvdid	BQFmAAEBECnzMbmlyliS_lYSuXj5qIZg2bP8e9hLnbyHS3SL600M13FxMmZbWusB9sevD3oFcTt5K5AlwRAUoevIj-gIfIQYXWuenMFepAumH0iwgt7pwwISFFPgUD-_sNW5FcGmcgGRGcfu9ZFoZMsL5AzOkCl1
+.netflix.com	TRUE	/	FALSE	1823121670	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+10+2026+00%3A41%3A10+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1953e3d2-592a-481e-994d-85eaaa109ef9&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1790498882572&AwaitingReconsent=false&fclco=&lastConsentTs=1790498882&intType=1&geolocation=HU%3BFE
+.netflix.com	TRUE	/	TRUE	1824323609	NetflixId	ct%3DBgjHlOvcAxL9A8OQEEyjW4Ae-ZKlTXbPRq4mLlsoBBkwT5ytzNttV0cBgvE_xcc6lUWihVFakSiJHI_OaXOUkTPrn5iZwmfZRvNvMamzuKEH_SUNwVAp_4gIpKuJ14WJSBERF4QFkNsH09hAoZhLJk77xj6OLIcolWFDZtpaS67k7YSbstugDxqpgLgRVSqsOu4-KGJ6a5OrdgEyMWeN3i_GR5C4vo-eihicnGPATLdFkL07oBEz8DOIdX2DXu6aFfZxHrf7dERp6rFKWPOLXjjajDhpPDEXeFjOme7RSB4bTomqoNeGiKaY4Qdoz3hm2EEZqD-VWwEzt9czQrEhhlYB4z4kRX57JY6Ose3Ll98leSzPsrWaLcl-K7P5GdYkmlFM-DYp3C9TJO0tgvxR4ue0rY-GWyMgrab3NjP_gNWhYB9yDBZz0lAVYLfkUeRoO1PZ4MRDyB4ivGa0qCCny0vG0sjzTNy1mEPz8-w7uMfhXsfKSCW11WCkV_BGKsdJCmZo-kZpYHpfM0sRyZQjXSiAJ8JerKhGgm2DD07BiA7e-ykmVqD2NTVcTYLU7Gb8FaqDztgbruyA5rcm2cv4V7vGuDQ5MLQwzRU0XcAX4LZ_wGKjUrJ3PA0qHE29vitN0VukSRMlg6RNN440dZtggFMOWZ9eTCVmMRMWUTgvhHJGOKS_KvKMGAYiDgoMqLqP4iFaeMcXsyie%26ch%3DAQEAEAABABQJ37aVDJrvE3I7BYvD1goWfmmXmh5aWKs.%26v%3D3%26pg%3DNTPOH2VUQNCBDL5IUWDIBA242Q
+.netflix.com	TRUE	/	TRUE	1824323609	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3KZGy9qLb02kE9Hk9gc9ss271sEYvqf0.%26dt%3D1792787613156
+.netflix.com	TRUE	/	TRUE	1792874010	gsid	069c0aee-6c45-4e4a-96d2-892cfd267ea8
+.netflix.com	TRUE	/	FALSE	1800563610	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800563610	netflix-sans-normal-3-loaded	true

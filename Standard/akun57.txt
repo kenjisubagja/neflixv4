@@ -1,0 +1,22 @@
+#USERNAME       : FEDE
+#EMAIL          : javierrocha13@hotmail.com
+#PHONE          : +59899374748
+#EMAIL VERIFIED : Yes
+#CREATED        : noviembre de 2020
+#COUNTRY        : UY
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (4898)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 22 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Javo
+#CHECKED AT     : 2026-11-06 02:19:04
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1816392648	NetflixId	ct%3DBgjHlOvcAxLMA87WSE3xl3d1CvTRI8E_d1vYsCutW9urB_M_IOCcgyoOKt_lK3RmjgxfgIGxwahX9Xrx1tclONW6-O4vCyllgZCMq_c6YBhHgdpL_bnMKxqccGzCSKKgTwSrScr5dIMegzqZM98B95loZdKZOVwYWhTNqLPH3-zwyk_jH54QlMAmIR3OZsPPRNP_ogO3iN9oo_bKEyLAWgvjZnq8Bxh-XAAFSrlqpjKkt1tk6js82HmD4LDIAznrRrlumriDYIfuIdwjZenceCJkT7woZNt-n6a3H6-YN8pQVFodDWoYFw4rTnzOE9UiwiWCisqPwm-Hkrdm5ofPokoD3-f4u27HpJ2jPbWzq6lK3XkBUqAb3EZGRs8NMCz3obM3Y_AM9z1AblDaU9o4mcPV8xx3ObqNWhHpjJ4sWUZmH5oQO0BokyLgpa6j3FOSu365knSnc47rFXYF79T7TCtJRKlZbgmXBqdTobD3iaO7v0btlVfWWL_I7lva6sS35kuuohltZ_wkNc6xdJHfhbaBHSbK_H9TB9lg91YZbdT9QyauOR3khc5QeXyzqMrResmaGIaLKUOw_S5OerM9whDfd1Uuh1mQ3NVVHIAMeygY2NqvTBEYBiIOCgzuHKXgpbKOXN1-Lhg.%26ch%3DAQEAEAABABTTJ3qaZ8dFmKC3fEzXuY5qpFh-z8eaQ-c.%26v%3D3%26pg%3DNM2YFFYTDBHDVCSHFXRC4M6O4Y
+.netflix.com	TRUE	/	FALSE	1792632641	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792632641	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792548600	nfvdid	BQFmAAEBELCJLkQsLodthpzw6Z7wumVgiYplRDMKHS6BtX6kXr-8-iJP3Id05Rt8KmKWnMYbmHA-vbXumE4Q0Pqt01zebMg96TKzdgk4hqr5VP5I8Fjki1-EiNui5X2gxJRr3E0UHGgWKTd-6haSRuoGPsLZN2WQ
+.netflix.com	TRUE	/	FALSE	1816392646	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+23+2026+22%3A30%3A46+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cef26aec-acc4-4bc0-b6a3-094c600f049c&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1792632641	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1816392648	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSz1-Y-dQgylFL3mE71NRdECvphcGup2Tw.%26dt%3D1784856651005

@@ -1,0 +1,21 @@
+#USERNAME       : Daddy
+#EMAIL          : biancaplunkett8@gmail.com
+#PHONE          : +18703085794
+#EMAIL VERIFIED : Yes
+#CREATED        : Maret 2026
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Paket Standar dengan iklan | HD | 2 Streams
+#PAYMENT METHOD : CC (7698)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : juma
+#CHECKED AT     : 2026-11-06 07:44:23
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1823466184	nfvdid	BQFmAAEBEOeNcme6Q9B6re5YGNkDsQ5gJ1sTzaywu_8xqWku6I-wST9V0Mj9Sp8BlhaOvijc6hOlrj1D_z4274X89h3R1u6mG7V6ebzC4LrLCpBOEviK_0z4lxLPSXPHGH-A6Rwahm6LOeHMQyUU8TJYUKR8-nRK
+.netflix.com	TRUE	/	TRUE	1823531990	NetflixId	ct%3DBgjHlOvcAxK4Axdn9JFOOESqd5OjrHtu1eBboMgHQC3_tiE0zE8lEY_5gYbg8mJCeMmhwFplcjLS0XzllyMKT0VFADf1oSC02jLJExFhQGBm5uLc3pNar3LLo4--d-ElJgxzNK7nbapCLsldD5LltIqQrW0rZymycdQEVJwC8ZLkNHFX1rIiha2EI0LG2PmfEOvobX0G_tkCMWfCKFdM06snBsu2WkgHyAwFNqQzXx9iN1aF3a7I70UQKTzDeNqZyK59hGZ5GJ8KxmZDcZGINoCz1A9HCXItsB0JqBUco2UAkfdL_vDajiP6joMLr_PT_0fh14TEBW6Yk7Oxf65wGrHHVvGyP-qGATtmwyIlEBj-rrvExwTTYqqfpsTrZDsQvWOSqSpvXegBDmK0Gs-IkvBuVsEy3T9VZ8oTdzSbguGbGXtwHM5cxaFFP-SUCzkRZD_TNtrd1anbjHXAR5f8cbH5aoIqEz2xCZOu0GlhPium5mBdqMG-UgitYZUhtfReRImXPUBAkWDsBjy9eAQ4T3QI9hRSdYi89DLU4Rk0tHdzbudhs9jyPHBZvs2O_9KMqL7DxYtq4_pEy84WQNbNwQsyGAYiDgoMcukJ0ReHz3Z_SXmR%26ch%3DAQEAEAABABRLjT7-bT2d8TADrQesGExQQP98zILFCZ8.%26v%3D3%26pg%3DWBDTTNOSCJHNZNSJJHFCXJCHPA
+.netflix.com	TRUE	/	TRUE	1823531990	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0sUcGZAScBph3WmC6KykOorzOou7JUPw.%26dt%3D1791996074825
+.netflix.com	TRUE	/	FALSE	1823548026	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+14+2026+16%3A07%3A06+GMT-0500+(Central+Daylight+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bf742805-13f7-4a8a-a5cd-a018561342e1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1791930103734&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1799788023	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799788023	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,18 @@
+#USERNAME       : Malthe
+#EMAIL          : vbkgottlieb@gmail.com
+#PHONE          : +4560803980
+#EMAIL VERIFIED : Yes
+#CREATED        : august 2023
+#COUNTRY        : Denmark 🇩🇰
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : TELMORE_BILLED
+#EXPIRE         : 2027-07-28
+#DAYS LEFT      : 264 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Vibeke
+#CHECKED AT     : 2026-11-06 04:02:00
+#==================================================
+
+.netflix.com	TRUE	/title	TRUE	1795178026	dsca	true
+.netflix.com	TRUE	/	TRUE	1816794048	NetflixId	ct%3DBgjHlOvcAxKGBCduHFJz9jaVNsfd4ElqwWsvjvFLdBRQzXIMistAVCFC3TLgYT_-MLaeazkUlF_5OZMpjViceYHCgClSrMhICaEv5nXMto0KhngiQaHri5RUIwNEa6dKUOHrYrciHaWD0kG1IqlvsRu58TN3111kab_OFEbeEbFSjTvEIXLgUMN0HG4e4vQ7xleou5JkUAXpPLcq-ME31YB5zY3XnQS23TEjOIC8B2G-U8Eh-_QwewvEr_7cr0jRO7kuOdRPwmCIWvgF5KHhNr7drgwJqmk_YELwFVe_stRbVO_sDkI4T_O3A2agPAr_xYToLeBO18S9Tges7Is7hRJXRcnJjVqm6HUq2SIFZkS_Ycv5pmNxFraz7UDTxqf8bPeoRPBEvJ5odquqylryfMdZ3InGH4EZkX0r47uXtxIahRg18lgTDqc6wsad-EFc873QSY_VgXsfGqo-mBD_QlgDOobKEMaReb-fSOz1h5neXv9AbrZDxkcgtMiVp-6rMNobPln6aRWibOTxPPVVuI611bFzYIBZ1eo94uiMMkcJ14Tnm05rSQL1cLu3z0W4hZxbbx-WN2iYdB0DAauLZR4Z2tlFn0lNCczL3tl5b6Ek21svUPGeovcn6QpM6GOgwDVJocgpe5C_5kNFYTvHsADVFNccphW945KuA3UU1-ibnoL4pXeo5GFxarYOa6VeGAYiDgoMI8Jwwk1Jhgt_IIAU%26ch%3DAQEAEAABABTIPHrw11lI6SicmBFy2q9gc4-L9tLjBWc.%26v%3D3%26pg%3D72VQS3XTHZBITDRBGZJQA4DP3U
+.netflix.com	TRUE	/	TRUE	1816794048	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaDQJGKkuUxrzZsDs8PIwn2cyJ4SMuHgE.%26dt%3D1785258038238

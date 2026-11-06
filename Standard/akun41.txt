@@ -1,0 +1,22 @@
+#USERNAME       : Extra 2
+#EMAIL          : shadan.sp39@gmail.com
+#PHONE          : +918808509393
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2023
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-12-05
+#DAYS LEFT      : 28 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Maou
+#CHECKED AT     : 2026-11-06 07:44:26
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488540	gsid	227cfb56-19e8-424a-ac89-7688b423de2b
+.netflix.com	TRUE	/	TRUE	1819565976	NetflixId	ct%3DBgjHlOvcAxKFBBN4eZC_FpE-L730sNs383vzYWfAwmpkzqjp8bJFA5ZwKd57OYx-Pi1HvG4Ms9Q47uDm0DCbrUwmJ0nHkmP5Xn3-xW_jWaSMZyJEDSFAdgSkCBLXE7Bw6HiZwjqz16fwyMmaO8dnj2hxrwV1po0OMZdyk-fILgUj5aD3xGyavdLQS6WaxabeES43BKgfdw8e2gNV-pFYUJEaMJB9Sn9DwAr7TBpXbkCi8md3TAZQHne909S0u5ZPqWKPf2a2jrWrCJTlVhOfJUIHlrDfD8cu6c1WI2t0gjEkhmQAyfoH5bujTLHZirL4Npqlu62PxRLDBLNQbukEptJde8TkSQKT6e6mo1aH5UIsMuRfMy_tSv9K_TPj1iRpN0zwrjVKlldRrdSXTbL5YOG4xMSnJ28ejsrNjreiyLsfI_d6qVDOb_dtyg1wlDGPjlVZsD1XeTfVpP4xYN9mJqdCqr2uLyYvBtRP9IQFbK66y65uBN2QnZvUCGxXjpHH1tyzXpEsYGcaemiZRl94qvkEn2x610kRKNxVFxpDOJZMZGq2-T3teLa_efVC5WT0TuVMab7SAgBFacSdY7nqtaewAtTZqhbvIPhX4DUxcQJ6tig3SsMCTw6_lz4_BZCKCj1i-Aliaz7oiHGrWDl0-H_fEslgaUHcRKaAGw3kUDhD-68Cc9qBo0XOis7SnUwYBiIOCgw6n21rLmUsJyIQXeg.%26ch%3DAQEAEAABABRaO4aev09iyIlouf66h1LWd8j8Aq_k4lk.%26v%3D3%26pg%3DWBEQNNY4CJHGTL3NUZZYNCYYLU
+.netflix.com	TRUE	/	FALSE	1819565971	nfvdid	BQFmAAEBEE07VLFZd-DWFYF-Mm6pvgZgOYqI0KIP5BGcAxnamwt_epQIuO9gqPjoBtKpHg8TG0KAnP2VCwDbB8rcr2ehFTzgE1GWJUYmYiyeNO3DS0aOAeN2Sqbbr7-OZ6Pf35CcTfSF2DknmqB5nR-a_ZAo-jIp
+.netflix.com	TRUE	/	FALSE	1819565973	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+30+2026+02%3A59%3A33+GMT%2B0800+(China+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=43b861d5-49e8-4b2b-8255-3e09e19b32b9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1795805992	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1796488540	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1819565976	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKcicAdD6Se-dllZTDirvml_TBvQm4jsw.%26dt%3D1788029975703
