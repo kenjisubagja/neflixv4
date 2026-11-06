@@ -1,0 +1,33 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : VERO
+#EMAIL          : leocamasso@gmail.com
+#PHONE          : +5511981710051
+#EMAIL VERIFIED : Yes
+#CREATED        : mars 2020
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (6125)
+#EXPIRE         : 2026-11-24
+#DAYS LEFT      : 17 Days
+#EXTRA MEMBER   : No
+#PROFILES       : VERO
+#CHECKED AT     : 2026-11-06 02:21:13
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1824350173	dsca	true
+.netflix.com	TRUE	/	FALSE	1789800952	flwssn	a51d8e32-b6da-4b81-8974-4e3e24b38338
+.netflix.com	TRUE	/	TRUE	1789876522	gsid	56c39154-87b5-48c6-84e9-71c91f5c7750
+.netflix.com	TRUE	/	TRUE	1821326171	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA3soL6H6e8C59RQ4FUBuAfE94bMVNJ1rga3pv3nDQrFj4aTnwlAltCkJT5KIPwaLriFvfRcvC7Fb-qQuPHR9yVyIAmjhy_TUZ1J9uiyVLXe5dCHVQATDIdGDp7uua0wMk9zuOfY-iUBddDxw1F1cQSQI-Zu8haA8OIAuQ0bIMyRXaD1x5T-l_rBEn8IlER7X7vFln2-4Wlczv-rCYOEiAo63hdy_jYbAvlAZxEJLOdsNWXZGTVTmPyf9KeWqWDnvdpaBdvwmrpwjPwNqy62kDZ8giU1RFliB7gSPVEPs-NZSIDTIuJa2580fm4tKo7A7kFMFYLSE9f1Zo5oVb1RIJwx0E-_7mT2XnyRkPMhtsjAr0TJHjUfMpf12FqCQ1CXH96zUeltPCnYyQhsBvcbQwVI_IJmPhweCCryo_gq0qHfarjTv3xulb6PdbqlYtI6yQdeoCjqqekktEwAbdPhhc_4Z1KA9qFsipnKRD2KCreu28WWvMZnsYvzsX-b_G9Bhzzjy1aO1xXxHENkVbUCa1zkeJXdmOFMXsJg843T8AXVSpRgGIg4KDDvHOWxdIVjv-LuwCw..%26pg%3DTYBU4ASYZ5HPNAZBUYFXQ4ZM5Y%26ch%3DAQEAEAABABRVc00y_2A30VBr_vdcnxcm-Fd-FVrTxb8.
+.netflix.com	TRUE	/	FALSE	1797566152	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797566152	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1821326171	nfvdid	BQFmAAEBEE7GAqHtzhw7AWmfKtU0Ot9gsBahBXHI2TXxdo7XLHDQwU1mCZPU1E9UcMdMYyMkHAjyS01u4ytvaSgOLXJ0wIGlx5RZyVY1vl8o5P3aEyMGZTgg9K6m6uvCxzktAMru9Ka8scoxIFbba0Hto3L2_fzV
+.netflix.com	TRUE	/	FALSE	1821326127	OptanonAlertBoxClosed	2026-09-19T03:55:27.164Z
+.netflix.com	TRUE	/	FALSE	1821326173	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+19+2026+00%3A56%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=017ee9a1-2007-4dff-96b4-2483cae9ff81&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789790127520&AwaitingReconsent=false&fclco=&lastConsentTs=1789790127&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1821326171	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRepfMqMwQ3uTwOrnNT32yVihaW8B-E3C8.%26dt%3D1789790153667
+www.netflix.com	FALSE	/	FALSE	1789876523	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

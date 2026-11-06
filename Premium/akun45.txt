@@ -1,0 +1,35 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : vianz.andra
+#EMAIL          : vianz.andra@gmail.com
+#PHONE          : +6285156298429
+#EMAIL VERIFIED : Yes
+#CREATED        : Oktober 2026
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : vianz.andra
+#CHECKED AT     : 2026-11-06 01:42:56
+#==================================================
+
+.jobs.netflix.com	TRUE	/	FALSE	1786869296	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+16+2025+16%3A34%3A56+GMT%2B0800+(Waktu+Indonesia+Tengah)&version=202507.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec939bab-adf5-4b95-be87-1d9aab5f411b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789893296	_ga	GA1.1.1608578311.1755333296
+.netflix.com	TRUE	/	FALSE	1790036646	_ga_4Y3WKF2MY1	GS2.1.s1755476646$o2$g0$t1755476646$j60$l0$h0
+.netflix.com	TRUE	/	FALSE	1799489492	nfvdid	BQFmAAEBEGQ79ET-FdHMTOMx66qoZs1g6cz4DkpMmWJZ2duE9pOB649upivkMBV_IX42-bLfvyRZBRJ98DMM5JIO7aee7TXDv0Vg-55eS_OFHddj-daIXbwHVNL1YDOIt-wgs3gHQ35cj0Yddqyzwd18QHT8S4q9
+www.netflix.com	FALSE	/	FALSE	1783940734	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1783940721	gsid	38155797-4fbc-41b9-b77a-39a2f1c19da4
+.netflix.com	TRUE	/	FALSE	1815390364	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+12+2026+19%3A06%3A04+GMT%2B0800+(Waktu+Indonesia+Tengah)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec939bab-adf5-4b95-be87-1d9aab5f411b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1791630364	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791630364	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791630364	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1815434204	NetflixId	ct%3DBgjHlOvcAxLVA7lK-yjqJKxrxUU9p0pPx-BKjF4CqTBEOKqAKb8i5DUGMlJ2UpFKy8i0qCXSODV0b_YUnbVdC2jklJsA-EOihWfNul8-PA366AhNiaky5Q0vqLzM3PRsC_p5H-ikZwsOjeOsCs4PtM4qSTFY7F3xw2TdrGgzXe9EIt1sVdH1oZUKxxecF3-qW0TPHh6z25dHnoJcEGFu_nsFevDZacLr4qu4FUGv24XXfdQKfSoJlUAvvUwPy6k5IgQhrSqcO29OI_9n95680XxmaVG2fDORWnz6U7NcMnpK2EwwfPnsOZm3zqvcdSwlR8rRsaVbJ9HHjnBFIcIv8u3K5fwz_RjtL5RfBGe80_MvJ46ZwB4QgSnQ8R1HX7wIAI-qR-SSkieHchivS6NeSZdbYBzAymtkcMQKWa2xWtb2DVUA2XV7DqKlN_jwl_4HdSs1QRje-utfoA3ERuDovcHubMdUTpsrBsyKjBAzIimwABVEg6rM7bjNTA6--LmYELfVjz-opnTx_Konf2XTnPDs_Ude_XIG2dyAxfhYT8rBgeUfDycijd8q3g_YUas6nHORL856JrUwj1Pdu6Fz0ghobJPGnb_56gvsFJNK9IzC2gvpsgZfpkV4OLMWr1QYBiIOCgy2xu88-nFufoCSsac.%26ch%3DAQEAEAABABQSAadnlTCHz1ea3YKc5Ckb4mLAl_fRCt8.%26v%3D3%26pg%3DW6QQYFCWGJH3TBW5I6QQEPNHVU
+.netflix.com	TRUE	/	TRUE	1815434204	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKeOtdwJ-qbo8GFIx8m-0Fv4IL9nRbwjw.%26dt%3D1783898203680
+.netflix.com	TRUE	/	FALSE	1783933303	profilesNewSession	0

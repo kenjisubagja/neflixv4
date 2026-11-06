@@ -1,0 +1,35 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Reflex
+#EMAIL          : nong.5552009@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2024
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : Premium (Extra Member) | UHD | 1 Streams
+#PAYMENT METHOD : N/A
+#EXPIRE         : 2027-06-05
+#DAYS LEFT      : 211 Days
+#EXTRA MEMBER   : Yes
+#PROFILES       : Reflex
+#CHECKED AT     : 2026-11-06 01:49:09
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1780738107	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1780662510	flwssn	4642d083-e986-4a18-bd3d-7d5365ee5f24
+.netflix.com	TRUE	/	TRUE	1780738104	gsid	711f5c61-ee3e-4203-b042-45cbcd817319
+.netflix.com	TRUE	/	TRUE	1812187747	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA4U3HPLmYLhpOo_ldK7GKk7NiiapSPIZ2kLLPBNK7bXdSSR_pV-Ne82cg4vD3-fVcTcKb7TnsYL5eJ190MXAq2i3rGGxBtqzVD9nISOop9famoyfCKHPRaq47eqUWUsdbvChTZtQ4uillh5Da-rBAMnNCAaHv1IqEhcPTv8B7KnOnmFfZoPqkG2U05yT7R9v7QSqEX63Rrj21PwoSJh5mVGfY48ub4hmTrh1zPm5aO8qhNfDPQWpsAPxiusSJd-pVHVEimRYwGvr1KeoNmtDz_i7hKYgKyoZpsOWaz1y0KIhkSYy8tmTpLTMJINYHfjYY7q2sHighOrP1uUF1KkA3YEH5pj5G3H-g-90z2jcGOePahQ7su4CAiEs3O5BOy6erDGuYcuN8ZXrTms7H_ARwT7lfImcd4wPAQgWe2yc365mrTCiM61f3rqiiv2VtrPOknlVZfUij_v1a44uhgaRoaJACGmPZSbFU_5zf10uvI-limsmQ0vQRmnI39f_Ji5fJ6ScyshaltWQR_X3aL_ec_5H1MA6mHZ28QEDqmsLma68JUIYBiIOCgzAaCcYsWwoqmgPkdw.%26pg%3D7MV6CS57PNAG3JZBWGDIOVM2IM%26ch%3DAQEAEAABABRRfiyY8O6cBnbNeW85ToaQEuXkRNqlO98.
+.netflix.com	TRUE	/	FALSE	1812187749	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+16%3A29%3A09+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2e3226a8-9fb3-4fef-b2ae-f288eba33168&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771137385678&isDntEnabled=0&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812187747	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRU3WUNDXzr5dTgdcFxm4Tyaf9feumOcpU.%26dt%3D1780651749187
+.netflix.com	TRUE	/	FALSE	1788427749	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1788427749	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1788427749	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788427749	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812187747	nfvdid	BQFmAAEBEGmkPTHIE19opFPIstNAPXlgabyf6YYCI3grM-VzfyEs5fkx4lB5hJ6qnVFElev52Xdk2sL-PhhQeSk7FdrYsAxuvqiP3i4OrCK1eLmqJvcd3ZQX2YwyTTR5VWnWIZsI1pOkFgpFxUmZLuQWRzIMOnKF
+.netflix.com	TRUE	/	FALSE	1780660460	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1788434696	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : خالد
+#EMAIL          : jeyd40@gmail.com
+#PHONE          : +17874854646
+#EMAIL VERIFIED : Yes
+#CREATED        : يناير 2018
+#COUNTRY        : United States 🇺🇸
+#PLAN           : المميزة | UHD | 4 Streams
+#PAYMENT METHOD : TMOBILE_US_BILLED (5999)
+#EXPIRE         : 2027-10-24
+#DAYS LEFT      : 352 Days
+#EXTRA MEMBER   : No
+#PROFILES       : خالد
+#CHECKED AT     : 2026-11-06 07:44:11
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811456368	nfvdid	BQFmAAEBENnz6p7iRX3p1ma5wantWJxgTUWGYKdOiCFIxItV6jYb7r-Cd7FH-m7tmAcGey5jhkamhtftUuXiXuxev7TvWRQf_8ee2WWRES_cMXEtjtg-XpGyesEC7AGOeaCRhbVFm7Cg5xrMGe_ty7p1c5CE-Pv5
+.netflix.com	TRUE	/	TRUE	1796379457	gsid	a15855c1-0fa0-4b2d-84da-ebabb8170894
+.netflix.com	TRUE	/	TRUE	1824392258	NetflixId	ct%3DBgjHlOvcAxKEBPWoffWllNfUl6VUMuqnU03vB7f1OBkHwxxIGaeOBtwNpyvK2i2i2YJffKf7Im-eBHwywh2DWUb4IOgJF1qOn2Y8768CBx53bfFEKuy0RqStYZkuDMeIT305fyLoFi7NQLsBLjGRFuloUCRQN7uZAUDCLD8aC44yBjhPwDjguigA-YOnK71EZeAl6rz61jgVJExBnPsGxqizBmw-xoxZVakMoNZnCVZ3heZ7Qi0lfGnsPrkTeDXP__smdZHjrVgP9J5Ay2N899Vsz2GN_MY7KrWAepXRx6ve4wQzoQu5BlMKZw7-DxswegW-APPhu_9vLxE7tegWtI4vbMCvnAxFd_uWxrVMJJxTui6NpdoYFOqF98GuHhsRFonbKyt5BXqKoyuCxB4UOYfw6AWEDMJRnaBuoc5X6KLDqI-m-NCEeT9l5I8ncJ1gWkUeDhCwVinoVcW7hXYvW_hqQXJTOYqEcY0AubEpfBHEM0ZLXgDyCmH2hgAXdED_I3ZMuj0xLD5M9rr0CvAflaeQXYo9svQSTk2KtrAntwbglEkkP1MT8V3IAPrm9H3wFBn7nexfkNYNhPNmaATbZHry39cL1o49c-NsKlIS2iN2HtlobRI7yQE4bmxsR4SPksBnc55y8mJ4TftTNdBlmN9ArXj-WkDxOvFv9MivfozhrZ-ao6aoMoAThbpeGxgGIg4KDLC5ll4uq6Q8TXu5tA..%26ch%3DAQEAEAABABQun6CSDanLg7CeqCM6kL5C2d-SCN3x05M.%26v%3D3%26pg%3DHKBB2EITXFA7JMGKLMHNXAYSRU
+.netflix.com	TRUE	/	TRUE	1824392258	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkTHIn6mFKX4Rx8k1z5kW4bCQtLWK450k.%26dt%3D1792856260881
+.netflix.com	TRUE	/	FALSE	1824393737	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+12%3A02%3A17+GMT-0400+(Atlantic+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c61c70f4-2f2c-4567-b99a-3c3244b284df&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779920368409&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800633737	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800633737	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800633737	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

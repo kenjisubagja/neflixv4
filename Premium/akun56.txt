@@ -1,0 +1,29 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Migi
+#EMAIL          : boncanmiguel@gmail.com
+#PHONE          : +639193525213
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2022
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-11-15
+#DAYS LEFT      : 8 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Migi
+#CHECKED AT     : 2026-11-06 07:44:00
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488540	gsid	00febe6b-5de9-48fe-a9d1-73ec59a5af22
+.netflix.com	TRUE	/	TRUE	1802721473	NetflixId	ct%3DBgjHlOvcAxKLBIqdAuoSvk8KSFCY3M-mTVRpyobMmqzlonOvGiK6uXLcV8S_YIPaaw-BxPnpRZhAsyC5MUpLCybHGzGd2XQtK-lQ0JaR2a2XODUB66yAuusWFfUk7J62EDwFkNDksM-Dy3dCc4G9Blh-AdYA-STt3H4Qv2Rkxq7MYPERXnN_n9J7xK9LijNoUzZotNQFePpsOF3vWYTN3dRQ6IOgZoAedEUE9q0pKVX4q_EjhoLUrpa25BJ3Te16Zxu5tsLJCWRlkn8Gc6yUwyLvUPY1W8XztjOjlSRi3fCz_z2fPhaD2zSNw1soI2e-AJ8ZAKln3heqGJTDokONKxtdDUk_UOvz6uAn2kZZ9dupzqr9G763JC-rX0I7ZLyOVcR_GkAM9JrAuCi9y6z_641T3Sr_riDvPwK0rbQ3TnysWqpZAu-2hXpw-7Z8nVSG2uIfcj9epbo9nH8lU-Nxvbp0HDh68AzY-GzgCJOmvl6FxvxtqNvBNiMQsYA76_8lUz33LazcxMB3UYqS12-tfJ2CYuTqM4SfF26LRw9Ptd_pPYsV3kqLG0RA1KjKfDrXGH-iwZLJoQWYsS9PO2aTtjYheE1ENPnO80YjGmcMqnYvABFZo4D6k215eZy5NySzBm7sDosmp8pN8Pe2nXBNOFE7_d5IuPyQUGzbvBYKdojnXm2nPA6aKNvh9FVB1SpRrHMkGYAYBiIOCgwH9qFXT4FQnZ3d6j0.%26ch%3DAQEAEAABABQ8Ef1ha0fXQ2Q58zZYCpnwO0UzPFrV29w.%26v%3D3%26pg%3DCVBPT6FNU5CEZERXKFF2XEZSQQ
+.netflix.com	TRUE	/	FALSE	1794958859	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794958859	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800153005	nfvdid	BQFmAAEBELHGRY1YWPFSYUh6c842NI1gNBTLAANL9q2dmkcHQc_KTRIiJBuDww-T1ZERIs1m5OEF-idRjQo6lgadMAaXonyKvSSSUXrgMFG8WMRR16nljZO0tZZMmXz16nrBT0T_i55xRXZyyrXOgdpWFaYRe_FF
+.netflix.com	TRUE	/	FALSE	1801295426	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+03+2026+15%3A50%3A26+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=1&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6a91233-abe7-4f3a-b8f4-21572bf997be&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1785743426711
+.netflix.com	TRUE	/	TRUE	1802721473	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTd8JnlAUNBgkYz5DfVNMcZPAC3RG4_Yc8.%26dt%3D1787169496220

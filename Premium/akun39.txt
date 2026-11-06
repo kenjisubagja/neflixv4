@@ -1,0 +1,29 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Alicia
+#EMAIL          : elizabethzam193@hotmail.com
+#PHONE          : +593980675233
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2019
+#COUNTRY        : EC
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (6085)
+#EXPIRE         : 2026-11-21
+#DAYS LEFT      : 14 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Alicia
+#CHECKED AT     : 2026-11-06 07:43:50
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1820938744	NetflixId	ct%3DBgjHlOvcAxKEBAEPqVqkmWnQq2AKAWKJ6N2oR6Q972PGHshDA_y01y_HehTPDwk2bw9C0_qZXCqEGoktSAJbUSfhC19sxIU6cNRnYMFYGU7tkjiXuMAaU2bHXelFKW9SsLzKdXGyD-t542peNCFR8DZkuuh0XOL_kuc2JBkE1eJF6NJVG3XDkoUtu5-5vzN0CskugClR1jBZo3EmzrGNLGEd11LMl1gybthxdBmoBFS-kNYVHBd0yNu_gaMN12RbEc-0ZJfn2-g4osSeyeougRdm6rA8AbpLOcXItSsQ3-TLy-YD3Ym6d913T9dmLKZztisAtbulQGWJ00U7euXmSf-Z0AN1Ao6i-2lWRHMRnNeEggST1cA0-lL3D4qVtWa8Nx_sSyV_uSBbg5Pd1oimAKur3R9lm9Jkvq-Y10yOnxR6wUo7B6MG4VR8mMNw34G4gIykF3tz5GUiBz5qxDMJFrOizm3bnT4fRRSODMWaN91Kto3CaBzytlhwLOFii-NBypki42Q2G2OoA96BHTXPoSbdgyWAse7EBrPJap65Cf410r2-x5BgF8tqZnEJpq6blwM0aJefm9lqSw3FBYhAurk742ONmFHff5D9u9NXITr9k2oCgTvRB6R6pqCiaOcYikzFBcX6i-vlvAy3iJgEojKKZVPo6ALLYIWiuo7XOgnx9pZZXiXDl6A9OdX28hgGIg4KDD8ot3Mabp18-8kOig..%26ch%3DAQEAEAABABS9PzhVODViGJHk4IStS2T0d6UIiRVeWIo.%26v%3D3%26pg%3D5HPDZDOJ3JAVDBKFBDKIEXPREI
+.netflix.com	TRUE	/	FALSE	1797178747	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797178747	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813001118	nfvdid	BQFmAAEBEN0very4U-oo0No09Y6DXt1guWPNjHMcJEcmItSaCoGqySkBNxj0zMBFbwyhGOgP4cK7viirQLgb8J0XQJub-UM5nNbef4CoOcnYtrP8kSNC3EJ_PudQVdkcv-HSaXSFtzBovhbP7vu_-zn1L3xIYe9O
+.netflix.com	TRUE	/	FALSE	1820938748	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+14+2026+11%3A19%3A08+GMT-0500+(hora+de+Ecuador)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ad64ce1-c429-4bab-99ac-7758cc5f8187&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1797178747	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1820938744	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZEZdZSAOdN6UNNjFG_KV1DBLN4dlX16I.%26dt%3D1789402744140

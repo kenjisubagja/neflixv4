@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Mattéo
+#EMAIL          : claudia-nino02@hotmail.com
+#PHONE          : +32472274464
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 5 năm 2024
+#COUNTRY        : Belgium 🇧🇪
+#PLAN           : Cao cấp | UHD | 4 Streams
+#PAYMENT METHOD : PROXIMUS
+#EXPIRE         : 2026-11-11
+#DAYS LEFT      : 5 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Nino
+#CHECKED AT     : 2026-11-05 23:47:12
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1793143904	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1793143903	gsid	aedb75a3-7644-4ad2-a927-87ae9c3d5315
+.netflix.com	TRUE	/	FALSE	1824593533	OptanonAlertBoxClosed	2026-10-26T23:32:13.331Z
+.netflix.com	TRUE	/	TRUE	1824593573	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA_nEx9zyzdi1IjCgyTkoiUo3RP7nJh5-0Ywdmw-G7DdibhEnD1Sk6TktthZnKuMkb1Z7MLW0hzRYNfYSx9SdPBxTziJ-uJPTJTGG-PHKAYRaVYOg_euFgABIPlarb3jTRliLY7LmBFVgFQkJeOMnVol6Xv68k19uvpEMNMygwc3sIzJy3sw5PQa4uw-Gr2sCDVYneEkyPES5n2xfv2mh2Esd7uY7q3nezjIyLIuAkpA1EJrdW_XagAAdoMpG6O_v11ycsq8B1DJDjkXXv0C4rtFkHAgllMKBO3ufryjErpBe1WTFj8VqcfvRPCQo8b_7Pe4BwiUamW2YUlwsdBR_j25OVKaS6SqJiYVRJm6Hy4uPrAE3FmSJJ3NwNby6FvxgJdJJCmnDDIPmAVrDJ--Z7WZhFdZIAj_GBqMuBhwKMVLo95VAhmiap4bvHhNGIvDqfVy74wMwzsb6jZCdNqIfTfVTao4TOHorkIfBhEqnScVO_jRfolKuoz_n6pbjUUq7syJBcQ2BFjbtiAqrD9HKIRHyA_PHsA0l1y9a_rAhGAYiDgoMf8UmmEWw-qYHfhJb%26pg%3DFJ4CAFOAOBCV7PW7S67OEC4JEI%26ch%3DAQEAEAABABQaA5jUncRDiYz0-pNoHd78Z-3SR9OhJVI.
+.netflix.com	TRUE	/	FALSE	1824593576	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+27+2026+00%3A32%3A56+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d17d3c8e-eba8-4132-b471-633ceccea764&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&lastConsentTs=1793057533&intType=3&crTime=1793057533698&geolocation=BE%3BWAL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1824593573	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWVu6l2T3KRD_0qwH0U7jl8fI32joZQQ8.%26dt%3D1793057573738
+.netflix.com	TRUE	/	FALSE	1800833575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800833575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1824593568	nfvdid	BQFmAAEBEHS7z0XobfHd2-91vcB5sflgVqDNThicK77eu9PsHYSHGamXSI2umrSRx3fSAmGcTJA90S_6oV0Re4nWPK64EsMBe8qTJ6CiIxLdSsn8YWtJiQEb8XjgNH-vf5I6MuZRqm8ZyJSLfPHxdoNLjhI65nNw

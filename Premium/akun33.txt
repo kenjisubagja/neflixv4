@@ -1,20 +1,28 @@
-#USERNAME       : IOSU
-#EMAIL          : misjades@gmail.com
-#PHONE          : N/A
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Valen
+#EMAIL          : ezequiel2345zz@gmail.com
+#PHONE          : +541144093278
 #EMAIL VERIFIED : Yes
-#CREATED        : diciembre de 2023
-#COUNTRY        : Spain 🇪🇸
-#PLAN           : Premium (suscriptor/a extra) | UHD | 1 Streams
-#PAYMENT METHOD : N/A
-#EXPIRE         : 2027-03-14
-#DAYS LEFT      : 129 Days
+#CREATED        : junio de 2026
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (3873)
+#EXPIRE         : 2026-11-23
+#DAYS LEFT      : 16 Days
 #EXTRA MEMBER   : No
-#PROFILES       : IOSU
-#CHECKED AT     : 2026-11-05 11:58:28
+#PROFILES       : eze
+#CHECKED AT     : 2026-11-06 07:43:44
 #==================================================
 
-.netflix.com	TRUE	/	FALSE	1796998827	OptanonAlertBoxClosed	2025-12-11T14:20:27.316Z
-.netflix.com	TRUE	/	FALSE	1796998823	nfvdid	BQFmAAEBEJRH-gE7m5uAF8b4qSj9SE9gepOgXzX8O4EhQs_lJX4RZPqnDQ6KsqI2L8uyHI8cESGTGk6tm1RnVQ170Oazc1DPBHOQEcx1m91mn9JFIEHOdkB3gXJzg_ri2Lzcj7eMyCGJafms1qPy8tLyJM_LzXFm
-.netflix.com	TRUE	/	TRUE	1805047214	NetflixId	ct%3DBgjHlOvcAxKKBKipdwP6XXcU5YML26ma-VLEfgfVrtxgUcsz0vrMRhRYK2_-vs2gr5DGlgfwIXgh2vxQ8Fm9HxQ_tlLnpo70QNY9FfUlGRoiGYfEMlWM5Nc2uWsiwVNhR65xatTB2yOMOe-XkRUqdxEi7phrX8pZ43zY7YVV-HMZObeh11PMct5_kv8ulBzHJGTpKQy4F9jnwACxhLcKGYzD6ZYSEVXxzBmN52kirufJweR-89AxDc6D-aAIoDIgZSxnw8XqUq-7E__RTeV3K0ey8kKq5qolOImLU3n1khQv-cCsb0yLfVrNzHxlmWOrKSqt2iB2VZtSQ3mleKamhEuTy8dLvTUXpBif_Ld9jkfnPi-m744xZ3j4UGMRsQf2zjXSiQ3N0lp5hm0wEQfRgTUgNnhY5QRDC4u1YNCqm3Euzsae91_ApR5t-av3PbjjFhjmkh0-HlZpJDbsbDXTr5WCvupZQxx_QrQNEaNajtdgBqk6pdxdmwoSnGCsdzafaBxXWApc30DB5DjRJpEmMJc9WrQCgg5VcOCFCzQRf6INcvgy_GD9rmKHxxV3Wgq382aDoT-biFdIAJZCYubgSPzp9gSE48WA7CAgDbpD428nASixSiAZb5zgA_H548rpZo0uUO7gI91IZsSje26_kJxsqoY_Fc967IIIwEihgtxdBMfEeiEt_FQf4jjJT0cigje5DRgGIg4KDJps0VkhsUqHYjEi0w..%26ch%3DAQEAEAABABT4mmsuNo0mhWQM_xIHZF33dUSBuLEzJYY.%26v%3D3%26pg%3DJ7H4SVZLANC2VF53FHUELSLO5E
-.netflix.com	TRUE	/	FALSE	1805047216	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+19%3A00%3A16+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7166d6f9-4a02-4ac4-8bb0-6f29f2487533&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1805047214	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZK8HYw4WxMyHwCw-s1xf4lO5ycJ5PPDM.%26dt%3D1773511214796
+.netflix.com	TRUE	/	FALSE	1820010385	nfvdid	BQFmAAEBEEwwmQSxmQNtToZnqTwDikJg4a7Kcwbkv1_2CVbZQRydR2bVbCauZDwby1nkqnOB1OZZvCZE5klNjwceYECPP0wCrlzn2wOJxSC2oXwoltX1xsNVscwV7VmtTpvRKObKSvecyHuMbFKedD4SwIyexFey
+.netflix.com	TRUE	/	TRUE	1821828548	NetflixId	ct%3DBgjHlOvcAxL_A95IoqwisrGWcy15d98bgGSNsk3GLnM71guVvshkTH2Uar2dElDvmur_oItQ-Bt-wFanpFYhS2pfJ8oPlkHJAUEf0DLLrlPxUI4lfGRxnba8woEc8J7Ye8mxrMs2MYj68Vj44NtP_SI-HmI6bCEUcTPZSxqGfogOcscwac1Q53z18hQTTSSDJuhCDSGRpRBkvGzKXvD1BJ3mX2d5kdMyDHMvS6WK5fokayQGu7Ckgak-NnGpWLqUKVPp5fvZbAqFMYqijyCA2QJ5ZS5XRmErugqN8djyLTPqAbd0clEVq45hwc7CsQ3IjS4wUAPdx-MBzDb-5XLcZsg7M6kIpNkYRhJqwLT3f1xnRSS23AI5eISnODXCyIebrcni2snSvtGBQu__U7JBCwfcGygkrTavsyI6w5OmDngICXyo5_VM_EVbVVkYxNaQo8smRjljzqfTpsfKAxtN-SzExf7Lr7A_Bmc-oqlH-OKmuNgCW6yYKfvbg0wQOiKoNt6RCSMQmzzMSLAYH_HDlS7ERL6mVRSO-X_f5Occ1kUdqMtul3z_MJFxlpUHY4euJTYQTxyfHDrxRynG0E-OI3phqyoz7nMyb76AK4P4HI1uI9-aPP7bQZjIAY1nGdU7bi494IhhB0_JKWJY-k3t8LAD-GyHY3n1-bgsn7ZfuOAcil96ZfdWs10YBiIOCgw3NVhIM4FtPbbdOdk.%26ch%3DAQEAEAABABSM05IIgy1mxeD4l62uaf0YbV08lNWYWh0.%26v%3D3%26pg%3D5I5ZARCDONGMJFJFMJO2UWVG7Y
+.netflix.com	TRUE	/	TRUE	1821828548	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThpmed-bzeBdUGC506rS04iP-Ulp6FDH4.%26dt%3D1790292547279
+.netflix.com	TRUE	/	FALSE	1821833442	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+24+2026+21%3A50%3A42+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=686e25ee-b4e4-4e79-9ef0-5e0f9a67bce6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1788474385371&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1798073441	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798073441	netflix-sans-normal-3-loaded	true

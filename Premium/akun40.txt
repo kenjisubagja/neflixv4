@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Kriko
+#EMAIL          : ericbonet81@gmail.com
+#PHONE          : +34641984217
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (9650)
+#EXPIRE         : 2026-11-26
+#DAYS LEFT      : 19 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Eric
+#CHECKED AT     : 2026-11-06 00:36:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1814305947	OptanonAlertBoxClosed	2026-06-29T21:52:27.869Z
+.netflix.com	TRUE	/	FALSE	1814306196	nfvdid	BQFmAAEBEI4N6MKA7CZZF7ySlZMQQqlg_nJlz9ucCd9nkM6WagonjJXKeuHzAmPA6gukkL-uZ-rSUlNGMQ3H_ViTWjHVbqPps2Vm26kX2JAx2XnuAmhCBPWBu3OxNC71dHY60MWMyZRFRnlSdt9zzxU8dHjid_3f
+.netflix.com	TRUE	/	TRUE	1823334020	NetflixId	ct%3DBgjHlOvcAxL_A6ZmUYUV3I7ttcI-aA0D9HmtzTd7GMShQHzqMVR3sKNFy6rOc6OVzyMBuBcfkk6LmCOCxc2xoM1q5t1CoOQ9Q_5KAI607TqXi1EDgRl1dksXWki6YBJS2bHkFftI0-ynA5b1sZ_mjTq2OXqvLbORPQeG7Gr1qicWEjbzlIUtJoictKHL5wrb-VP7jxxwZxWa5hUuT79Sz_tpaeT4iqlfycok5e61BvDCJKaHdXDv6ArjsL-_zZfGGDYFM8u2ISHVx1goEU_vvSkzd6dujjKl3IEyf5sUXjRfWUf05xMtrRZt-M3xJysbLFCRBKkJPl6-aREpKxGx9Ri5b2JPjo0RSjOz2TIoE0gWRTtCJNDuKMlFj1IYjAE8fCPDfJqjbn5ruHm0n5qHqT4HYA-UycDFnUVQ2sbFGgGEX1ZQMLh4wCJLXDXZNN7CeL9kNjGJH-f-nHDeQrFOkdJNCB9DPmNYGZJY3VxKzk7XXl0SGPSLqPlJRe3Sc-UpmrGgTuZUPYRBs_Q05MHEqNuLc7FSaKnR9N7-Koo69wgxPtx19pqAUR7X1sq3JoRa8ZrpCzSAj6701ipEsfPfUMK8tgtHr7J3q5ZUo2v-KaoI8fw6B0eyks2cMrSLd-AmoROYZNHqZQ8AG_u5kGmhtxMSr28sEYluUEE9YcrpNi7EZEEltFTZD-EYBiIOCgwV0W8macnCSQld1HQ.%26ch%3DAQEAEAABABThJXemv9IDhkY0f85vmyIhHAXUxUU_FGI.%26v%3D3%26pg%3DQJNYH2ST3RDPJCYFRTRYNEWN5Y
+.netflix.com	TRUE	/	TRUE	1823334020	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSX6lpdKTxRJf2qH5m7Hoc_zteHuITb4ds.%26dt%3D1791798023814
+.netflix.com	TRUE	/	FALSE	1823375472	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+12+2026+23%3A11%3A12+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7aa99680-cc1a-4f61-94bb-95324a70f006&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1782769948882&geolocation=ES%3BCM
+.netflix.com	TRUE	/	FALSE	1799615472	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799615472	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799615472	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

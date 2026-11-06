@@ -1,0 +1,37 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : はち
+#EMAIL          : ankun327@au.com
+#PHONE          : +819031070709
+#EMAIL VERIFIED : Yes
+#CREATED        : 2026年3月
+#COUNTRY        : Japan 🇯🇵
+#PLAN           : プレミアム | UHD | 4 Streams
+#PAYMENT METHOD : DCB
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 26 Days
+#EXTRA MEMBER   : No
+#PROFILES       : おと
+#CHECKED AT     : 2026-11-06 03:30:19
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	0	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	FALSE	0	flwssn	fdfb32c2-f8ba-4a1c-a131-925826f96cb5
+.netflix.com	TRUE	/	TRUE	0	gsid	8f82652d-f32a-4f65-b9f5-60cc13e63455
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKEBOIguV-pl7TMH1ZQYsO8N2AsS87FOM24pudGT2mkDzGW254e6oIdo6zC6fhaZl5ueSoCpqvz_sgsdcZHcdLvWnYL09LLMRUrV8X-6ofwCWZHXAURJr-tGiw31A1FII9EkQ_W_fd4J8Hw5EDmXaEobTd9seDPHsDk0LK5Mmo2CXerKFMqGSQiigedsWF4tBpdwIiK1EFQb5CtC8kW0MUZXbnAS4LEO2njg8qm0tEvhZhrJfV3ftnvOKvPW9vu2R191dWFrF7hcsXzFngBvdlgSYPT-KbvnOo9nOhEmmgix4NR_T8Cn5-VFCZw84yYzXx6AanOqdAUrAm8COZktqncSoYX6h5fgxTAY0uF5GtUDLGQjOiKeB-FjU4iYDhN_yO1inHUl6tMazDViUYXsZwI4OoETgnw9PkfDE8PvFe5oRnzr3j-WiehbsmH7iQxUXxEuo_Z0prJgqbIJZeF1hsU2KddNe_8FVdl-iuJmk3G3P96LqqYXb9iZi5REemcSjKBDeZpTM1PD2jLVVUUVkKj0xLC5wultsB-hOwYk1odJCwVhBfgPn4KWhw1SAIWYeZ-vOnTdT3iVCDF57W1P1QBv5H7yTZu5uWBCHoToVGBLJn6g1h-hflsk6YJpLb_pM56-FgQzNbYdwfYEoWJYX4uIECrnPls9UFi1Bxd82J8r9WPMQoTbxgGIg4KDNPEM5lPKc6VwWGi8g..%26ch%3DAQEAEAABABS2Je4fnqb9eZtcfmhqCFHXsCuvDNY_U6g.%26v%3D3%26pg%3DEARIH42UINFMJPYTDG37DCIABQ
+.netflix.com	TRUE	/	FALSE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEI4cJU5Q8m3vcgpk5zD1_UpgVwlOvMZtYx4bnvJa90usWMjwlemdFZjXHs8HMN4WRDxq0e7ODyNE8ELgQImCSCeXu9jvQxx-dupMYWip8YxpZh0vyi0_ctiS2m-NuU-gpAHqNWAknbeylmF3GQ_Zrorp
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+01+2026+12%3A46%3A04+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b2ff45ca-0993-4e6c-b97f-4a2e8cc594a1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768718234770&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	0	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLiKV9eig3J_kygHaO9Lx86vtcsMUGjHc.%26dt%3D1790871674940
+secured.netflix.com	FALSE	/	TRUE	0	thx_guid	b4cfe0edd8b7f4ae9083f229a2edb541
+secured.netflix.com	FALSE	/	TRUE	0	tmx_guid	AAycd6b9fCDv3ql6CeT8ukSI_k2OOQ0DyeDCXnkYj5itmoF_-mAPef808O7W21W54DfaNuKgUPPJXgcWcWMKg7LvQ4y-Vw
+www.netflix.com	FALSE	/	FALSE	0	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+www.netflix.com	FALSE	/	FALSE	0	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

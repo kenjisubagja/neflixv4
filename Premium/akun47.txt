@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Jardani
+#EMAIL          : sathvik_77@yahoo.co.in
+#PHONE          : +919642426666
+#EMAIL VERIFIED : Yes
+#CREATED        : ديسمبر 2022
+#COUNTRY        : India 🇮🇳
+#PLAN           : المميزة | UHD | 4 Streams
+#PAYMENT METHOD : CC (8709)
+#EXPIRE         : 2026-11-26
+#DAYS LEFT      : 19 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Srinivas
+#CHECKED AT     : 2026-11-06 07:44:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1794930514	nfvdid	BQFmAAEBEH-inmUPoEqF9t7exVzd8CVgGVNOt8VbDb6i8t59EuCyQtv6rr4IzK7RQcVVyaq-d4cYcoc2QqBdN7ugbep528P2kd5hUgSN5YuJ5-2AAkSir5kSEgnuz6mJACmseO9V91Vz1H_WxuzRAHqLv1nneQdY
+.netflix.com	TRUE	/	TRUE	1824354142	NetflixId	ct%3DBgjHlOvcAxKFBPn65GiWmNR0yPq_px-3tcqj2IkD8Pbm7j9mL9DEExPg8iDVuuzPB2vskD-bl38QiInozqxxy79-l7kkY6LLqpi_Yf0gBamPFSGEAaFuli_SZVZYud_XmmnbNQ8J09oYJSZJ9CCCOw4lsaQn0YodH2dTw8c4FrkVTHb-5yO3MeurF9q2Ec9A6zlAgW-Wz9N6yF0mLuY7CH3UjeqQjCskkssBwwlgHqKW5y_h6jbnkuuSypPDUk4pyzwhaUaPq4wpXBYWZv-xB-dSzvFH6kCU_BP521ydQYFHmrzQyGCbvRQY3jp4da87zsX5CbC25_zPA5itXwC7Y5qL5THU-L8phH2jO2DKFcqUJ_CCBuekjUh5KuF0u2ecX2UqKCskY243uedonaohsiPdeQAi84_M4yYBQrX-VfO-01TlxcKNNLOlbaiIq3IM42gYxo5h7qDciCysfx4OojucuzeUlvd1ELl-maDl4cPYqj9YH6_I4AZ8fXcH3BizeNPE1XNqXW4_WPMuP3LpxC8-UsPqEmzFCWLExF4Lgpi2yi3_LEEo9TyZJ2hNJJ_yC5V5yz2pEUQAGYnUbjutQ84-QwbNqSIhheuDRo8NQAkGDWyeY__Poxp-YEHhvUHUVen8sUctmMDYPgnaNGeIpiCna_OGWi82L7N8DaOKW4duxLxC6GFiZo0YuA3W9GIYBiIOCgylhO3_hZa5C29vidg.%26ch%3DAQEAEAABABQqy1GPOvA9jQc93pTe44vef-cmfIbr7MQ.%26v%3D3%26pg%3D7ALIBJNJJZCQVFDAWAWOGHHH4U
+.netflix.com	TRUE	/	TRUE	1824354142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7lrM4EBqeugP6Vd6gIN331DxaexBliRw.%26dt%3D1792818142883
+.netflix.com	TRUE	/	TRUE	1796379456	gsid	e022457b-bb4e-43ca-aa0a-20b30c6f4844
+.netflix.com	TRUE	/	FALSE	1824370212	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+15%3A00%3A12+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd68eff0-4f11-47a8-ad4b-1ad2f0e247a5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1800610212	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800610212	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800610212	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

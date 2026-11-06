@@ -1,0 +1,28 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : plusnew99+1cosp88
+#EMAIL          : plusnew99+1cosp88@zohomail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : 2026년 10월
+#COUNTRY        : ZW
+#PLAN           : 프리미엄 | UHD | 4 Streams
+#PAYMENT METHOD : CC (1995)
+#EXPIRE         : 2026-11-08
+#DAYS LEFT      : 1 Days
+#EXTRA MEMBER   : No
+#PROFILES       : plusnew99+1cosp88
+#CHECKED AT     : 2026-11-06 07:44:13
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1823003496	nfvdid	BQFmAAEBEIfBVVxla2kyI9TI6nZSkrdg2MJmp1zmoxqbRNt5XuQ0Rcq7pLgQ3PhqscuQ3y1f09KEjwq4NVKTg0SbhbwU36UVCZGnbP9XnsuqX31bbhRAiqkoH1oiqZGOQOtIrGFrXJEvnN5z00cAFLIt8BKImwsE
+.netflix.com	TRUE	/	FALSE	1824454040	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+25+2026+10%3A47%3A20+GMT%2B0200+(South+Africa+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d311c1eb-256e-4f6b-bcdb-e73b6d9a12ad&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1791474675871
+.netflix.com	TRUE	/	TRUE	1825078701	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOwNz3R75uayw5SzXs33vDaICJMCK6qt4.%26dt%3D1793542701130
+.netflix.com	TRUE	/	TRUE	1825078701	NetflixId	ct%3DBgjHlOvcAxKDBKmQw7QSTTo71PDn-dvPfqy8_Eln94e43suVefLmW2V7_eA1vngfKIRihk31Q5x0JLLTPQnrnbijDKbtoX12P7VEdr3ejjYiYCBHqTxwBE5XaHwRRb7hDqcbSWDdVwZ9SBWBDU-lUddovukiIk3F0TdHNevMRTRo_FuV37bAHMeCzypcog3yE0fcGcqUAQT8PeVNXE4uZWoArKXJg7l3AYzQG5_G3s1gnzrX0wlRGV04v2HyhX8VHhb3RCsfTaDin4Io6vrtnrk6VMHcNO15wiHtYbMslqbmgZC0DlklkdmLV33ZiJKQDtgnIynpb31Do3oQXgzJq1CM8LdiImwt_38EVFDb0srNG-hdhty7QMt5UhfrhQRkJBBIoPbhRoX8o8nGWOih4Ou14trB8VKAQgTDDzpK8rjsCxm8gH6R13sYmmFXpqcV6sWx3LKAZVGnc7J_yxsfk0gurcjJTIbZySMtaS6t-dnypowB0ASyl15gMDVVpYwWWvkglWLMVqVUGauN9wU0hAoHPFAp5m4mo5OBtavzxt05Wbpv6dO6ICZYcmW_Q3HcsraqEnuVGypDlPkcKbjXmdPfg8qZMkO5U1UtKZSQ9cgoO3yaHqgTvHRsGH0PnojYbsziwEBn46AtLWj_FrIN2vHm3jWxa_aFudT0H50WjkQCxhvdOXLpEjAU0BFoGAYiDgoMaHS0rn1YJZR-h_pA%26ch%3DAQEAEAABABRFDeSBgEaDWpcxaPRZBBmryNx_Ahqw1dg.%26v%3D3%26pg%3DODNCA7PWNREXXJ2GMSQRBLBB44
+.netflix.com	TRUE	/	FALSE	1801318702	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801318702	netflix-sans-normal-3-loaded	true

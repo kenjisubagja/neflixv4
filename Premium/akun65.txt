@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Papa sy
+#EMAIL          : abdoulayeassanesy@gmail.com
+#PHONE          : +221775617719
+#EMAIL VERIFIED : Yes
+#CREATED        : avril 2025
+#COUNTRY        : SN
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (7531)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 22 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Sunbeam
+#CHECKED AT     : 2026-11-06 07:44:07
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1821314112	nfvdid	BQFmAAEBED8UNT8bMSeFbTKjVxiwjMRgQlhpA7wlERkePPXTFw_qEBVre_pGw2GL8hd9MPeSBML5ifI8QoWkuFdJaiIfrW3NJidwe6ywJBE9s8OZy_BCExjdz2knW_hHQ-kvNtzvcilp20jD2J9vPpLT-ZjQCqtP
+.netflix.com	TRUE	/	TRUE	1822008068	NetflixId	ct%3DBgjHlOvcAxKKBMYYrOVMvuMXh-Lvcqd8RqHUn8FNL1vT1v8Nfo_ZYCw9evFlk7T-KPQ-X0mL7yyCG1AAozdCBDE3Zj6yptR3DHlbDGETt1859D9yQ_5yeTcuNr0mpiaOydgX431Ua3wDLVZ9ctz7PRohjzdWWmL_YVNpdFpx8_it5M3L0stDQfidVbNuMJwX0HNeO3spRBQeW-qnIP10p1qUZjuONqHqhtN6fuqhUEiT-9QLvZFlDTQX0EUkw9FUSRzsXD2Wlmc0xJWt28h2AybFog-sxhwsRELTTOWhW5K8HCr720xQApJdgV0tFvP1ShIWa_Obg1Jse5cfY0QRTHVeypRng0QBBuYntsEehD38NcyX6kift-jRoD5Ax2-ofhJ3NGeaL8ymV0Ca__RE3b4_pAxKWqO0ktusdlwymlOO7VJgenQkW9ZxNozzpaAvDi1WQb_7cVwiqH-br9ocsppDbmbAnXYP3bTIoH4pG4DuGsXAqB5RPG3Oa0nuvBeQQ_fBj28kYUEtILQMOWE_WFLS4CF9MVfRAlSElhoiPoEk5mCjSBRJu34vsob-upRrVetjMFOk_JO54dn-njJq9qf5-KTP5ZN2pGOeQHenJ7voUd_r3mbhnMnWE-5HOjDbnv1ip_74xYMsPpRVV5kb34BdG5_Smapg2p5mM4OmmHIi2V99WMBXyfyj1TfACM4HHTdCWBgGIg4KDBUKesEZE62Ux5F08w..%26ch%3DAQEAEAABABRPmcG6VSZ9Xtifc9bwaEIjdUhwyLPyIm4.%26v%3D3%26pg%3DB4WQPIJ24VEWXF76AWBIEF7UCU
+.netflix.com	TRUE	/	FALSE	1822008072	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+27+2026+01%3A21%3A12+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=30c256db-af0b-40ab-a1cf-cf0d5a0e57d8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1822008068	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTYesTVgKgenw7oPRsSGrSaraWBGVHii50.%26dt%3D1790472067234
+.netflix.com	TRUE	/	TRUE	1796488541	gsid	69a56138-492d-407b-ba05-0822bf555724
+.netflix.com	TRUE	/	FALSE	1798248072	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798248072	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488541	profilesNewSession	0

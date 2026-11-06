@@ -1,0 +1,25 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Ash
+#EMAIL          : privashleyina@gmail.com
+#PHONE          : +254708150605
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2025
+#COUNTRY        : KE
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (6367)
+#EXPIRE         : 2026-12-02
+#DAYS LEFT      : 25 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Ash
+#CHECKED AT     : 2026-11-06 07:43:55
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1807635245	NetflixId	ct%3DBgjHlOvcAxLgA71yn97-jNVlVy5Ukj_Cufvyg1OL-7aJZP0OkD7nHyUXrr6IZYFb2oUkFVA1ocRvSFHqhY0caeJzQA12vEWSlmHKshCs9jGuFNF2L8WWkwk81fhMSz6gCVOkUz3oz1KAZZNdrhrZknMivplRd6UFxYIsUMjlukhKy9kKEWFg-eGegStoS1WggM5EOBIkQ5_mLb2lAtKxrqqFBnrOaGdCk011FNaieSCsEQNEG-5xIaXpXtKiE4RN4sd9mPvQ4J1SvE4zuBz3DpALQES_jVZBqB8lmtKtECEiS75HFlYpTfmxEtMYbo8uAq0pv9NWswudg6VUMy1YpptfNBtMoNz2ke7mna9ums7KaKmJVzze-uVhXPaA69jivO2MineA98V15Tqwr1FErieD523T2snmoaqAqiz0Y5Jy_THsla5JNSdyCLp9_yzYlEkvYFZKvnnuKVQMVV8sDJVcR6Xv05AM13MljLK0QNaWVk6sZ5il4Q6wIehTATOjeGiMP9IlNswwYCfhoZ8KgWWCjQ9Kpc2zlcygkRr-xvEU4cqERFaqknSgx5wf3w0nM8qmIIApi7XKJMMfhisZAYbZBM3OOyid3bworLAgIRhz8b3XFoqFoC4oKbvOzqeL05w0_5SIxONPFxgGIg4KDOO-FXRQhTALwHK4_A..%26ch%3DAQEAEAABABTudMBXr6jZHpWIQLg6ndy-nT8EYFfUia4.%26v%3D3%26pg%3DCHNMIYEW6VG3BPFGH3WNKWCXCQ
+.netflix.com	TRUE	/	FALSE	1807635248	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+19%3A54%3A08+GMT%2B0300+(East+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19a291f5-5290-47ed-ab82-404cc57bd016&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807635245	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSw052MKcoduF2pYBrA6ijEjIlHk3ttAFI.%26dt%3D1776099245281
