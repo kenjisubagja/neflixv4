@@ -1,0 +1,27 @@
+#USERNAME       : Eu serei o Maior Espadachim do Mundo!
+#EMAIL          : winchester221093@gmail.com
+#PHONE          : +5538999865906
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : DC (2032)
+#EXPIRE         : 2026-11-24
+#DAYS LEFT      : 18 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Eu serei o Maior Espadachim do Mundo!
+#CHECKED AT     : 2026-11-05 10:47:41
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1804770377	OptanonAlertBoxClosed	2026-03-11T13:06:17.162Z
+.netflix.com	TRUE	/	FALSE	1804770489	nfvdid	BQFmAAEBEJM94AFQl8D9kV3L600xuZ9gm3jbd4lQyiNw5o8RoYSGWQWBNWJQsh_I0CiEdvn3Pt2neqmelFBddII1GihwFG0IuRFMq5vhYRKyBuCbIjHt9pd_D9Oz54XnwuKB_qdhZv5VKIpdDvwD9h7uKqYFOxvR
+.netflix.com	TRUE	/	TRUE	1807036268	NetflixId	ct%3DBgjHlOvcAxLYAz57wrSqz-4tRjpjsrqB6KQWLTlqpCfUdMs7Zu0uJhs06igHHt9V5mrTkXjz9w2U-UVo78e0P3-bsR6_TSlByrzMLDh69-CjLYst-ADUYb52VBY2dwloi-0tdz9BIFGYnZyM8scCg9d8EFPeFP5_wYZsPy4PUcpKVxusKe8ym9XE-xhlTvfBEMOArL0r4uqExSEEMFOajDhKbgLDltuCOt6BKOouf5mkjlAUfL-ngJfEdoUxOnAMiR7WR_C7PyRT2UjwaBOnEjLfIX0fu8Fcuhsa4Tpt7vtGNJxOUjsRP6fRJxYS4JMHpnXs3ptl_TW7hkTnsYeUSwlSbNWDc3SRtogtsyp2ozwuFoede995WOkGQh2xoVhqDeEKkVVaIFLzOrRb6fZggik7lVPEXZi6BGEb6aYjZJKg85_92FgWFSvEcN4GA5-j5xM2ajL4J7KvcPnlh6gG844lMAGpnkzGluZsleIh9A2FZclhVd8zBufqRtiFA8NYMQkv0vhjKPNd-hbB0J97rZ_uhYPem7mAlgVPyNiUKt2PNxpdg2QuFVYiHLC981pLcJuJhVenbEVZFAOrrh9HmRZDj2fGj6Iw6ahWOu4ylIrulVFVxNyrJrgRB7qOMXdKPL0YBiIOCgz5YQuOUV4Hdmbai9w.%26ch%3DAQEAEAABABT1zHs5hGosZcZRrolc14pPEBKYMA_B_Tc.%26v%3D3%26pg%3DQO5LYJWPVFCNZGQA6Q7IWM3VIA
+www.netflix.com	FALSE	/	FALSE	1775586666	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1807036266	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+15%3A31%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df2e0143-1a2c-43c2-8ae7-608f072b450d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773234377680&geolocation=BR%3BMG&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807036268	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEvHhobV40gazEBvxuR_TseFUEhGDB5ks.%26dt%3D1775500268368
+.netflix.com	TRUE	/	TRUE	1810060265	dsca	true
+.netflix.com	TRUE	/	FALSE	1775511064	flwssn	e9016e39-cc3b-4a8d-91c3-5216a7c7f8dd
+.netflix.com	TRUE	/	TRUE	1775586665	gsid	b3a3a3f9-205f-4511-88d9-6a5fb5fc53c6
+.netflix.com	TRUE	/	FALSE	1783276264	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783276264	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1775504235	profilesNewSession	0

@@ -1,0 +1,17 @@
+#USERNAME       : Céline
+#EMAIL          : prugnaudceline@gmail.com
+#PHONE          : +33630268189
+#EMAIL VERIFIED : Yes
+#CREATED        : février 2024
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (1307)
+#EXPIRE         : 2026-11-29
+#DAYS LEFT      : 23 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Céline
+#CHECKED AT     : 2026-11-05 12:09:56
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1817220570	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA2inDZ7W7k6xoqoTOCjw9pg03bPpccQYY02m6PBQm_cawHhRIEArXt4jovBewgQOMr2mAm180WFN5sMod0J2ig2zqOGkzLTzZgpSasdygEdKh1vVM7EwMmEqax6vUWUdGw3BZ8QC9MxNE530DK_un2flZxzsRm8_JdpTpyyysnvVfccME0nmKAjMi1LMZ9zBplewrBP2_xSRUYcG9Ln6k2jc8FRZZr3zaF1JKHvicz7RoNWXQxxa2-unK-LoMTct7BhpVAM6AK-fvepGmrcmNLq86B3p1ZTrzM6jV0Z5nEsIsupVyBwjSMkUXoabHDXgDTjj8-33X74gG1fO5emRO9fYNCWstQe19xipgCdchhGiFPwkHfDFizDRvJCkYCLQcA5jaBmMDRNWpLUNxlv8EpZyIJddWZzAjyucngYslalCID3-d_MUig97wQb-HWD9km4X3CQDrGOV2vFW0To_g2xgOK7yRAmTPcxzGF7MbGJYfHo79qu09_PfmOEGUyFqRNwE9UwM0AwFig3-TdY5w-r4gtwJNpaSqNqhGAYiDgoM1XN_pNG6uzkn5DuW%26pg%3DIMKJTGTBO5EZ7JBUWHG2ZMYG7U%26ch%3DAQEAEAABABQtP15M39ZOiBQjuatte5OMESPnLf-jEe8.
+.netflix.com	TRUE	/	TRUE	1817220570	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNBm-QfMxtQAdSr6Kw4mTcWCYY2UOSvps.%26dt%3D1785684573129

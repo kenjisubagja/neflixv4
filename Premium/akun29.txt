@@ -1,0 +1,23 @@
+#USERNAME       : Kin
+#EMAIL          : simfung1223@gmail.com
+#PHONE          : +85255317269
+#EMAIL VERIFIED : Yes
+#CREATED        : 2024年9月
+#COUNTRY        : HK
+#PLAN           : 高級 | UHD | 4 Streams
+#PAYMENT METHOD : CC (0016)
+#EXPIRE         : 2026-11-16
+#DAYS LEFT      : 10 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Sim
+#CHECKED AT     : 2026-11-05 11:09:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799593682	nfvdid	BQFmAAEBEOUlr3TkvqyW66gFsxWwclZgN__uZxni56vDs016qDE6pJOK5Nr1xPtSVd37ICMWG4j33awZUxzNE3pb4LaCnYbZsMW5rv8SAl3jGvufgB06QLkoDB2Jb8FeDKLNuB6CqB4-3AHJTR9l9G3yHyEjABid
+.netflix.com	TRUE	/	FALSE	1801412715	OptanonAlertBoxClosed	2026-01-31T16:25:15.879Z
+.netflix.com	TRUE	/	TRUE	1823898358	NetflixId	ct%3DBgjHlOvcAxL9A23J_yqSeAI_pk0vYwMMkUfei4QyUaxe_Mz0YojYPWvqqyrcw_ATyj89SGc5wqriPJceC32Y6krr4bcCyR_1nB-34tO-09fcE4pp5JP-39u08JEJuSkTBMMATa1cYm2aHNOD5q8eEMC9OY95DMYsQ8U9Jp_fMzYL3LZToomUXa4jl6E9Y5--lDk56NA9RKjmDnq67Cj8FAfUAp3AqQriPjcrUe52XT0vI8RdFx6pwegLe1MskwA04bgJIh7EJvYIVXfiH9YGbDEyrEkzhI74yL4L-Gt0Phng5GWWPWxJRx_Xn4dMbn7V9VgwPx7dHW1z_UlIDWis1SLmao9JTCX-dbR1Vs4sm5Eqq7XwyfZZeufG0ka7ANCv-XPEDxpe44yRxaDQGs31T4kQ9QbfeX1cdm2ikXZ_eBA97-JPwuI3LuRDs-KITO8L2EYqa1d71Sr_vFo5AQ8mtLsSCiXguUM_fPzCpIzbV7a45qO_LEMJWxpScWMDPW1Jy-yOQvYnZunzUltb0SNK_0ykXdgq7L5Wn2ywPve-GZojgCOZ_JRDqkLR8KufXxE2wrS9vIq--ex3Org8ht2PfczT70UXaZ9i8e0a4cutZegkZueWp5PRe4OVB2GWkSNhfMeuw1JuE6oSz0YmyGCefCd-iYQHc3Dqqlnw7_QgKZDdLXGEyPs9GAYiDgoMcG_ag53WbHRWbp7j%26ch%3DAQEAEAABABSGCmV6xeIu1CeF3t9MR0EwJKOQouOqHh0.%26v%3D3%26pg%3DMW3HFX53SZBORI3T5JXURL6YYM
+.netflix.com	TRUE	/	FALSE	1823898360	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+18+2026+18%3A26%3A00+GMT-0400+(%E6%9D%B1%E9%83%A8%E5%A4%8F%E4%BB%A4%E6%99%82%E9%96%93)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4b919b08-f6c1-4c3d-b218-b36722543ca2&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BON&crTime=1769876716408&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1823898358	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSyZKXkqTiizm9cx50RMEmq0MT96VB5FA.%26dt%3D1792362357163
+.netflix.com	TRUE	/	FALSE	1800138360	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800138360	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800138360	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

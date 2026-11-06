@@ -1,0 +1,21 @@
+#USERNAME       : Paulindo
+#EMAIL          : paulo-de-cristo@hotmail.com
+#PHONE          : +61404259214
+#EMAIL VERIFIED : Yes
+#CREATED        : maio de 2026
+#COUNTRY        : Australia 🇦🇺
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : CC (1620)
+#EXPIRE         : 2026-11-08
+#DAYS LEFT      : 2 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Paulindo
+#CHECKED AT     : 2026-11-05 10:22:31
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1820777323	NetflixId	ct%3DBgjHlOvcAxLLA9IEX02erJQcFzyRDQ743iiGORbTZooF6EMSGopq-S4gWF4L4mN2cUYll7PkGqYxEf_KpXDTR8DmlcFifrSWPJu3tlv6wStSJP3-m6lvm5XZgk7t448HKP7pCQVnBl558uNzo_FPPjn2A9hMo32o2x__PpfBcA3JbatbK2xI_tJK9TFMJ6FHH7mqH_xIV8dVHlgBtRzSWP4zkMSSwJGFvU1H0b-F1qUXPaP2dGPbSIUcwZOdijzzz6HC1plkjyBY8f8qP8uizfVgk7RBPoaPpGeN2DiGYp1h02upN7ynqyc7ou8J14IopjiIaQF3Hbsm_fo7HlgGvOtv9YNjVNeTWJZZlSuGxSOut2ID9E2TD1sTKKHdTPhvJDECcqG6_NQWINYblFItGagmns9D14_LiUbjSTfUxJP540WvPDe7BXP7ehNa32Ov54s3QiP8pMqiiveEYm1FBQ6lHm1kkkYfZezWOiAh2G7nrU7sca7S4ToahLwf34w4VDL93ls8gQBZleQIAKaDTNWVwaWrnynv7PiwtH6qE2S129ukibIi_kUNGb8NxP4ozTn6_BGct12iwCGbPiEuHThGvl-5i4W0h5MiW3RJpW3TXJIY0hgGIg4KDEMiit_UaaitCvGo4Q..%26ch%3DAQEAEAABABTK8e85dj7EnqRMFkO1UcVnu-DcIuM0Ytk.%26v%3D3%26pg%3DLWNJ3VTQSJENXNIAQF5QWLS4LA
+.netflix.com	TRUE	/	FALSE	1797055103	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797055103	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1820656614	nfvdid	BQFmAAEBEPLUton6cSfgQ2Fo_1MrfEZg1wE9rb0N2_PELZpU_9Tx6nsddux-EZNSsoYyzhsWOlprFS6TTcTdBZyflwyInMpcs-WQRDu4en5Owz6FyXI5P-SICNsrY7VFDyqJwDPYeeAeWvLoiSzQ0k0Nh1A4JjiK
+.netflix.com	TRUE	/	FALSE	1820815106	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+13+2026+15%3A58%3A26+GMT%2B1000+(Hor%C3%A1rio+Padr%C3%A3o+da+Austr%C3%A1lia+Oriental)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c2bae913-da21-4fda-b42f-cf5d52d426ca&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1820777323	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHaVi46cQXBZpe3VRaUlgJi7zNGk9Yfrk.%26dt%3D1789241325139

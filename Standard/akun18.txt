@@ -1,0 +1,23 @@
+#USERNAME       : PierreJean
+#EMAIL          : audreylucie.guidou@gmail.com
+#PHONE          : +33665301292
+#EMAIL VERIFIED : Yes
+#CREATED        : janvier 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : CC (8352)
+#EXPIRE         : 2026-11-23
+#DAYS LEFT      : 17 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Audrey
+#CHECKED AT     : 2026-11-05 12:14:19
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1810326665	nfvdid	BQFmAAEBEP1rIyY-Rzfu-Rf8DyfbCHVgz3MnDnpQiqQVhBCfxTfM1cm6BajMurWbTlmETsIwalbPTZJC5zp1Ep2auY3_h5aU7jv96GlggO7MKyFw6u2cjXljpN1NhMIbe2Cp1WAV5uUNwCujhuRl5feo1dDCJ3v-
+.netflix.com	TRUE	/	FALSE	1810507609	OptanonAlertBoxClosed	2026-05-16T22:46:49.062Z
+.netflix.com	TRUE	/	TRUE	1823188536	NetflixId	ct%3DBgjHlOvcAxKLBAkrhKioQqfxK4SNkyGgDIe_lyNSh3XEB6b2_rvfwyV53o1PKWD-uFgwwmRifdqwYK45NeeXDOdaqlB9cQFdLpFZXmJy_u0G6qdgUTnaVM8uO06vzHFF73JGeG_WWfSSV4eqQ0DpgCHDHLFVVA3SJeU6ZZbI_oTG4V08bUpIrl2jVSa33opApS239ji0mbY5W-VadI-aMUaf73DDBM3DC_MUk9jc_jc7b5a9uT3i0KlFTlviSt11zkIuMfFQV38dV1Uh5DIQCrUaYYiqPnDT661qeg19PrKCxuTfiLxwbXBH55uT296TdTzD_7xHFoIXsoOwmf7v3aeHc_QlR6Y2dsT8gFLRwhd9G-8EqB95SyW_fhiEw-yIbp951Fou7dvatgfD0Xemw9MdkLD0tYIPBzwzWFwSOAotcYG-R97uswfhUroZWOMDd-JC70tPs5qe9mvTQ6AEXf2ahwmy9ULtiV_PZ9XTMHA5H0O5_ldj0Z_3R6MeJocebGPqlt0rGf4mgbdKJfG0UyGWJ3bIR-xCKbHyQ5iqbdB9MiXoiJHp3IGLSJtIv-rD6rM7qJftfEKj9rQ-1ZWde636ZBrlm7dR7O_Mqj3UNG2VlwBzdIb-XrjmGTUKA_Jz1FyMg2mkB9bgbEQJPFtl1WHRRPf38X54qnNywgyrWrg1-5SEtDffW9o6tkHsNdWPl6iDiTAYBiIOCgzFZoA3qJM96BaXrq4.%26ch%3DAQEAEAABABTtZ-TFJbCAftQ2kzxl3ICizVTIVeScr4k.%26v%3D3%26pg%3DZ3XDH26TXZBIRIB5GX2ZCLLVBE
+.netflix.com	TRUE	/	FALSE	1823188539	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+10+2026+19%3A15%3A39+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=445325dc-ab21-48f9-9838-4ebc8c0e7ae5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774036689367&geolocation=FR%3BCVL&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1823188536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUO1-UI4rK284On9GuFxbdN9IUzAVNEyA.%26dt%3D1791652535553
+www.netflix.com	FALSE	/	FALSE	1791738939	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1791738938	gsid	95a0c1de-c209-4a94-b66f-6f3a4ecb7b12
+.netflix.com	TRUE	/	FALSE	1791655719	profilesNewSession	0

@@ -1,0 +1,24 @@
+#USERNAME       : MSP
+#EMAIL          : karlperssonart@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2025
+#COUNTRY        : Australia 🇦🇺
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (6425)
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 27 Days
+#EXTRA MEMBER   : No
+#PROFILES       : P1
+#CHECKED AT     : 2026-11-05 11:15:09
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1792957489	gsid	642ba1df-8772-4004-a369-e0b8898571b0
+.netflix.com	TRUE	/	TRUE	1824415723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA-7eqkbT2fRzbsC_-K5aTpq_bGVv4KcNmTkaLOzhigvbEuch5g8UFmxCp4LUhcItIHheZuzVD4FDRwH5XWRYW5lzRUzdQxiMDW0VSn6SfdGZ4XH26tn_0LVhE74GWnsHefFGP0azyAXtlXsjVGiww9jKhv528RVnCBvQNrEdQJ_jWFH7v5tn2ughvmyTJw1_orZ6zk597d8dkT0tWtRUdE6zU1S1uerqcAIPrnhfpB7rf04qehU6347VqQgwA7l2Oozz-Ij4EBRXkH6N_UdIkv713Fzwr1sIH4Lk11LVyWaO-PPrP1PjrgJbaepv7QdePrHXjVIJeuuBsO3qOqi0IycGN2GhdntikdzGtLRoLlJExoz_nLlw8x9SPoPiH575OWWXykrBLpoi4M3gOEbPBax3HgBImHJhDvb2R7NTdt0tya9hhOoXWGt2qHh0gobLaa31S3zir39QoJag-ZZ9lyKl5Gyao5bg7ZlSCg6en4PtudM-yurzG7EtGpruH_d_khT6eaXqe5YfYbdGtm1Oz2wrcHCBMme70hgGIg4KDIZ2ghm-hgHUNt8UvQ..%26pg%3D2NSZ6EIXQFBBNHO7EDDALIDRW4%26ch%3DAQEAEAABABQrZpsjit17FYnWePlMPgCDzPJexg_osCU.
+.netflix.com	TRUE	/	FALSE	1800655725	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800655725	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1822282821	nfvdid	BQFmAAEBEMVQJNPsVLaNYgJ3kRMUwtVgWSSkNsgjJ0E-Gih-5JGrVsxeXyP8YXvgAQZW3PPBtBdFgTJ8vMeo8n6BA-ZF8tdjD6G7ew6M5hVghQBWlAuQZjlCFF8znafParcD-AyjizEjGGZPJ0KzzxWLZgAXDUNQ
+.netflix.com	TRUE	/	FALSE	1824415726	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+19%3A08%3A46+GMT-0300+(hora+de+verano+de+Chile)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0999ce44-be49-4f7e-8632-8e9233596b69&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1790746723269&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1792881578	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1824415723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNiV1aaAYLJ_D85_OMSzVbpYA2JDHcGXU.%26dt%3D1792879723532
+www.netflix.com	FALSE	/	FALSE	1792957491	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111

@@ -1,0 +1,24 @@
+#USERNAME       : DEEP
+#EMAIL          : thecreepdeep@gmail.com
+#PHONE          : +447904933637
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2026
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard with ads | HD | 2 Streams
+#PAYMENT METHOD : DCB
+#EXPIRE         : 2026-11-25
+#DAYS LEFT      : 19 Days
+#EXTRA MEMBER   : No
+#PROFILES       : DEEP
+#CHECKED AT     : 2026-11-05 12:28:05
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1819473803	OptanonAlertBoxClosed	2026-08-28T17:23:23.350Z
+.netflix.com	TRUE	/	FALSE	1819658083	nfvdid	BQFmAAEBEGeUA8RA5_iks6uqmOZb1jRgTbSqvlU-1Nne4UrXtnCyIxtwDFu7RX3a7YvSKgUF39BxcIn4FyPu__i73JNIOv1N1yplfkMK2-9v8-Nmw1CHOv3-j_pcNyawVYwxuHIpYWIKj91XE7-koZghi6SCEi4Y
+.netflix.com	TRUE	/	TRUE	1824937438	dsca	true
+.netflix.com	TRUE	/	FALSE	1824413987	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+22%3A39%3A47+GMT%2B0100+(British+Summer+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc182b47-f500-4b4b-9e47-2989c3d700e3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&isDntEnabled=0&prevHadToken=0&fclco=&lastConsentTs=1787937803&crTime=1787937803687
+.netflix.com	TRUE	/	FALSE	1800653987	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800653987	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800653987	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1824480899	NetflixId	ct%3DBgjHlOvcAxKHBJY0RGLfxfAAJRnuNYVZ4qKS3fEu5qH-MFwHsANvhiShK6UQOw0VWkCJHdUltqT14AMP2KuReP0jxBB1mpvcIO1L4kACEiu_w5nmoyByw1UUO5QOpXd7c4lzwGKx_Ledy7n_G0nfF22kKjgNMEm8_jjmgyFS2OuAo7yWHv1j896RXbYTzOlc19NpzHlw0QoPjEhBnXILGQW0WciGz3cZNTK7QM0tZlGuiBbuuV0EpQZSal5FvtF8yehq4AWl4lU9p5rPPjqeqBMVc-ctAem4n-8UHjdPpzISurkIDruQm_CnuaoTCG26sOTytTwq4hqAkglRUy806y5eaGc0CfAd47Enc-z8kl7dxOrD8gmFphHGa8yh4un46HHZMjdAaAcs_VOg6KHpoYkmv-VqOBfiLiAuDx0gabbLoCNFapG1Kq09w8WHXxmsgpGtF6af_avSqccAhgOYzD0tfoGKMs0RJUTki4c7fEhrKcLKd6lyOTz2LQxfxbek6iuqjFdzYXWTMSSZivTj3UVPd3uuxwiMI0APaxxtT3_uVBbYCwcIgEQwj555S5oy4QFIy_cMl12DWijSmreWwoRw2Rez_cDc_YhvHSIVN09Lnxi-pndeL8V7iKiJ9OiDj_xRwn8-U4PcjNMPsODtFRoOduUVQjhgeD4h4p-7YPd7VC6grL2kQayLUE2jYx-IjRgGIg4KDKvkMpu_c97p5Fc7BQ..%26ch%3DAQEAEAABABTO5DZ9SI4fSUwWB_Iy9904QtoxZiM7Cxc.%26v%3D3%26pg%3DTVCPHFO7KZAZXHC2J3BBONVIWY
+.netflix.com	TRUE	/	TRUE	1824480899	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiPpcyo3PjnNz4RLkoueayvDiHdkg5Hek.%26dt%3D1792944899315

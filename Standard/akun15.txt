@@ -1,0 +1,21 @@
+#USERNAME       : JESSICA BARCIELA VALVERDE
+#EMAIL          : jessica283513@gmail.com
+#PHONE          : +34640855654
+#EMAIL VERIFIED : Yes
+#CREATED        : julio de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (7034)
+#EXPIRE         : 2026-11-09
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : JESSICA BARCIELA VALVERDE
+#CHECKED AT     : 2026-11-05 11:50:14
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1795124103	dsca	true
+.netflix.com	TRUE	/	TRUE	1766311158	gsid	6a324691-4299-41a9-854c-bdd36eaedb5f
+.netflix.com	TRUE	/	TRUE	1797760754	NetflixId	ct%3DBgjHlOvcAxL_A-djmpGvCjTVEzkA49KKqkqK2VdjxZIBwIznyaslqYtiGWnIRVfFAZEadh4YwQzxlZ863rSVj-oFc-NX47yfl_ZrDfwnFl9QP3qFOkzy3kjEoNSluDpZseIf56K8uglxaLccU2POxmIGG45tDj5EJ8HMEzQxtrBqcoFD7uoGXdUK-wjtGPhpGphZsgGF9a21UW7sXevvQ1DTBX9tHN3fPzl-xGnVXOBUKMnE59Eky9vlgrqnZ83RIvZ3kGX2w3JA5fcFhNbH6YldDXY3htdqmp332RsopivZgeN_A-dvJah1T2PJP9_6I8XppdVqVivgNJa4VNnMop5OwUXrwEDBsdpvMg96v5-L2STjuuJYEwPJ5hvQ_4xRUuVTQK-CoPoD2a6waK76SonqSZCeG5celYu8IO7HD_XQGKx3jWKaq51iNF-I3TMxbyqt4ds3X_YTSzZ9Ia0Hb_MjRy0TSc5cQHDkAHYXun6PRpPSCJgwfBjnDNrHoza1JNsxZTgr7M93aVZYbZaazLPHU5YErg2XApz14JcKM0zJ1xjldb_V7JOMpC9iq0ueXISZQT3bVSVT5AGxhsgpUx_Jmppxp7vlprk613uof7949NsbKvBBbfhPdINMkUNXty4WER-T8-II_j6s3wAWACz3ME15O91SFVnCt5bwq76vpE71UP6FrhYYBiIOCgxTQIbFJzhk9Ozhm8Q.%26ch%3DAQEAEAABABSyhz6ZFARLDMwfb7A2Ifqv-IzKsvLTjmc.%26v%3D3%26pg%3DRVDT7UFPIZHFXIH3AJHJUCJ3TI
+.netflix.com	TRUE	/	FALSE	1785608846	nfvdid	BQFmAAEBEBAhfdmH7oFbjrNXriuKyRhgcF8D8F8ebLkaCPLqI0qzVnRgRvdERrxIZCkojtXGXNKLmIzzVSmhlry3ix-dVMqhwSUrAeelZcTvxhFCxSbuHPU34y5cmQZ4kOz86XeQFhxMHWFu_CFhDB4qG1Y5mdyi
+.netflix.com	TRUE	/	FALSE	1771969079	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+24+2025+22%3A37%3A59+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=73bd7d08-7996-4f8e-8a7e-bdd3e0c0e4bb&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BMD&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1797760754	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREAkyBs59S-L2cPD43-iMSKZg5CUnc5UY.%26dt%3D1766224751334

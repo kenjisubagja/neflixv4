@@ -1,0 +1,20 @@
+#USERNAME       : IOSU
+#EMAIL          : misjades@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2023
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Premium (suscriptor/a extra) | UHD | 1 Streams
+#PAYMENT METHOD : N/A
+#EXPIRE         : 2027-03-14
+#DAYS LEFT      : 129 Days
+#EXTRA MEMBER   : No
+#PROFILES       : IOSU
+#CHECKED AT     : 2026-11-05 11:58:28
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796998827	OptanonAlertBoxClosed	2025-12-11T14:20:27.316Z
+.netflix.com	TRUE	/	FALSE	1796998823	nfvdid	BQFmAAEBEJRH-gE7m5uAF8b4qSj9SE9gepOgXzX8O4EhQs_lJX4RZPqnDQ6KsqI2L8uyHI8cESGTGk6tm1RnVQ170Oazc1DPBHOQEcx1m91mn9JFIEHOdkB3gXJzg_ri2Lzcj7eMyCGJafms1qPy8tLyJM_LzXFm
+.netflix.com	TRUE	/	TRUE	1805047214	NetflixId	ct%3DBgjHlOvcAxKKBKipdwP6XXcU5YML26ma-VLEfgfVrtxgUcsz0vrMRhRYK2_-vs2gr5DGlgfwIXgh2vxQ8Fm9HxQ_tlLnpo70QNY9FfUlGRoiGYfEMlWM5Nc2uWsiwVNhR65xatTB2yOMOe-XkRUqdxEi7phrX8pZ43zY7YVV-HMZObeh11PMct5_kv8ulBzHJGTpKQy4F9jnwACxhLcKGYzD6ZYSEVXxzBmN52kirufJweR-89AxDc6D-aAIoDIgZSxnw8XqUq-7E__RTeV3K0ey8kKq5qolOImLU3n1khQv-cCsb0yLfVrNzHxlmWOrKSqt2iB2VZtSQ3mleKamhEuTy8dLvTUXpBif_Ld9jkfnPi-m744xZ3j4UGMRsQf2zjXSiQ3N0lp5hm0wEQfRgTUgNnhY5QRDC4u1YNCqm3Euzsae91_ApR5t-av3PbjjFhjmkh0-HlZpJDbsbDXTr5WCvupZQxx_QrQNEaNajtdgBqk6pdxdmwoSnGCsdzafaBxXWApc30DB5DjRJpEmMJc9WrQCgg5VcOCFCzQRf6INcvgy_GD9rmKHxxV3Wgq382aDoT-biFdIAJZCYubgSPzp9gSE48WA7CAgDbpD428nASixSiAZb5zgA_H548rpZo0uUO7gI91IZsSje26_kJxsqoY_Fc967IIIwEihgtxdBMfEeiEt_FQf4jjJT0cigje5DRgGIg4KDJps0VkhsUqHYjEi0w..%26ch%3DAQEAEAABABT4mmsuNo0mhWQM_xIHZF33dUSBuLEzJYY.%26v%3D3%26pg%3DJ7H4SVZLANC2VF53FHUELSLO5E
+.netflix.com	TRUE	/	FALSE	1805047216	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+19%3A00%3A16+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7166d6f9-4a02-4ac4-8bb0-6f29f2487533&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805047214	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZK8HYw4WxMyHwCw-s1xf4lO5ycJ5PPDM.%26dt%3D1773511214796

@@ -1,0 +1,27 @@
+#USERNAME       : jhonny
+#EMAIL          : yohandrichacon97@gmail.com
+#PHONE          : +56930100017
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2026
+#COUNTRY        : Chile 🇨🇱
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (7345)
+#EXPIRE         : 2026-11-21
+#DAYS LEFT      : 15 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Chacon
+#CHECKED AT     : 2026-11-05 11:12:25
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1810086237	nfvdid	BQFmAAEBEK8RW6FIOBrAJy0ZH4VieBxgazMLRLukrObJQth15MGvf0rDIT4w96WjH8f8IfH0FN57Tr0uezbzoxkHqdGQIhZBArPro5JQGaKH44QpTlxaDoMCj3WYckeaoJozw1kpb6zwydEUt2zI_9BSEs5FObbw
+.jobs.netflix.com	TRUE	/	FALSE	1811804959	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+19%3A09%3A19+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6627943-3c1a-40f1-9f62-58903ddfee43&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1814828958	_ga	GA1.1.1175261784.1780268958
+.netflix.com	TRUE	/	FALSE	1814828968	_ga_4Y3WKF2MY1	GS2.1.s1780268958$o1$g0$t1780268968$j50$l0$h0
+.netflix.com	TRUE	/	TRUE	1821728397	NetflixId	ct%3DBgjHlOvcAxKABMUaX8xBokYZKvjPsPW6oBh25AUBLzKQSLcl2d7oQ4seDSgsCdWBNsXhnD0jSsAb83IAFGCCP8THog_63z6wPilNl3tcJ1xfDFI6XBrCYiCRZUMzO6bK_IKpunKJdozWJzorehUey4W-dfqlxxPRDl70tm5o2xCfHCBwh7XqlOe966C-pQgACxOteJCnFctKDoypZWWqBUxgXE_0ZwzFNKBSfFCXwyHMsIlf9aBTvTreugARamlGD9OZV6UXlMY7KrVWmhProiT_XWVxxVbf_nD1dVRXzvhUR7TwtosqZhYEUlA0gk0BpMozpDX7FRpzk_4hhtY2V2mCTvMvOGpYacwp0SgS4xbyzd6RFTel93pBoUzO_Odp4Qp6Svbn_GJb_pLdgCum63XpxonIluqaqq_g2PTlDoFUWIMjBKHPuEeCEAU24sGsdGbjTqYs99M01iHMeMnviHbX1LgOEttnUVhfezF2jTzNH_TBp78nJIgdGazjPwpA6iPodEPfoVmt5z5UyFCU9lkbNV1M8bVUCsP2bdJQHoGFMXze0MKHt_H73Q62qS4xuc7N_SRu4OLQL1OI1Gd4tl3dOYLQORYtoBC31jdnqDEpI4XaAAHCY5leRepbCseqz5FvltiEykChvfT1-qnM22rGLfyOqDhHPSiFbAn1JRmJyJ_n8abSy-1aGAYiDgoM4BhpoCEmM7VBYdaw%26ch%3DAQEAEAABABT-KcmMirkmdiUxAcSsWpObovYHqt7xIfg.%26v%3D3%26pg%3DTCQUFY73VBED7NJEKR356NRRMY
+.netflix.com	TRUE	/	FALSE	1821728402	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+23+2026+16%3A40%3A02+GMT-0300+(hora+de+verano+de+Chile)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6627943-3c1a-40f1-9f62-58903ddfee43&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1821728397	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCDJZ1XIqjqD4KufgrUrhdl_r3kMhUtjg.%26dt%3D1790192397043
+www.netflix.com	FALSE	/	FALSE	1790278801	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1790278797	gsid	96d9c34d-8545-4000-a745-66b1cd23d620
+.netflix.com	TRUE	/	FALSE	1797968402	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797968402	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797968402	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

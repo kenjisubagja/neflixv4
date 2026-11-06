@@ -1,0 +1,25 @@
+#USERNAME       : DiegoB
+#EMAIL          : bragado.diegoa@gmail.com
+#PHONE          : +34671115869
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Standard with ads | HD | 2 Streams
+#PAYMENT METHOD : CC (0086)
+#EXPIRE         : 2026-11-12
+#DAYS LEFT      : 6 Days
+#EXTRA MEMBER   : No
+#PROFILES       : DiegoB
+#CHECKED AT     : 2026-11-05 11:51:13
+#==================================================
+
+﻿.netflix.com	FALSE	/	FALSE	1796961081	OptanonAlertBoxClosed	2025-12-11T03:51:21.200Z
+.netflix.com	TRUE	/	FALSE	1796961123	nfvdid	BQFmAAEBEFEplO2BLrI_o7OLOVwtlhRg_LTNkywtyVJURRKdIzbSQg0_2vcVU-aixsRQNOxZSy5EeP5Y2yj1FMP2OiuDgd5P4qDKQz_dkqlMov0ngq-XZ-d3viz6ajFHg8xVayHISRFlLhMq6dzie3qCaRu6_bQ8
+secured.netflix.com	FALSE	/	TRUE	1810112050	thx_guid	9dd7c99efa74beb1166f783d0151fc8f
+secured.netflix.com	FALSE	/	TRUE	1822781431	tmx_guid	AAwMqC1_L29T8sFIbKLdKu_L9ZA4OfT80mPSpTL5u0hrXp0mxCX8aNEp56D1EwzYYGhP97pWBi2ZfZ-susUATGydBCUTBw
+.netflix.com	TRUE	/	TRUE	1822870521	NetflixId	ct%3DBgjHlOvcAxLMA_ZX_vhykDztO8wl6dmldwTUBCsnobM_J6ajm9s23DXrN2KDKLNZYuYAS3q7FMaEV3vV64CIi1NhR7jG-i7qSjTikMxOUNAhqv_1vJP84b2wP0wJuyKE6dtBBUdjzDukt7vVkmf7yUfSOPiV_zvKaiAfO0WklTOAdTa9rV9wSMtPP3FrJn1O_8rkX2Ja-N4IaRJXRizB9Vgxg9oc7oDIdQhmKPYOgIzwuK0Kpd4Ltk3DYiEa6bbB9xY692Ffs1aO0T74F2oW83MqZlaxcwcZTg0PtLk5iTmzDkq8EX6fNvQJLpKDQvCmvbyW6q84MNnZwoeESKesKwh0KlywnfbDwql1QRhjuSmbwbcaL9M7i7WRBqGN4kat-1pOzRtLfw9hRH0La-HTMRlrSkRsRJ8HnFVV3yVNVcP5OKQMVzzLwozyZd0v32cC-dnvX0tBlqWeULEcaYIVBvXShZpSgRQchf3o6cYPZ4xeJj9WsqqsliGwmlJ_NDMrA46kI8UhYXs3OmpZWWO7YxLf0JrJQfVQgLfCxa_q66uLG88LvJXEwA0d3yZz5yyRB8kXPaxJhqhiHbDgdkkxU6ZuK0K1zQbYvmF1H-UJllOHCR0p8MEYBiIOCgykHlfDi_UTnwafshE.%26ch%3DAQEAEAABABQe6fYxAkyv7rPuycjAFyqARZjayZ0GVxE.%26v%3D3%26pg%3DLTN5XBIK4VDXZIAMLOF5YDJKYY
+.netflix.com	TRUE	/	FALSE	1822870523	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+07+2026+02%3A55%3A23+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f12e67ee-b80a-4815-8bc8-a65ff7e7ce56&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1822870521	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhxbCRE2y3dB3v4SlqBBmf4-7mpeSm3Cc.%26dt%3D1791334521348
+.netflix.com	TRUE	/	FALSE	1799110523	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799110523	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799110523	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

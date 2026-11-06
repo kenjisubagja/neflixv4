@@ -1,0 +1,21 @@
+#USERNAME       : Ryce
+#EMAIL          : freemangeorge647@gmail.com
+#PHONE          : +233533594949
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2026
+#COUNTRY        : GH
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : CC (0720)
+#EXPIRE         : 2026-11-13
+#DAYS LEFT      : 7 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Ryce
+#CHECKED AT     : 2026-11-05 12:34:34
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1819914406	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA4Jf0fqsKIddfKhDo6RRI7zFv0PALJXSwLmLlVAlZAAdia_fSsAoDH_LuiIawoU8mgYYACKie7Q1IgBOulH8BqRrefaGXmIiwU6b-DaDWMw06ktgywaijR8_cUYudBbMUCYTFeAwYwblr-Yj2Ftee15s9eK6wQ095P4qASeEnjYYWBlnX5Bzo2e_AXtczqNr8EfwaNLB90jIkIk8WRpNMUssNNukitVMYAbe3jzgh6ejSuB_1Y4s099VcAeZz6Ysj8hQTYBZQ4umieatffR3ZA_00z1ttbk1S0Epl2ROrgQtPhUwf00Y9sL2NxKwomi16rUp04iJulYHEcBxl2c0zrTkdt8wfx8YJvxZAC3q7AaluE2X_coMzYZ-5boiMnGxj7Hl7G062olmUgGQP9qjFFTq7XULwrbCsU1H7FiY6pOkICj0TyzroKLXMHs1V2MpYSmh55Qb19TfxPT4AJrhBW0wctHgJ5yjRqYB1XcMI_nR_8V8mFK0Y3r35ctMx7nsoQ21mkBt9GaIxbbo56tF2X6KNZv4uzkjkmlplQuHIBVutWDspEkYBiIOCgwj5FNZ8dj_ScRBQDA.%26pg%3D7IDSUCMYTBH5NIMU2DTNPHT6IQ%26ch%3DAQEAEAABABRIWJ_h9WrzcFMseDf5LxIyGE2p6mIO1iU.
+.netflix.com	TRUE	/	FALSE	1819914410	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+02+2026+19%3A46%3A50+GMT%2B0000+(Greenwich+Mean+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0ed3c5b6-5160-48dc-9a49-5c2dd148a0a6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1788378359244&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1819914406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTA1ZBsw49crLmMFGoqDeWWb_vCZkO9M6c.%26dt%3D1788378405537
+.netflix.com	TRUE	/	FALSE	1796154408	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796154408	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1819914406	nfvdid	BQFmAAEBENYqSPZ7MecT7vP4SdtgXnVgTwbsMJvWIvp56MDGQ9EXzPS3k1IPiDaJW4vzaQfC6J--GsoMVfX7vfWmXCy-6AfLKO9pkjrHeeBxKETdfVJzG3mWl9xDzV9569P4zx_icwEOZDVUR_BnOzN3wc8nzriJ

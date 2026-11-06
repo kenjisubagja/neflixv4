@@ -1,0 +1,26 @@
+#USERNAME       : Ruben
+#EMAIL          : caantixx09@gmail.com
+#PHONE          : +34636704899
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : EUSKALTEL_BILLED
+#EXPIRE         : 2027-10-28
+#DAYS LEFT      : 357 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Caantixx
+#CHECKED AT     : 2026-11-05 12:02:58
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805496608	OptanonAlertBoxClosed	2026-03-19T22:50:08.253Z
+.netflix.com	TRUE	/	TRUE	1808520629	dsca	true
+.netflix.com	TRUE	/	FALSE	1805496628	nfvdid	BQFmAAEBEOyCgtGqpjw_FCOFK3ku-j9gDrJcIRsUFyPLYBA7IdRa2J7KE1cAnp0TiFFrKNjSigMd_14s0OP2idTbQ5mRi2LxcjmZI0RNcZ9V6PZ6eVDCSmO309G6rLXMtFIHUxQlmHvzv9Mp_gwuqrPTE1bz_4-w
+.netflix.com	TRUE	/	TRUE	1824767023	NetflixId	ct%3DBgjHlOvcAxL_A_Z4eoeTqDHrDlA8VesNxEstEu1AcILmW63SaUd8wJED0zSdGV8kPCYrnOikaxV8sOb7fLqLGj8YV9m3S5i2bFRwvoNGJcTwmCr5tbx8sq-S_4DRXkJ76qRFUkvl_sNYc4IRevHGTb2u-FjCPqUfxoCAXn1t4as6GGIBGuvsTGE5C0rgwWcApvmFtfzMd7jGS75sv7Fbhg1f11TuaFd9foMUdvhP-cKY6EnzirdpJYWy8AkjiYAC4ar0Csuk9GmgGuvBIwzzd7C68POBWCtNS8SXj388fbAMcvpidJT6zDZJ72cCswHti9E2cwOvJDWRNhEEx8Z-w009PeRUz2sEySj-SrKmHdT0VIF3-NxXd0ktDc6kc-PBz-qa_C3T4WeiYtBpMOWUeEkhjyklvXKqRf0uzuv1Zr5obrK4_DRQI3oIzXUXttR7gmjAQfAyZ7A3laaUZiq_XGDBLkBEBYjZRSXOgM-a3q9feZ__h0cG-0Wj_WL_yuRG9AE_4mdzcddzi6rC6S310htoba9tiNIc4B0y7ybDayHXoagteb9tk6hBlgNjpbRfTBcx_n3bauMH1cBNDtLekiIMzvzyHRc0IjWoG6rHf9Pu-9qIBQmGhx4XFM2YaFHUyj0DNHAb_SNEfQs5aut35g26RE5s9F7syqh82ROe-nthiZQM37SOFLUYBiIOCgxj2XtI7CZl5BJbQRo.%26ch%3DAQEAEAABABQwFDZEZIOeHFg8wfS-wtxTOVuLrgMajqg.%26v%3D3%26pg%3D3EPQNKGTOFFCLGFCARERA4GJSE
+.netflix.com	TRUE	/	TRUE	1824767023	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStBeFbMsLe9ZGzshDqcqzb4zle2J6y_kM.%26dt%3D1793231022040
+www.netflix.com	FALSE	/	FALSE	1793317424	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1793317424	gsid	e7d31e9a-161a-419c-a107-e6277305a7f5
+.netflix.com	TRUE	/	FALSE	1801008693	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801008693	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801008693	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1824774775	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+29+2026+02%3A52%3A55+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ef71c9c-5f2d-454d-9432-3d3738ec3dfa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773960608617&geolocation=ES%3BCB&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

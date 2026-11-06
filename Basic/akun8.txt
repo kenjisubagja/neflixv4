@@ -1,0 +1,25 @@
+#USERNAME       : Hungry Man
+#EMAIL          : thedreamdayfilms@gmail.com
+#PHONE          : +917416575350
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-30
+#DAYS LEFT      : 24 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Hungry Man
+#CHECKED AT     : 2026-11-05 09:51:01
+#==================================================
+
+secured.netflix.com	FALSE	/	TRUE	1808897204	thx_guid	d2bccfb5587361cfd028297fb45cc348
+.netflix.com	TRUE	/	FALSE	1808926325	nfvdid	BQFmAAEBEMADqn1yQafRpMR-Lq53EmhgkRvpfl6TwmusIpo1x3bO2FM1joo7Xf8uyxRzZ4r16vCCRZvYbpsgv-meZcNKRtCyRGbHKUIeBZcI0rNKWi-7KaZI3aPqYSuxH6qioSrJmJ7G3cSAn6zz7qT8myrT-pJM
+secured.netflix.com	FALSE	/	TRUE	1808930223	tmx_guid	AAy-i9GcXcW4I1VCryqvJay_HJe2JCvUAZ2z2-cinFzdQQ8nbdqeAH6J0LyYLS5HKbyeBqfTxo_6e6G42aFGJEUUMOnL0A
+.netflix.com	TRUE	/	TRUE	1793696670	gsid	4a33f5fc-431f-4d00-a217-13eb05001333
+.netflix.com	TRUE	/	FALSE	1793621148	flwssn	fab3e70b-d579-4506-b75f-860cb9727f11
+.netflix.com	TRUE	/	TRUE	1809162379	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABReIQNOINrXw3R8Bftf5HeO3-h9uH9ufMI.%26dt%3D1793610380278
+.netflix.com	TRUE	/	FALSE	1801386381	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801386381	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809162379	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAy-GkyM5ph-3h46x2QSucBs0ve7zU5UZGSZJC_Aa029B-itFpurvWMJ5jgyGQVePyVyWt5gn2o7uGzlzxArm1JyfQ9629eFSZH4RNz7mz2PXriTs4Ox62nQeeRqdIUeM0FswcZhKJKuvpRAV9017NyeAJXSkBui1oGHplzumJTje9y2WS1IfEioYzc_UgV2gLPgWzMqcIAz2lJMdO0HJDuyGyfJAQ4betbPxedY9PiTZX5u0oFisogsFkIpKtK3oOWu9upVYJDJA9n4zMWq6SUxltYUSfOKE8paKkgieOgs2_BgUGiM4up_soGkm5fVAnl6nftYMhlNgFa-nM74hJiPkG27rqcEcfmjPKMLwuYSnB2UxYK6oHAq5NcZKScHAUGS3wEkORL5ekJz9lI75Uc6l8TIh-NDr5eStM0zmwm3s30Hlszd3yKahl0SY9qb2dr4JJO2xGgKzh6fFksXj9Xe1WjB0XzxDgR5VqYG1tTiQbW52OSILoKW2rmPSy9VcmJXydlD0hE0hdj1e4z-e0AFmQ76vtRgGIg4KDCFjl_QL4vYSIUls5g..%26pg%3DXVHCOZKXIRGP5L7ECPNYVNFVEM%26ch%3DAQEAEAABABQ8CS9PCdhxO7Bx13n5dsXfY3MTsPgFADo.
+.netflix.com	TRUE	/	FALSE	1793612376	profilesNewSession	0

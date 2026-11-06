@@ -1,0 +1,25 @@
+#USERNAME       : Giltakx
+#EMAIL          : gm0519040@gmail.com
+#PHONE          : +6285608891467
+#EMAIL VERIFIED : Yes
+#CREATED        : Agustus 2026
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Dasar | HD720p | 1 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-11-27
+#DAYS LEFT      : 21 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Gilang
+#CHECKED AT     : 2026-11-05 12:58:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1823479056	nfvdid	BQFmAAEBEFr8BFqtD-aSbcXixWGfz9Bgn093atcfMbSJI_WQ1X6K36LECVQYV0W1KtD5zej_EFWdfg-bGHLKgFoKTdVgsdifMNx7oHKuprLsKMivf189bcGAZq_X7_62ATHuWb8QTJ75YTqXqMzu-iCHrl8H_CIE
+.netflix.com	TRUE	/	TRUE	1824829991	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAxLIqC70OVHEYBvexxGwUyCudj2AlAafnFqiVTSPzC6eLEONmy7s0h4TOs9cwlwpbXbqrt1Cy0Zmxflq3io4DC8n-sC8VwqjbONRIWN3iOpiAfO1-uUZ3HZz9aBMOepTVA6_f5NUkfHWVjao4t3bTtCLPO9awY7iwvRHAzxHI0evu-5pEwi1gL_i8c1xjw33_OFDgVyCH7yi7XwEkx_sgfhQIO5UWj3Hty_lMvaunn5ezx8ia16QbTU8i7BesJDXSNQEHNYtANRlIKGQFTrdwG2mhFCd89jtSt5UaM5MgtO1A93Jr4s0lBpjHhMQHDA9kaWZmWd3yt3zRmJOVuY8yFrOnJd3VilHenAd5bTg8lLjOho24vndtusxg9ps79SDNG2nEWzq6sTiFhZwHT4YOSEi3BEEome96ZgzJQjlghpIK-COlvxoDZaxl2uaD4Ou1SWfG-i34oqag7TXrVlSX-ynT5ObX8Pz65oF1AQ41WytY2IMD7GPtDebrKq4YST1C3dKeQHjEVq67oHg3u5B2WvZRn7DqtMk-xEYBiIOCgx7Dy0R1-RqrCyTHNA.%26pg%3DEA6T3LJ5LZH7HEQSS7IGB23PVM%26ch%3DAQEAEAABABQdEUNR9jFKI9BBqCGD3GK1J0EQ7h4tiE4.
+.netflix.com	TRUE	/	TRUE	1824829991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdKQsHQj0yd8bMzygnP9wRMQC_lCsxxTY.%26dt%3D1793294007936
+www.netflix.com	FALSE	/	FALSE	1793380382	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1793380381	gsid	94ae68fa-b9c2-48f0-ab2a-a98641f19b93
+.netflix.com	TRUE	/	FALSE	1824861158	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+30+2026+08%3A52%3A38+GMT%2B0700+(Indochina+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=564b7c1d-07b1-4eea-a491-7710ae997c6e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1791943056659&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1801101157	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801101157	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801101157	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1793329271	profilesNewSession	0

@@ -1,0 +1,24 @@
+#USERNAME       : STELU
+#EMAIL          : balaselcostel@gmail.com
+#PHONE          : +49179666948001
+#EMAIL VERIFIED : Yes
+#CREATED        : octombrie 2025
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Standard cu reclame | HD | 2 Streams
+#PAYMENT METHOD : EU_DIRECT_DEBIT
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 4 Days
+#EXTRA MEMBER   : No
+#PROFILES       : STELU
+#CHECKED AT     : 2026-11-05 11:29:53
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811213314	OptanonAlertBoxClosed	2026-05-25T02:48:34.223Z
+.netflix.com	TRUE	/	FALSE	1811213319	nfvdid	BQFmAAEBEKyOjXyp7_bduCDjJ6P0DCZgEmxMglULJDp0TV7bEpjsbcKRzljNLAuJH8pfXwihHK7G4Q6L0qWVOLeLWkNY6xmdabnKvzJMv7a0E5s8TE8cc0iqGQtJgt1DdwZll9aCiz6WQb2H__nxWv1GoUGtFTv8
+.netflix.com	TRUE	/	TRUE	1820096608	dsca	true
+.netflix.com	TRUE	/	TRUE	1823766671	NetflixId	ct%3DBgjHlOvcAxKBBAZixII3RNociv6tFfgXGhcpI5XjGsIeLj5SEcBIvRf83uYD8LwvzmsgHoTlP7a6oNBh2bZ5_FyFf5OPGgxcPJo6IbXAQmpmeAzCGH7JKmjWwWKFWBNfHkOhjUg9sYzz0L_z5yxbWrhNhGYhRivltxylrfT45um4Jd7VG6MVBXet-A9Encs8UyzL-IeRA6ZCImsQSndQoIlnEOEHx-J1jl4kkx5czHKHtQzAlOyZG1mUkjQR8QOqOWP-JLCFEFJJ1ufuswzqwSeWHpUMIv5UIJpRB0GAKQ39kN0LdoPu9eenVF32t0VNhB154F3YAnnb7fdoVCWVOIpJGdwEraSsumWonxu_JVAzZRxhBWpBtDgJhpdn0pnZAQ4PcF2K1yZ9om8udgOVPkfqQKUAnEZ0y8N2V-HBYElu6kDLE_kiMQNskUpDLiPRn9GWtWUhPisP9S5Us4Nz38BkkPBwE_FEuBSgU83QGAT3nkQLAMS96WloMpGO0ojJGzMdfyrzhuknHe1rbzPMp-0GmRViSoiPRUjxquuPtgZqbeQJuYC03LgEyA-6NaxoyhFLCZA_Bl5qn-mWzcwdZTUI1wJpwTLz2RLVG6jk6D5X30NMknHXpgP1dcnC1S-BeRAdfFpov5AJKW_yBx7FzzQlgxl8YQuaJUVdii3YNcBfJt4PsaqD-8aI5RgGIg4KDLHCtzOLn2jZhrvTLA..%26ch%3DAQEAEAABABQG77KM0VajOxXxOYUTfBLWhzsE7ivfAdQ.%26v%3D3%26pg%3DCWPUTGGYPFDPZK4ZIJYV6PMRXE
+.netflix.com	TRUE	/	FALSE	1823766674	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+17+2026+11%3A51%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9ecc4ca7-ee8b-42d2-b915-549bdf1c1d7a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1779677314557&geolocation=DE%3BNI
+.netflix.com	TRUE	/	TRUE	1823766671	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2E-E41s2DD8MeyuNpYB51EbrDM6utGGs.%26dt%3D1792230671819
+.netflix.com	TRUE	/	FALSE	1800006674	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800006674	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800006674	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,21 @@
+#USERNAME       : Irene
+#EMAIL          : ereaiqs@hotmail.com
+#PHONE          : +34629816413
+#EMAIL VERIFIED : Yes
+#CREATED        : enero de 2019
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar | HD | 2 Streams
+#PAYMENT METHOD : CC (5023)
+#EXPIRE         : 2026-11-21
+#DAYS LEFT      : 15 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Irene
+#CHECKED AT     : 2026-11-05 11:54:53
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1777038165	OptanonAlertBoxClosed	2025-04-24T13:42:45.008Z
+.netflix.com	TRUE	/	FALSE	1777038181	nfvdid	BQFmAAEBEEtivPhLektYQdN2bKdK_3pgfPeH_pwcjDfphzY3fg8at8nwezaYSarnMQo7GSNtfq6yCdT6ok34q5mq8S604-syxbckYqmKeWf73ypheRdZpHXvf9IkmORmftmjxAAnIwchWhWbOmfT55cwUWbtvnIb
+.netflix.com	TRUE	/	TRUE	1805644444	NetflixId	ct%3DBgjHlOvcAxKIBO0mP_dugIlAU1GElnG-O9xgUlzCUNnitv6-yvkGd6-7O9g5SBKWeyCeCTydQFL6GdxRBktqmPZjUKjuJ-yEfVIKX8XpH6hnX6H6YvIRm0NWdIqpt0uXYjcsox6PlQcGKKl4TQaHcdXyVhmZSPow8GGRoaQSXA1-dokcm3a2b61uIEvjyoXRHb0PfXeAfY1Llkjyn87idMsEr_8OkAPoXYpwqJWVym3erRBBKr8XAIqRYPTolIN8ojBj6dBc1E3uNLMKKELeTewr08HWUUAP4cM8Gx4E5ZqqeeKTLB0miJDNp0YIqCxf8eWtFIkuylJA_Kzj9xfSSKJpgtlzqT-f0mPtrPtj5UfLYtJZKtrDzzI-AmjFjpUQJWO6AsgQlA96DnVdnFFiP7ITec3Jk_3WuMWwjLzxhPcAF9KOrS-lZiVP06z5A0n-znzcZUg7CWTQhb88pAn5dj8B5ZX-Y_h-8f8Cedp8p8u7tPxOPqffY9ukUore-B8Nfde1OxXm8fvjAQHAeK-tVUMHzzy_rqJTCjV2md93t8T7lTVT6aRYPpB9927wvDHXwFdBLNEg3C6nTxuNppGtpV_K54WiGukAUFsg5GYaO3n_nszqdNysByJxIqEAgrwgQZMtiGBhdVakYeKySj5DHsXylWjIrmttFD95SJUJ_P0B45JVcUX3RrogtUMplBh5EhsYBiIOCgxnB5oyOgg5Eewo0uU.%26ch%3DAQEAEAABABTIRyi4uAF1YnXS7iqiRz6_XOIz23KbLzQ.%26v%3D3%26pg%3DI7POKHATJBASFJ365EXHN2RIQQ
+.netflix.com	TRUE	/	FALSE	1805644446	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+16%3A54%3A06+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=636a7499-03fa-4598-b361-12dfaf8e6d69&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805644444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTgnjj13qSyK11Ry-fgfjEnC3u9MdrQuo.%26dt%3D1774108422157
+.netflix.com	TRUE	/	TRUE	1774194844	gsid	2c27f859-64cc-4a72-ba4e-850e2ae14f02

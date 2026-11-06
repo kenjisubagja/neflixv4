@@ -1,0 +1,26 @@
+#USERNAME       : Manu
+#EMAIL          : cecilialbor@gmail.com
+#PHONE          : +34646797544
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2020
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios | HD | 2 Streams
+#PAYMENT METHOD : CC (8232)
+#EXPIRE         : 2026-11-18
+#DAYS LEFT      : 12 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Anita
+#CHECKED AT     : 2026-11-05 11:51:24
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803768355	OptanonAlertBoxClosed	2026-02-27T22:45:55.136Z
+www.netflix.com	FALSE	/	FALSE	1785722106	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1785646535	flwssn	f024cd6d-64fb-45a5-97f6-6574a5ed60ff
+.netflix.com	TRUE	/	TRUE	1785722135	gsid	a59136e0-c2f2-4e50-a2e3-ba0680b57166
+.netflix.com	TRUE	/	TRUE	1817171809	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA4nbV8n6bhxkV9z_GUAzJKX1Dp9eLo6AIgaemkWrU_lOWuHn39JjycmIrKyJ2znlvwi16C59aLcloscNv_jfW7IPUTZx1iPDyQm5s05f_b5rI0u56lG0Qag9j63bfVBeUvQL4V3v__oaAtU6k0eOdn7skWKiAbrXGU6iRqREXuj8KvsB6ouNnAKgF8ERFPP71b7oQCJqRQe-BG_MR2eMlnilH50D17brzACpNKOJaj_MvkFisCFt9Eakh8_DXn5VhbvRApb6dXhqAByEsvXqO7F2VdVzcBZPPUqVZl0vSxpYVf6KxiqODFmGXII87A88WfxBcM5oIyGHdNyzfSObtVncA_A73YzJ3AMGFFDLxEh85LZ0azL_OtXd8Gcq6w08xphYZc5yYvD3rlW-eFIpO4KucHP3C5KkF-VOqmlvQW80bM4g_rzVvTHjXUplmY-RDgUub_0qwQalxiGsBVAqfqhUhP5M93maTq9bWJM2IQIIX8c-zFQINIPH4yU84kJP9fU3oPi4fL020ZG-tcMvF9f1rdwhbURpRd9cym_89gjAvxgGIg4KDG-REs-BiA47J6KrGg..%26pg%3DOMSOSYX5XFDDHBNKRDCMXXWUNQ%26ch%3DAQEAEAABABQdouKBfSUOQ9aaMB76e2UurVESfyEdotU.
+.netflix.com	TRUE	/	FALSE	1817171811	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+02+2026+03%3A56%3A51+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff095a63-d360-4612-9903-e57b359d984c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772232355577&geolocation=ES%3BGA&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1817171809	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRL8KS9rspS5JzpGFsDMBWeEMIDkhD9Mlo.%26dt%3D1785635809754
+.netflix.com	TRUE	/	FALSE	1793411811	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793411811	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1817171809	nfvdid	BQFmAAEBENG4BqgYCBTvN4Gn_P4TY5lgbPw9RJUauT3CslpofeIgVJa3nrdwRiReKVWb7nVonA_tmxMs_LW9KexyFlSl77bcj6BCi0WX_7DnU4S-OELXKMDLAOq4hPVXNF_27R8yzI09X0VzzbHcWkf1CbdxvzHT
+.netflix.com	TRUE	/	FALSE	1785642877	profilesNewSession	0

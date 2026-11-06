@@ -1,0 +1,22 @@
+#USERNAME       : Svenja Julia
+#EMAIL          : svenja.julia1@hotmail.de
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2025
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Standard-Abo mit Werbung | HD | 2 Streams
+#PAYMENT METHOD : PAYPAL
+#EXPIRE         : 2026-11-07
+#DAYS LEFT      : 1 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Svenja Julia
+#CHECKED AT     : 2026-11-05 11:30:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1823883211	OptanonAlertBoxClosed	2026-10-18T18:13:31.538Z
+.netflix.com	TRUE	/	FALSE	1823883220	nfvdid	BQFmAAEBEAJs05K32LJeWli_n8NB1YJgkNOznOvY8SbToVbKYvfHtE5W7A4vxVdF6i-_w4gPbuQ3uWg-BK2mE8MQCmb5AyPW-ACxKucMiQg_42-RqplEOcRwjobRNWqZAx1K9D80UkAbvaVG3WgvYQ25ATEfpT8A
+.netflix.com	TRUE	/	TRUE	1824229835	NetflixId	ct%3DBgjHlOvcAxK0A3ySil4RNV9nQGvAzLOBhHyJTgds5aq15216PrzSmqCUceWRhxVhg1w3PUsPSmMuR0vXH33rEBSKLUjBvi4SeGuCVgDMLcKubHvJbPsb-ook0M3w_IiSS5SeB-Pf82MD5Xd2HGMcFsDnFyTn75LzMOW1rkMq4ftk2JBx30KDtdqkkd-VfhovKb4ZTL3H3_nBF_xxSk6xKnnrckmzXYn27KX5lWptLetanirzKPhGHbeXjLnv6j-Vgj3gnWa7PGNi4NJ6nGlaaN5j_l2R8h2waKfjHPIPAlqBI5mfWXIqLe1bggunHZQBqmyuM7708TrRrq7RiXHRuflOmYzEYwEF8FGN00zzmzLE1q59d6H_vuh0d_3tlTBv4wQUszDs-2j_VavIcS3D9F52kOMDCbDtYV8XHdOCr3OOyyMKgdWSzlqdGMmlJXGX-QWDmFpVwdrepUq5bGmbxdxHYSGT5B6UMiqDV2RXN5AUL22JafpkEMaaNAfzMTyL5-COOD_jn_oamDhSPlmJTfcbKNN-Tld_FlTrcO_Ph4Mz65O8uvsCRKdXfd__9fIDXW8wNsu1aa_sqisacIsYBiIOCgxxKoQIMIFZzXUnqtM.%26ch%3DAQEAEAABABRtI04YBioxMOKOgcGh9D-7tPC8bxIpZ8E.%26v%3D3%26pg%3DDXUTCGNQPZGYXKVPG3F3WJ7MBI
+.netflix.com	TRUE	/	FALSE	1824229838	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+22+2026+20%3A30%3A38+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5f21fbf9-a8a4-4042-9c79-6fbf6226e08a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&lastConsentTs=1792347211&intType=3&crTime=1792347211974&geolocation=DE%3BHE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1824229835	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdAgY_nbOqVfrcwDNy3XIkWRgFKJHMm6I.%26dt%3D1792693835698
+.netflix.com	TRUE	/	FALSE	1800469837	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800469837	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,21 @@
+#USERNAME       : Fabio
+#EMAIL          : Hodimir@hotmail.com
+#PHONE          : +41794733015
+#EMAIL VERIFIED : Yes
+#CREATED        : Juni 2019
+#COUNTRY        : Switzerland 🇨🇭
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (1087)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 4 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Simon
+#CHECKED AT     : 2026-11-05 11:11:28
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1802624083	dsca	true
+.netflix.com	TRUE	/	TRUE	1802446777	NetflixId	ct%3DBgjHlOvcAxKWA378hwxNS5HCq7QoIqUwLSgkYID30zj32PnOHkRBz5MQwWdY_U1oADGgt5lABNEI25sNUgSbFKjg0nkoFhFgoMMhdOt-1AmEo6nr0j_pPxvqw7Janw8UcsXthMcSqoVJQEtnJFpEP2jTUWYeqW4-1JiWrrhnUit8P7my8WKDfWgdaLiDAj3NkIQqlvpTwl-Se_dnTHZKkDVG-mjRsR6XgXK7JYMmdrObwHAieMQ37V2GvnkRdB1LgaHiFtwvXfnl1Vg-_fQgKeovDkujZZebdTkfgcwebC940ftvFoKAR-t66YYBkeAdAA5VzDFXHdMceU1UjpdI4dCToUklrXcSeuloGda1z4v5rJmDb5Co6YPzYrYRFm70R88BffKrKpgxY59dGfCflBhWmVoww_VMTdCMESMvP9HQIA1BRQEpnBbg0QJa6hvNVj9AeEfGtPruxQW2o10hVP7bXfp1iSFGEjbs7axHdCTXLaVladfPaBQJMq0K1B-Aam-9k9vuOnf0ypTvxQXLQUnakkOykHI98-Tbgz5B_9gYBiIOCgxSl6IxaOH-cTmp2bQ.%26ch%3DAQEAEAABABQwGK7vArSPEUaXX92oscKJMyNdhcEBq44.%26v%3D3%26pg%3DWVR4YP6QBNFQZN6XFXGG2DX7PY
+.netflix.com	TRUE	/	TRUE	1802446777	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdtX6L2hsX_rKxZWiwsTGDEJhsMA0ooxE.%26dt%3D1770910778150
+.netflix.com	TRUE	/	FALSE	1802446777	nfvdid	BQFmAAEBEMbNK4b-nwACxKZ3knTn9oZg6l1MRQKhtEGrVo5TaZ4J310APR1drkPiPhBI8uvz2LPSboUeazX5jiCPqmCeLRne6nwr_90OjMxuwkpjLz1rVGhaNlUuemlznJ-s_Tuy9RfVud39SBBuDkevG4bVJYKW
+.netflix.com	TRUE	/	FALSE	1802446812	OptanonAlertBoxClosed	2026-02-12T15:40:12.111Z
+.netflix.com	TRUE	/	FALSE	1802446812	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+16%3A40%3A12+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eba9c418-98e9-41a9-9a3c-67e3f7eec9ed&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=CH%3BBE&crTime=1770910812438

@@ -1,0 +1,23 @@
+#USERNAME       : Hayang Ngewe Teteh
+#EMAIL          : selaluceria2015@gmail.com
+#PHONE          : +6289513137091
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2022
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-12-03
+#DAYS LEFT      : 27 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Papi
+#CHECKED AT     : 2026-11-05 13:00:20
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811845202	nfvdid	BQFmAAEBEBrjW3N2Hhi6ErYsiFTL5k9gIxClHmUHJgXKZ451_rRPTnY5uuqsJ1HMCyiLRVJvkxvE7PnarFSnD30F3_uVS_VeO9T5w-zSdElO6-7ZGQDu73sXTxBIFzLwlEd7pHK9bIw53nhiqyxqdUuAKZxr1XoP
+.netflix.com	TRUE	/	TRUE	1815230893	NetflixId	ct%3DBgjHlOvcAxKDBMWbtVBqfj1MMRUMemdJo5KCanFkJFTaYJPkic7Yez87wJbmJXiY_CYwV_08NKZN0zSbL4rBxTxrdH7Flr9z81TrUTXaK350wEFHlpqCDuF1QCzD8cBkiKWS8BCw3w0aGTudjHPx_fxAVm4hJZIHCr40x6C33Eg1oVGgCk1bd5vb1OKymfKVmHS4Lknp4cHsGcIzK5dQ8ricriYRcB-WnVPce6pwSDowsugzD6xsrwdudhLtWZnFQzzIuWA7DXCr-bhGIcXvcCs8JTKoRxtcD-bT_0aula6ZXAl4450ua4nE36wzie4iOWgfbUIXEFmhmCDBzLTzgrlit4nWvgYVZlpzzI93MbhPRVQq5SY2YdtuPDMZzo_OxOgf8FJFIf4QyodGUeSrwFN1CNVsiT9v1b79YRmKgfhH0WQ7yGpFcFcKbjK9LYWrtPadGtXsJHDYRp2FyTvIPzCO7ejgTrPmN5y1pKuWBZuFhlBiwpd5cvVrAjnlu6u0gI3CimEzZuGUr4-HD-Pj1BSmgqWckaxrJW02jAZPahaP5MZLTeq3UvOSuhmIsxdl2JhYA-GEBkKu5sLW1fNyPPXwV62iTqdqPLJ4icSS7bZM4_7a4P0lwc7I1H6PkecsptDHeAT8yAs4BeepGA14TJjyHkhgKxaIeWf_ZdQErThrh27lyBXdNNsDHW-bGAYiDgoMq_JSHyFJRA1mRX3H%26ch%3DAQEAEAABABRqI774_NEzQ20XJwJT5aS2suPAa4Nv_4M.%26v%3D3%26pg%3DEV5WZGW4OZCCVKOFP3SZCP3AUI
+www.netflix.com	FALSE	/	FALSE	1783781292	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1815230893	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-pWbuHWbnlKBZ0DnkiLKO579QGb0dIz8.%26dt%3D1783694894355
+.netflix.com	TRUE	/	TRUE	1783781291	gsid	fddb6c53-5f89-44a0-b51e-e52aa9f62f4f
+.netflix.com	TRUE	/	FALSE	1815239060	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+11+2026+00%3A04%3A20+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b8a94e9c-36f6-4147-a7a0-4098f8002872&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1791479059	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791479059	netflix-sans-normal-3-loaded	true

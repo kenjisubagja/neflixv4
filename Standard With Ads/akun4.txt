@@ -1,0 +1,26 @@
+#USERNAME       : henzo
+#EMAIL          : gibonfim80@gmail.com
+#PHONE          : +5542999455284
+#EMAIL VERIFIED : Yes
+#CREATED        : setembro de 2023
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios | HD | 2 Streams
+#PAYMENT METHOD : CC (4053)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 4 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Gizeli Moraes
+#CHECKED AT     : 2026-11-05 10:46:49
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798841172	OptanonAlertBoxClosed	2026-01-01T22:06:12.557Z
+.netflix.com	TRUE	/	FALSE	1798841250	nfvdid	BQFmAAEBECKyRV4LBmMTzm1_RhDnKS5gjgfjZh06GrtMqGJ-xkHeelyiuuV1Rd_VpLX1UiO1JGq2Vl5RjcFsADAdJ_BWvYJuXIcuBltt4ZdLLCAGjo12864_NCbbdEG5Buqaf3PXS4LTNsHyOEEUqd2wA4DwIUTo
+.netflix.com	TRUE	/	TRUE	1816721381	NetflixId	ct%3DBgjHlOvcAxKBBE9pbxWGkAHmTUpZuwi1xxi4QLSJKVwVtbMEbvQT8wNFAuYHK_mTT5qrd3Rm-WHDoQqPX7IIF-pnoILS6GnJM3veOlBnbG7iaKJU2x8nDLBSdgC6kjszJuBWMizWPcgJcQ5lLAtbl7p3Mk4JoZzpLW3HOrLo-qDip0SNtoyoD-DKeZULHGaU2LGEcHffS_ixGIsU2uwgWifw0uiishtfhRKU8kIpL6sv-5766CIx_FHBw-aJOiaPDLWzaoCY0gXaJW5NCfCIfZsar7RMIAUzQLKga8rxqGE1fXT_dwSzOi5Cr5uqCQBYhBe23pKsMSCXhiazRWMjjR7Ihu_IKJ4SH6aufx8DQoJWZGdYOcX20eAisw56m1H_PNat1T0hLGgifP0Z5lRruzB-oXDDek0tyatS-ycoM0vOdFKz3HZpl4k8ue5ArKYhJs491OBkiT9gLX20zBZjdIxxll5Y8rIGFJe73XqHfGNQgpL3tTzdXe_kZuREjruk-570Ti4F5vt8zaoNXUBNSHMCeNzkv9C7QqDiVR-kst_AveuVxwuYxcC-mrK_TjTNexupFCUk6oLdAUzaElikXiPClufPxRkO4i0WpVpZ1DCKedFvUYYiWMANHxE-1-he5gYXmYi21kCrJwzVQaunS7xVc2sTxgd1tMikwmTIqGYgYeUfv1vFcVYwBBgGIg4KDOvDAimmH8uy3ejVYA..%26ch%3DAQEAEAABABS1r_JLZVpRyjjZfHHrzcnKANlonfK6VXg.%26v%3D3%26pg%3DMORYO3QM7FCLHGNN4HXBOTYYQU
+www.netflix.com	FALSE	/	FALSE	1785271792	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1816721392	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+27+2026+17%3A49%3A52+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=418bfed6-c849-4e8f-88cd-42118e15a007&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1816721381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRrYFdT0kHakjrHv5Tlbyge5OXeSFT7BoU.%26dt%3D1785195353241
+.netflix.com	TRUE	/	TRUE	1785271783	gsid	12540b01-0ef5-4b25-b667-35bef8ee15c6
+.netflix.com	TRUE	/	FALSE	1792961383	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792961383	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792961383	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1785197470	profilesNewSession	0

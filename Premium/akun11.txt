@@ -1,0 +1,21 @@
+#USERNAME       : Matheus
+#EMAIL          : tatianesim2019@gmail.com
+#PHONE          : +5541991579846
+#EMAIL VERIFIED : Yes
+#CREATED        : janeiro de 2016
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (3581)
+#EXPIRE         : 2026-11-07
+#DAYS LEFT      : 1 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Tatiane Simoes
+#CHECKED AT     : 2026-11-05 10:57:24
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1804954013	OptanonAlertBoxClosed	2026-03-13T16:06:53.121Z
+.netflix.com	TRUE	/	FALSE	1804954015	nfvdid	BQFmAAEBEIIdOvoVqXl7j2kOLFdIT6ZgPczS0qDJ4H4BjmHBtnlUSZgyBastwrv92FPNMtbCMVN3DrvOZQWNyAuvf_u0YCUSVSxT8L4r01wEfLq8mf772gKrRqrTCrKz1pMHJFAuKCGjdKWNVsUFh8ILDM5Lnobc
+.netflix.com	TRUE	/	FALSE	1807278868	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+10%3A54%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78df7a60-595e-4e35-95fe-5fa0efdbb7ee&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773418006034&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807278867	NetflixId	ct%3DBgjHlOvcAxLPA9-1vHbZPaIrCDgVp-u1wxxyMKGHglsMub5du6d-Pn-zs8hJU3oHehfIxp1Jm3HT9x3enlK8pdlGv9FwAdniI-CK9SbRL9JOaLeZ16xHJK4ED2zR0B3UfWxZERmghucQvtg8lu1zxb2cu-bCcAe7v0hegDuuSRLgXNcVMpTsz7dtQCHJY2q_j3QldEZIL9qRoFYXfcjTAFEV_VcKCKXWEbgbUIGw5IaqjQSNkcFNyQY27_ZabiL-yNXCScEAhpPuXE_rbU5jwRnXL5c9a6LimjptybjAc8GHXAxBv3DNCWRvc1IMkynMOTCxeaLrdZfbwljfOHRxEm4sv4_NWXmqayCvZ0qPIa-Tkzk81dp1HFBaAkiNpqja0s_nPgFoclCzsmbNHEDxNQW3xyVMquKpePJdWrYg4BYoWmfWzQp4jxar0I-RVqxHN7enp62jdf4RreaCSIu1Nd1CEqNokhk5ZtEpGvVn7_CVeHuIWnN9v2jMC74oTeqFba3lp8Oj2Hn1yM0J07Ss_7FRNk_Ke28JCH9g6x22a8MnK4sRvokfB7qXVzJ-baWKK5gc2TB52_eblghRfFonz3aJZNJC8ozNVI3vn9b96oaxOznHbRZWLzcYBiIOCgwRUb7UQS29le0ZL5k.%26ch%3DAQEAEAABABT08o9KLj-dQi6r3fSt-2guNsr2K2PtNFA.%26v%3D3%26pg%3DKNR6UNFY2REHPBJDUBLXY3XGRE
+.netflix.com	TRUE	/	TRUE	1807278867	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkgJTCScy38mvisGpFnUo2Bzt-lvQEfJw.%26dt%3D1775742867714
+.netflix.com	TRUE	/	FALSE	1810302867	dsca	customer
