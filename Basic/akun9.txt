@@ -1,29 +1,31 @@
-#USERNAME       : Cardinal Carter
-#EMAIL          : jamescartermbongo@gmail.com
-#PHONE          : +254720734405
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : Demi
+#EMAIL          : demig189@hotmail.com
+#PHONE          : +541125511382
 #EMAIL VERIFIED : Yes
-#CREATED        : November 2026
-#COUNTRY        : KE
-#PLAN           : Basic | HD720p | 1 Streams
-#PAYMENT METHOD : CC (2906)
-#EXPIRE         : 2026-12-01
-#DAYS LEFT      : 25 Days
+#CREATED        : febrero de 2026
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Básico | HD720p | 1 Streams
+#PAYMENT METHOD : CC (6435)
+#EXPIRE         : 2026-11-09
+#DAYS LEFT      : 2 Days
 #EXTRA MEMBER   : No
-#PROFILES       : Cardinal Carter
-#CHECKED AT     : 2026-11-05 09:59:52
+#PROFILES       : mark
+#CHECKED AT     : 2026-11-06 03:40:13
 #==================================================
 
-www.netflix.com	FALSE	/	FALSE	1793624285	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
-secured.netflix.com	FALSE	/	TRUE	1828119668	thx_guid	8f01bb2363b62bff612e121eda390a58
-help.netflix.com	FALSE	/	FALSE	1793646466	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
-secured.netflix.com	FALSE	/	TRUE	1828119876	tmx_guid	AAw51FeNmBxG1uADjwJ-E87hwuIDi5UJDm2Abny580uWtotpB97Jw8p4tj5vlwn5XS_5GVPowfD1l59zXE73bYdnE-WgPw
-.netflix.com	TRUE	/	FALSE	1825101747	nfvdid	BQFmAAEBEFlRPHKzvntRRU179YxSdbhgoTLCeqlNNff4P4kp0Cg0HorCWA5Jxmd7iQXnN4-MVQdCFWegsM03LYesMIcoWqqoKvRa5QLUHgSqRvYip6MCD4U6f9K6gPyjVajHxHNoAb0F34wNldIXHMM9rrT8HPpC
-.netflix.com	TRUE	/	TRUE	1793656198	gsid	d682af2d-dfe8-42d7-9ffe-59c8b961c88d
-.netflix.com	TRUE	/	TRUE	1825107131	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1UrLp_K5wWyjE0gTO_vkCFmu9c_nr4g8.%26dt%3D1793571131392
-.netflix.com	TRUE	/	TRUE	1825107131	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA5LTNa28kcGe5n3micBHrLuUxVrVzW8Zr_GLIv2NNs_LBFPAd4XLpy85ibq9qjEVFVRGPJceqowx4U_OslMJeJMIsBeI99ikGBiEp6DLoMdkucdnj3sp_HXkqyFOpwxQ7t_4FVR3htKjZa3jJw2fyPU4jq5Wie4MOtl0GWILnf_z_C-X_Tym3IdNXpck0hUeaSDB-8FgBH69axYvVCCs6OD3WvN_dKSC3JsZFBNDDjuuPI2tfjYj7MUxb3rlsubsW7tTpvFMw2V65sCQFPe7M4k2T9qk_3Q03zxf-Ow0zIMXlk5Kwu8hwuV1bSBYpgNz9IntsstOBOY09mftlockIMicZ4YTItikI6DEXr06FYCJx4ns_JDPYiN0FSa1d-913XpOwBXmmk2bQi1fuSyKfbiDzl0eGTKGWwHgKlFxqB7bqCNqTAgPlIh4JYdOASm5AjcTZwCXMvlN-fiblZsA5p2bRMnXWmlb2JW9oTnP8xW9pDKKIlA3x-Cd3mk6kpC8tl3NipCEf1XJC35jJdL529JInO9V-04AFrQYBiIOCgxU5OUePiNMdPqla34.%26pg%3DMOIRKATE45CFJGVOZVMTDO6CNA%26ch%3DAQEAEAABABS88Y-bBbG4kVlp4WPN9ZdP4i9DRSyRXBc.
-.netflix.com	TRUE	/	FALSE	1793597960	profilesNewSession	0
-.netflix.com	TRUE	/	FALSE	1793606992	flwssn	5c12a895-9e96-47ec-8c9b-452876f41477
-.netflix.com	TRUE	/	FALSE	1801372192	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1825132192	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+02+2026+08%3A09%3A52+GMT%2B0300+(East+Africa+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e93dde84-f20e-4cb7-8328-7b7f8b83182d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1793340627222
-.netflix.com	TRUE	/	FALSE	1801372192	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1801372192	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1785035860	gsid	483aa818-5da5-46fa-b71a-a2b3c2ed7dee
+.netflix.com	TRUE	/	TRUE	1816485465	NetflixId	ct%3DBgjHlOvcAxLMA9XIgD_4pH-Q6DgPufgQctEMehELt3ZAvLH37yZNEeb9xE4iakrEP3iznuiaxMkUZgeIIBCU4lzk24l0o35fms7usSIkrHu4M2rFLA0cTcTPx3bxzt72Wwlrs3S875ZsGK2ZprP7hP9z9A9FSQFGGORuUqiJgSWTOpM2OUGLbh5lQQZhB0PR0rGPsCxLan7cwE8AIZC-ULdJiTG0fRV1sCrhGZTmTDZM94LitKmTZzL85ROhS66v4407rkUO6-kqfK5cF-R2rjyYblky8Tq3mwBCo-16McdAjf_b4kTz5SegqbE3tVE7xNbokW5_tra3XjvHapLQpZyTq66xpzlqOmcToTUk3g6T5GrVIRKHSvb1C-hJKRmUbtB_AP89EAGqPK-kGJFdhxC3ktcyzVuGMVVIW7klNCEOU4xtesW9qqZzJP8_c-ofyOHsO6eZgZv7jMHMg6kR4ZQSYR1nTyiUgd8ahN0q04HW0UqiXLgfpe6FRgdy5-GSNBzyM2yZdBCCY8E2s1y2aWR0pEC8jIWrBHx2xEwNIjSSkXnk1iB4qB8HDdAC21IuYx-2i0oIUy_yyB11hDKMOnAsYZazL-U7QWdCk7aBK0zeX7gQIbUYBiIOCgzFP4C2U1s1380qE0s.%26ch%3DAQEAEAABABQZ_lMVlPiv5b2LZtVLZceOWcPkM6I1gCA.%26v%3D3%26pg%3DZS2OJ4E2RRBAZKIX4H7UEQQT4Q
+.netflix.com	TRUE	/	FALSE	1792725462	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792725462	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808345836	nfvdid	BQFmAAEBEI1Dn5jrT1rWVMdKlI9j4edgKCDC_I4_3w7Sq3MkQSW_oe_OzwGCHDpHxlUXMR7NjCNWwLGF21gEY0z9AUnyu8i49EbVPjTXrF59OkikWtfzEX1-ifmPVG8-G55wzbjGE5eF5C4ZwjAsrfECElhtc-6k
+.netflix.com	TRUE	/	FALSE	1816485463	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+25+2026+00%3A17%3A43+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cdf9126e-bfd7-4ce2-ba94-07cc635dd487&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776809836860&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784951268	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1816485465	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_NtiaAnHXooBIsrE8SWIXglPzlWw0g1I.%26dt%3D1784949465858
+www.netflix.com	FALSE	/	FALSE	1785035863	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111

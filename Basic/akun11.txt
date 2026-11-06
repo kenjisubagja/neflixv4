@@ -1,0 +1,29 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001 SOFTWARE
+#VERSION: V2.0.5
+#TELEGRAM: https://t.me/hydrax001
+#═════════════════════════════════
+#USERNAME       : aaryapatel14032007
+#EMAIL          : aaryapatel14032007@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-19
+#DAYS LEFT      : 12 Days
+#EXTRA MEMBER   : No
+#PROFILES       : aaryapatel14032007
+#CHECKED AT     : 2026-11-06 07:43:31
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1814373931	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKrAw4UoJuErFGb0Di7Ie1OIEf3khzq9elDfmwOKrVbW7nP5tsV0cCDq7k1h0r2XGK2NJuN3U-qCvYmkt1GufAOVb3Y8d-13izLx4cRTm55pHazPllOOcdT-hWNdCtQIOLa62iDyaecM6r2wN0SP_kZ3Kzlx5jhwnhFdBi3QwU6Yy56shn04dh9M8F1JvGZmrypEdnqgmzDAwytSe7LMRC-elc1fIWWNQOjbu_ueyibtWy2ll1x5UbLHlor1ue_m64Y5hfDnHGlRoENweT0nVEceYj4uZy2RPm4v7URq9HJ8k0cufu5jc1zmf6JXR6jPR6stH1UoYr0411CDmi-antsQj6KdGmyifwn9r8erPP67te8lYcw_zQa71e5jUhp1ekbLK4xPclK0q9Xq1eC5g5rNOEj373fGMe9mW64GfRHCQ13w_NBQf8021vwEq7914LmkjC7Yba6ZT9WNOQ7xJpefp0rPlNbzJBHN4eOS5Ak8Yy-2TbxattA3eliL0T5x9xdM2QEsXf19h_ANsscvh34zgPG44lccqmWnOqmhp_fdOFZdgIF4plLzUdj_XsYBiIOCgz1oVloeNjyWkpo4Ds.%26pg%3DCTKARHSREJD7DKKLGC6RJIWRKI%26ch%3DAQEAEAABABTMY0DXrczxFs6BR-2may-FuBL-jWD7DJY.
+.netflix.com	TRUE	/	FALSE	1814373933	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+30+2026+22%3A15%3A33+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5844693f-abac-4a78-895f-fbdbc3ec3c99&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1814373931	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7a5Js_c0EZyd1teyNd1VyF-jAYmYbLCA.%26dt%3D1782837909215
+.netflix.com	TRUE	/	FALSE	1796488540	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796488540	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1814373931	nfvdid	BQFmAAEBEMlFoJ-hcVaBZLdX5uUvf69g8BjHWQspYNx_vFnd73gyUarJvEm8KgJ8Y-rxFC-08ilw8yCnnWtNABezjlRRIGqYt_H10xVB6bE-6QsDp_GzjTglJ9cpVHpaJzal8Y3FWDENcqGkS3DGFbuB5VTKFiVZ
+.netflix.com	TRUE	/	FALSE	1796488540	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
