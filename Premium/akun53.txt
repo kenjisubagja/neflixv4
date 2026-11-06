@@ -1,0 +1,24 @@
+#USERNAME       : Carlos
+#EMAIL          : learming1603@gmail.com
+#PHONE          : +523312300934
+#EMAIL VERIFIED : Yes
+#CREATED        : junio de 2026
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (4336)
+#EXPIRE         : 2026-12-04
+#DAYS LEFT      : 27 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Carlos
+#CHECKED AT     : 2026-11-06 04:08:12
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1823304221	nap	BgiJv-vcAxJJCF68llvOLc0t1yde1Zfn4K6TkcCv6RQuu4K6S0EZ31s3E5r9lhhxGTRyhSaEKQpQ_YEKPyKCqTxqULEeGYT61U0gxkC_hTHBMBgGIg4KDKFmOWLBWUzW1z_grw..
+.netflix.com	TRUE	/	TRUE	1820280220	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA2c6TU_agG23sjgIMGxtAlLY_0CL2QEv6oIlH6fmjhrY_mvZ9gHVlI7sKAKdjABZkbxUbsyW7WBZixfJSs_bGwuTzdQO62bwaZanxiloDSEMfNDY3FdcsCUl55NbEeCGtGNwVHmFJUub1aL0v98sDBs2mWLSkdh1HLjjdcZEiNfVJLKw06pIdMg1KJGJCKWkYzSw39ckYMtd0kweJauxbfN7RINv9-0B_R3FTbzI8PgovUmuRuDtUx0oQvjcEH4YTo64gpfB94HUhSre5bfk-1T44ztli0QTp91K4ct-ScSsw1UGs5HJt8CD2gfO8MdqYjKyyR0_6DgzPKry5knJIaXlQe57KTgrtsM1-64i0AD3DI2hG9Fq9MKfECEivnFqRsXzkfw5aX91Ekmz7GO_7CUGhHjSOico8JPnsa7PJyUePFchYQAgCYxKnkIxjAJbzGwn8ILzVJpwNZe1JELa1du3nW30HhV_yWTGGmtU4DscwMheSO44sGUBOh5U5O_0hsi6z_zGBmgrtkmoTr6BE3mBmViQnHPSArPvELSW5pVrCd8eGAYiDgoMGqZq4X9_8meveEWT%26pg%3DPG2BEV5QRFFZZGYJX33ERCRUDY%26ch%3DAQEAEAABABSOeS2UcEwH-J43_I0GVFf52adWJY03rnY.
+.netflix.com	TRUE	/	FALSE	1796520221	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796520221	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1820280220	nfvdid	BQFmAAEBEDOxT_opeTb5YVl8_aLEjGZgO5VtKEizsRDT0YzRJlL3vYHC6LXsIXHnl1tlaPUeqTNrm0qCqxIq1jBO0BPcCUBFS2bTDI4vzZj0hlrU3tdMXJqpRbS5MC6UFZh6dc2MdhYWbWJhm2ggd0PtjA5Ntp-z
+.netflix.com	TRUE	/	FALSE	1820280221	OptanonAlertBoxClosed	2026-09-07T01:23:41.087Z
+.netflix.com	TRUE	/	FALSE	1820280222	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+06+2026+19%3A23%3A42+GMT-0600+(hora+est%C3%A1ndar+central)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=970b1622-680a-4af8-9b38-677057292438&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1788744221877&AwaitingReconsent=false&fclco=&lastConsentTs=1788744221&intType=3&geolocation=MX%3BJAL
+.netflix.com	TRUE	/	FALSE	1796520477	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1820280220	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTq9jNYggP6Skiwq2jdj_I2qLIFlIBDhH4.%26dt%3D1788744220251

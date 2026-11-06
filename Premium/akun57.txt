@@ -1,0 +1,22 @@
+#USERNAME       : leeee
+#EMAIL          : jhazx03@gmail.com
+#PHONE          : +639985961263
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2021
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : PLDT_BILLED (5496)
+#EXPIRE         : 2027-09-26
+#DAYS LEFT      : 324 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Jasmin
+#CHECKED AT     : 2026-11-06 03:54:16
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1821967798	NetflixId	ct%3DBgjHlOvcAxKDBGrdZ6ZtJURyZSRoouJSdGawbEe3VXu2DN7HpwJO-iVb3xsYjSWFSpBbvLdpct_v38Vt4gODRtkx9kUOTS_Wu_k8oDa0c4eYlPiEItx-vYTuG5u6Is4Bw2eXWS7C9UleVNo6JKlty-ez5LcwYdbvLVORL88VYMYXat8h6TpwFG7LXogDajI0GZh9fRdYW-Tl_JzzBaWRu6OVDzuJRZyNnXn16utopXLOF2-wIIeKG8n6Yh-T953MFCSxlqg2lsXnLDNmonf_PP1oNbzq_E659Nv-KdncKBBgqg5A43nZBuEvOesvQMnvhgDwSsN4_E0EVYS9a6IsFI1L8JNe50Dqf_3OQ7DonDhlhLRowtwFOVJx1EaA3z6oBdF0eCLgjamsL8QvaSbQgjO7Oe2el2BOOMGebJDX1fs_BGFCR27SrbNK8aYI-fy_5l1bD52Zjbx6sIJN1k1DmiildbPWPJeZ_WChVeqGRzFw7lFFOFyPfntxp-oHPLeX5CvcbsXEgJZ-993FZrTR0Wep8quC4NLEOsh6MOcmCQ8fvzsjUlYgkNPT1cFivSQBkt3yiRZtNqZ2WrhQsh8p3zUAvk3U1IoCSQqcoYTVEkDsPxiN95CFaDlhll9exJpcFj7WcksVvDlqeP3vcOgHoWoOSoaX_Xb7nq7M1EnzD3vsSIFQ4XegL2zRTmj0GAYiDgoM2BS6H993mtentDNi%26ch%3DAQEAEAABABS33s1CVIymGILVrhgxfPBCw2kZ7UDRzQg.%26v%3D3%26pg%3D2DIOBQ4EHJBQPFHBNNKMDYA7QI
+.netflix.com	TRUE	/	FALSE	1798207798	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798207798	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816578512	nfvdid	BQFmAAEBEHVCrG1XJ7Xc_vz7bkpjk3Fgq5TBScclCCH8GbBR0KYHq3iNLRXXbB1PKClNsMlOar4xzmySLdFFdLr_r4GfYAIf4hw0SUFW7d-akQTOECmMJ65SGlZj0539y66NGdNegBZjEejcXYEMTzDz38HdNaBf
+.netflix.com	TRUE	/	FALSE	1821846275	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+25+2026+12%3A24%3A35+GMT%2B0800+(Taiwan+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=863a9671-5daa-43aa-b411-55b896bb6c56&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1798207798	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1821967798	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTA6u89S3BryVUJpTPkunWXlwGYO9kjeAo.%26dt%3D1790431798205

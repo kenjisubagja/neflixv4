@@ -1,0 +1,23 @@
+#USERNAME       : Zhafran
+#EMAIL          : zhafjeff@gmail.com
+#PHONE          : +60163674467
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2019
+#COUNTRY        : Malaysia 🇲🇾
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (4300)
+#EXPIRE         : 2026-11-27
+#DAYS LEFT      : 20 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Zhafran
+#CHECKED AT     : 2026-11-06 07:43:58
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488540	gsid	b0f44452-12a2-44b7-a942-7f0a7251ed0c
+.netflix.com	TRUE	/	TRUE	1821072844	NetflixId	ct%3DBgjHlOvcAxK1A98y68ewsH0fO08cLGGnIS-GoxSjkrxRKIc5clB5AwAKVWQU14kYshQBjDsoywOsCO7cLStf5ta1l3l80Qp6aVtbKR86qigZVoTXNMklZokNysiQQuMhX0k3Yu0DWP7yUXafUhM1CpWA6rTaOyIjCyMJhiYFiAOgxWd8f7rDVIPU62tRyBLgctPKwWb43HWlj7w38s5RHAyXxIA_ZuOq4xxOJv6-Ie14nD5WWbajyDcP1N_ZoZ3velfu8CdzGsRG076Hmjbb61iJ7bXPCQ_DiHXJtGdm-mH6Id1DtTI1oH6rzThMP9aOppS4dzoMXPIcoX_BXteIVUpJ70oRko1fbCUky5HxJ_Y1sZvpcxuE8a4xn0SjFUWY4dhyPWdxj-f6tgw52U1WOwgerRIEFXuvaeWeL8cC5vgLi19_UBe6GBc-FPj4fP8D47GzvMSpnmOMfqsnxbRW0b-8bt6U8GC4eVdjp4H0dpxhlLtxM6oH3g6lcXOIsUcjHAbmJ2RvZuknH12TF3NEj-7wRZTSwQrkOY35OXa3ZMpUrDCqtwDvPvN0LiTsc1cttk7S5Ww56nLOPcTy7w4TGAYiDgoMLr66Vmsv9VH7j2Gm%26ch%3DAQEAEAABABQjbSWiReqo9Kh9smZpL57-rmWaEWKuzX4.%26v%3D3%26pg%3D5YFVVLLEYVBV3OHUSLKDOFZG3A
+.netflix.com	TRUE	/	FALSE	1797312845	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797312845	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811149421	nfvdid	BQFmAAEBEBZKV_AUEl0ODgnznbD16GxgBq1fK4hesV2e0EaLIHA_DO4L0_jZ-KkcQOIDgPU2CLkBd-Y5VpxODcRy-NtAQdDgFCr3wA1Q0gcDNnTNp6YcTXAP6wfcsVckZzwkcTAeNtPBP6iJ_aVvQTDkdkzjWzvm
+.netflix.com	TRUE	/	FALSE	1821072845	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+16+2026+13%3A34%3A05+GMT%2B0800+(Malaysia+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=335fc191-3e21-4e2e-9c03-baa7f8b200f4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779613372540&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797312845	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1821072844	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbqLExN2vSRUN8aYGLuisWBz-Kd1CTg-U.%26dt%3D1789536843226

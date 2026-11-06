@@ -1,0 +1,24 @@
+#USERNAME       : Alid
+#EMAIL          : alid10cientifico@gmail.com
+#PHONE          : +527441877400
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2025
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : TELMEX_BILLED
+#EXPIRE         : 2027-06-08
+#DAYS LEFT      : 214 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Alid
+#CHECKED AT     : 2026-11-06 01:41:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785974349	OptanonAlertBoxClosed	2025-08-05T23:59:09.781Z
+.netflix.com	TRUE	/	FALSE	1785974368	nfvdid	BQFmAAEBEPRWoVV9BPzeBGrhXZ0ZN9Rgi67IlT6GVaaIDcX9s2qKFQXaCRl6oKg_nCmxtLhr8wNdHAK8GI4lmOXfvAGPP0OhLYRHPFJF-bRCC-p6R6FeT49F-5US-vIEHuDn0tmA6xQy8KiPcNXk0XIhnKnX_poX
+.netflix.com	TRUE	/	TRUE	1803862661	dsca	true
+.netflix.com	TRUE	/	TRUE	1812418238	NetflixId	ct%3DBgjHlOvcAxKHBHFXRn2GN6C43TvFvhVCOPdh_r3HtX41LJpaIs-14z9WXcLRr16tGiq5zj4JjZI4K24saWMlNMVthq9SYBVC_MtpDtdTbx5wgFv1ZFhSKSIRduGUjVH0ZEgIwYpYDatbYZhzA3A4Z8EHz47eEXLUWiEnXI1P906rMzvtKuGNCur56HegW20DEOJvlC_Z-Wi5F4DVI1s8DVGZi27SGlizhQiKC6OKHSxDyzB_QtlSWfV_8HxWpwtVTve2n7j3e0tvtWHDpfPHkfBSeXinksoSMFC3a273pxr3ybtVRK0Owe_6JULk29OQ2UZOzXWlFMraYOnQnGvKji4EGgTEkA6nAeSdiVRQll9rKK5QnkyHj6DzdPuvzktJdj6dzVYH5Of_tmPRiGEbou76NeukBvh2EMmwuLn-66z4xKc420czxlHYMF5YrVy5fKgFob5x3GjC-nzLXcVsZnuY5EGl8M2j05IeSloZ0T8aRBznvyH_J0bah1Y6UNqLgIRNSKurOEwW_czAvqQenEFYvP-p_yYSjJldkaBISK_JSt73yUkc3I86srvdZoGH_-lZsgULnKQZB7-tlTFvDsS5XAk1QgZ2ZxHYOel1RsnPkLJbsH8UgIfJDrE-YUs12FSMCsM_2_lDNifA1b52zHU-AbLx_ua77uDB2H6FmAeIQjZcEtLvdZdzuekkfrYOWxgGIg4KDLAkqWfSJEFf5Dehvg..%26ch%3DAQEAEAABABRhm0mkK27mDVd36AFdMfad7teiBvPf0vE.%26v%3D3%26pg%3DRPS6TROEZRDYHEYBKMKO2LRRW4
+.netflix.com	TRUE	/	FALSE	1812418239	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+19%3A30%3A39+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aace4ff9-c91e-40a6-8157-406962ba2ef4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BPUE&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1812418238	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvclV8CLV8e-t90ic9-RA-NCRRDyXbXlY.%26dt%3D1780882227248
+.netflix.com	TRUE	/	FALSE	1788658239	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788658239	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788663639	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

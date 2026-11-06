@@ -1,0 +1,22 @@
+#USERNAME       : Madhav Shankar M
+#EMAIL          : sreenisree5584@gmail.com
+#PHONE          : +917902376012
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-14
+#DAYS LEFT      : 7 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Madhav Shankar M
+#CHECKED AT     : 2026-11-06 07:43:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798370268	nfvdid	BQFmAAEBEESKyKGRcI1jpmEjCIA9Hflgu3Xd2Y9Qyq_atg5PTAHqaoN4BgEi6fbQHfBKHlrInLpUzdfJMGG5NrZjey-927FjKeXEzKGsvNK0cN6onL2zediFoZTqGyni2n2-0jsuDzAhaPQeDri0gytw-_bnpr-6
+.netflix.com	TRUE	/	TRUE	1822225426	NetflixId	ct%3DBgjHlOvcAxK-AxuGI47u5ARKNrGFjXrrixoBFdf2pOUSgafZLgvx_Dr-ClBa24YhTRjnyd6i9wGGvDu4_SjgjzNwmT5xzpTUjoQoZFtI3rR9eod1FcMXo1BiHFiAnzLdGV2KR5c71_ddc299Jm9JHCpM7Apc46WTUD4JCcg85jB9wY3ItvloXqGfuG0Lo6xlkvtjsbC4MEYHx8o7Xvj1jTsyLjyP97MIK3yS_mrAZ4xC3phwRNROthv1oDXoHTZrNlLuqV178gH2TF99carqJYeuXyYj8jIoTYP0bOVoQap0ZTkt76sVPrRO7LxkTJXDNRvHS5mNJSDoFATxn5PJW5Eg1hhmWI_uFwnilJcnMwnNLGlrzV4s-9zq-v8HTq8oz9vM69SWRvN7wT1jX4LJ7mkq0WD2pn3HVUcp5HYgAL-tlUPWqoZS2NKcaQ3cDi52G8JOOOAO_o7WYrQZQvZe3pihhB533nSZHfLbxAuG3n8ydazGJXwsvtrkKJdc2GoAW6AVRx8joTmG4mNNq3Gk4-2rP8S7Ro9_aaYlXHr7RmkDZUwjhThxUM8eL8JFeSj3H_6YfyJQY27QVJbAi6z7FlBEC0d0y-2cGAYiDgoMYybrKPZ_RdYjWPQ7%26ch%3DAQEAEAABABTm6CuFHL-vrbnytbYzzPNfiByH-nt1yK4.%26v%3D3%26pg%3DGJUU4SVWABHHFHU54XXRB6Y73U
+.netflix.com	TRUE	/	TRUE	1822225426	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoJ9OhL7RZ6J9kCWOApABLHvqmmKii6_g.%26dt%3D1790689425133
+.netflix.com	TRUE	/	FALSE	1798467100	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798467100	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1822227101	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+29+2026+19%3A41%3A41+GMT%2B0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27c61d87-64d9-4fc6-9943-0dd061d243a2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1798467100	netflix-sans-bold-3-loaded	true

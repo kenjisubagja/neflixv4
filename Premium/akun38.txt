@@ -1,0 +1,23 @@
+#USERNAME       : Delta
+#EMAIL          : mysweder@aisc3.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2024
+#COUNTRY        : Chile 🇨🇱
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (4095)
+#EXPIRE         : 2026-11-24
+#DAYS LEFT      : 17 Days
+#EXTRA MEMBER   : No
+#PROFILES       : alfa
+#CHECKED AT     : 2026-11-06 07:43:48
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796488539	gsid	d5879e1f-683c-46f1-bc62-d58f5ac1739b
+.netflix.com	TRUE	/	TRUE	1820459309	NetflixId	ct%3DBgjHlOvcAxKDBJM8-SbzZVwAQLBK47gI89xVUaie5bqcn9dmstXG7CaneFNTClqg1yVKaJ-nKky5xE1YqKRkZUHMXpHoJmHwKlee4JKWYZ_rHB9zbqmzuu5ypP7uTsOChps1Z7YetFndZP_2jJ4mTjchDYjpEtQttqXnIwqOfB6wDmlS1ot2Oze3p77s1aSLOqlwn1bGkRAw-osNm8Ud1rHlxtLxmUGQr2K5xCjpIONFV1COZCDu8qgzgkB_CyeMfPCRnJBT4UF6WRvD0BBSNG9VFYN03OL2UvSGpuNSUbGh0qffiXHTNbmo7jyOMJhHDxMTGdVItgTuHOYRocmwJQf1aEhUEDOR1_23L3le4AVgoF2Y4sFyRNiJYnPAnTqcUB12MxzS19akDTT0lqHT9qInJpJJ6onEOJ68K0X8Na3JJqnPCdu9IYlL4Lh36HWGdEZG5LUVyecGvyPp0jmAnklC-G4HeXXTskglULzjrNYNMIVdoRpywRdrG0YtafnbtdiaffJtGoEUMZGf5NBxIKyH6A77rwHX-DbnYP0IJORRtwzKZdM_4rKpoSZmGBqTPNdvp69JLsNUlxQfZ-ZTvqEUT5k8evbZGJVPPKe41JB9trkVU7PjWHfmEAWx5i-vzjU0tlaetabK0HxqhWb1iJZMnDR1xMAI2j1q6SxdNJNDDevMU8wNaisSQH-TGAYiDgoM5tHLQnrUc-6Ez_Nc%26ch%3DAQEAEAABABTNINHT002wsseRujkTqnCt6O4VEj0pUE0.%26v%3D3%26pg%3DFH3IF2MGF5GHZIIIXSXORZWQLI
+.netflix.com	TRUE	/	FALSE	1796699309	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796699309	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1814743657	nfvdid	BQFmAAEBEMRm3jGl6YnPs3KdkxErQoNgZGwNMZ3aKUhdHiTMYdn5MB7AlFEjTITVl5G0ICbqyP_0A-W2MvTKWFFXyWrAOhFAKno5o-eZpQ9b59nnD04lbcGKYzntGA58g2A-rvbSRV5yzXyiRumuCLpvHrbCxuiL
+.netflix.com	TRUE	/	FALSE	1815678485	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+15+2026+14%3A08%3A05+GMT-0500+(hora+est%C3%A1ndar+oriental)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c37fbd53-461d-4b5c-be4d-ad73ef8a4c14&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1783207526541&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796699309	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1820459309	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYvZDklCzj44zPTpN6PG8IYCIbOcHKQC8.%26dt%3D1788923307156

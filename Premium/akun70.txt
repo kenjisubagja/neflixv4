@@ -1,0 +1,21 @@
+#USERNAME       : edifympangi988
+#EMAIL          : edifympangi988@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2026
+#COUNTRY        : South Africa 🇿🇦
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (3060)
+#EXPIRE         : 2026-11-20
+#DAYS LEFT      : 13 Days
+#EXTRA MEMBER   : No
+#PROFILES       : edifympangi988
+#CHECKED AT     : 2026-11-06 04:12:47
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1822241673	NetflixId	ct%3DBgjHlOvcAxLfAyDBn3uBERc1H6NhRhTjFgv5LGqet9SN0b5FUmQLcK2XzQ6iFYQ57fTqTqkRem-25LnU0IptjPEvf2XHfLWid9nuyC271Ob4e2eQqse9aUTMSEiGHjW_Y0fe4G7FeVcbWcKuRxzMOWK-_z4FLbizHLV5k92IKepqZet5tmgcU3ukuDgKuZyHUW0Y3xO1Rl-kntg62QYsd5v81xRe2zisIM33dDX_btEKh4nZ-gamjj3CBBSbmI-QN0oi5UJ-_DHQ-c5JFSE4luwF9nksG2pLJbYhK7hZs7CTcRkSMchOzXOWUAbqRIG3pbj54BDv_6mEU-W5LUXWE4H4vtHpmpcuhfUTjzi5eiF7woMvpMLxg0JreYy1Iy4F0hQGO1sQP_FZlehOHKUrG39kv4wE5wU-7ENpnG46NJYlX7dJ2wYzsHPMzgvhB5v8edQiUoBx1jGE2epKz3mdW15lOm_-5Q6cH4i6CRF1zg7upboTUnIYelleizKUl-7ll_VHgY-_3jTspCgeKVmiWhI3NkQnWX4wX58KbxX4XtM6zMGQRtH0jpVP58ICBVhIGmzUWFGqA5GltTVBrmOHl0Qt7FaJnxgnOcYsSCYe2lKiIMm4EHxvdIKHAocdI7jnBpJQxE8HJm2JGAYiDgoMM65d7BmrZ3lK1X7k%26ch%3DAQEAEAABABQv2pXwfeA7s0J31jaYB0H0iR8WZYNL3Q0.%26v%3D3%26pg%3DQQYCDSCTYRAOPOG6BXVFEGC5CQ
+.netflix.com	TRUE	/	FALSE	1798481680	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798481680	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1821994861	nfvdid	BQFmAAEBEELOifj7sbsan9E6lmwaf2JgguSGZyX9reD--Hx_gusfjBRTmqrZV3IKjPCE-2mjZhGCFUnZMXpU_Zd_jB__uV4WUT9ldhnZ2AGKWOgDKlYCBEVyFmbbwW6TeFxdM7O9noU0pXsVd7-5t_O8ZYkAcebu
+.netflix.com	TRUE	/	FALSE	1822241682	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+29+2026+20%3A14%3A42+GMT%2B0200+(South+Africa+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f281067d-ca4c-4976-83df-82018a39872e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1790458458651&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1822241673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJM5T3nOBDsKLX0Vn3-MyTlpkrCh2GHNY.%26dt%3D1790705677305

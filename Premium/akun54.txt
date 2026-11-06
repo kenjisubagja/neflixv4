@@ -1,0 +1,21 @@
+#USERNAME       : stanley sia sheng kai
+#EMAIL          : alvinsiashengwen@gmail.com
+#PHONE          : +60147531186
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2020
+#COUNTRY        : Malaysia 🇲🇾
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (8076)
+#EXPIRE         : 2026-12-01
+#DAYS LEFT      : 24 Days
+#EXTRA MEMBER   : No
+#PROFILES       : alvin
+#CHECKED AT     : 2026-11-06 07:43:58
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1818338005	NetflixId	ct%3DBgjHlOvcAxKTBI6VRxyySRt2e6fmEDexyiLfcSArYtqRYakbkxhCB7VHweIUp-Urb_GAcwGlPKdoGT5Q7Ya-Va2KiFb4wrdvU7cCqgKQJcvaCzj5po-nF92cK-egBucMMkOj1FlXbgCd5a5DLXVG6FJkAdXQlq-mm1EgrtP5B2uNnqQAea3qHnlCzXvpxkQZM4z93l68Jzft1M5tk_xGSt9RT2JnJdbuYVnRa38-3mtW7s_DHP1qyK4Dd4ORhvCZvCZdPsUZpaUq5jiMwS3FPrgUDRKJKh3swiSUD6_Paxxh6i1cx1DPYc4jeQU-ZXmWIG_Gd9jiDOazDh35vJXliQ-lY9wS-upwaQ4RX75XiIBHVR34Ql3Pku9QYb2g6BT3UaJAkBpO3WNk9HghOBoQvoW8naiZyhcfrsDQhvlYH8xnyQe-wEQ-b96EfUThcD8J0435scT0ltBzaKI_F9GOVY7SQdXOioWOuSNIpcU_IKbKAkesAfE_ri_bhPLWKjl5jaA5k2EDIp4whCuIBMazT_ibGBRYy95iFo_SdJZjOTdBtsgrn8a4s1aHto1tOoT2ppyfft3arn6SiEHUDns3kg3sjVL6kLDjKaOPGZZp5E7n90v663UvfmbrDWZiHe03uxnboVROtgobBOAS5V7EmkjbniD69qq0hHBJJB8B5YxSyRBsRf7peY8sRpz1mvZym64tGhLVYDAhnrIv4BgGIg4KDAL1bvpCRG_n_7zVZg..%26ch%3DAQEAEAABABQXKjjCr2kgsqyxe_hQr8KNgBKlPOmlmAE.%26v%3D3%26pg%3DAAIR4SJXM5F63KNH5BYLLNRCV4
+.netflix.com	TRUE	/	FALSE	1794586794	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794586794	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816782977	nfvdid	BQFmAAEBENWZ6VbNUkRg5suR9BAmxmlgarxN7x8y_nJ6optix5ZO3t-FH69tjocBD73D2jnZwOVAjO7USmldhhX0RJVP-W5dJoCpv-iCfBUGq7Jo13rzBT1fFUM1_zNYqkSSCJDclQkI1IDqvITXvHDI8b-A6a1R
+.netflix.com	TRUE	/	FALSE	1818346795	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+16+2026+00%3A19%3A55+GMT%2B0800+(Malaysia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f7f7e146-561e-4e1a-a770-da072f770461&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1818338005	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwKYW9IkqrOlJQxx0NbuYUcVeCB3ASf0k.%26dt%3D1786802006754

@@ -1,0 +1,25 @@
+#USERNAME       : AJessy
+#EMAIL          : nipgaglax@nekosan.uk
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : NET_BILLED
+#EXPIRE         : 2027-10-25
+#DAYS LEFT      : 353 Days
+#EXTRA MEMBER   : No
+#PROFILES       : TELA 1
+#CHECKED AT     : 2026-11-06 07:43:47
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1823210453	OptanonAlertBoxClosed	2026-10-10T23:20:53.828Z
+.netflix.com	TRUE	/	FALSE	1823210854	nfvdid	BQFmAAEBEBRcmlR3p1Ldp46J609wjhRgaLeq4aP6XsLyRjcZ0oNc_qLXYxpLHeQtnXNDDRsv1ZTOTZNv1tEiueUeWLhuOJVjz1roJbJlXkDLHJyF8E2wcm0uYh02evNG6EnYhxWNSx5j9dIoRwe-oqwniZ0ET9kh
+.netflix.com	TRUE	/	TRUE	1824446029	NetflixId	ct%3DBgjHlOvcAxKEBGkeLvuCvA0VVd5gFm0ciylnXeWLYUlMYtSTjwgyyQHSKpGXDZZTiMKlIYwUOGh74bxykTQD79CQos0qrziJTeEtux8V25YHz9B4GPprGmSiIQxGQduu4bJH4HQJUGMo3Ysyp0KltMnWu7FTR4Xm1lsOHNLu3U_YwQyQqRq1SFGWfmCu2rb171DCNDJzHt_ULNws0RqkWeZp0L1kAr5gL1M0XE-EBhX2zJp9aY5COa_80K8mmj2SASFWqRSQdA-jTJLqybpcI0D3XXFajdXaH6KNI4QbJ3ntAPrjmQbwpljZaFda9VYLO7BDs8p346F1toZShsk6f-zn8ekP202ufBd6q35rLv22aLgGnU7W0aZ8YNf-k-SU_lxn2oa_Vnwm3bZVgjRgIkhhfQkQ8QhbjD8063eqU6vo32J5JuLeYGeDhGov83pk_iqhNyU3JxDGsarqA5m8yDDXpF_y2bd2TjTFrSoau_nsOHX5L79uNXmDbkvSKtBAP7x45GgjO09F4CZoKzFejudlDR6sQSKO12TdE-IB4Fos3XxHCthk8t-Yo-14wV4b9tQI3sMvjQTXYmLuwdZH4wzrIelikd_zfOxtJvuiQiCgi3-4joqTSPnsv9S1YP71SZNLQ1rb2zt-2WK166SQAXejQFg0o6tmAwuPBba9L2IwZ44-nd6DfqgrIHUA8BgGIg4KDCwjxgialDy72Pn1rQ..%26ch%3DAQEAEAABABQ59qaEOggyEha-58PO3UP6ZXke9JC2p7I.%26v%3D3%26pg%3DW7HVMMGWJ5EFTO6EQO7ASDFSM4
+.netflix.com	TRUE	/	TRUE	1824446029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRff1qjcFBj_i2DA7s5oqUzUtSL3VSu2PM.%26dt%3D1792910029373
+.netflix.com	TRUE	/	TRUE	1796488541	gsid	ff941ae9-a50c-4e46-8867-3a99b3c2b5bd
+.netflix.com	TRUE	/	TRUE	1827469997	nap	BgimwOvcAxJJ1yTnF2wy7E05djmRZm8gcQ9deqSDYJV4EcqTcAhHltlF620yUWELy9EaEErclpOWOyGO657RvKOz_jOp_RRQ9onOShLH2GRdHBgGIg4KDJyHFfxr5qiJDDe3Pg..
+.netflix.com	TRUE	/	FALSE	1827469997	dsca	customer
+.netflix.com	TRUE	/	FALSE	1824448118	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+25+2026+04%3A08%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b5a4bb66-5741-403d-be61-ab8f6ae9b586&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1791674453&intType=3&crTime=1791674454215&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800688118	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800688118	netflix-sans-bold-3-loaded	true
