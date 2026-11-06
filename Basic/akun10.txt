@@ -1,0 +1,22 @@
+#USERNAME       : Tiyan
+#EMAIL          : khawarizandaristiyan@gmail.com
+#PHONE          : +6285227393748
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2026
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : SHOPEE_INDONESIA_BILLED
+#EXPIRE         : 2027-09-18
+#DAYS LEFT      : 316 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Tiyan
+#CHECKED AT     : 2026-11-06 03:26:29
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1821269471	NetflixId	ct%3DBgjHlOvcAxL_A_PQIdvslhw5mz-VroQyhwDaL3e5yMGs4U6G3uqR1Mk851MEyDb9Cgq_jISXNkDmPjwtwbUkeP71q-WVJYVDdOSngxlXyGJ-gdBZ9xSwq7FMWovezW3JpcDPxUUgnTQp7TBHVwEwCKTfMQYDgVMRe4rPcOybVggyTFddQd3znIJR8n849wqN7V51rG-zr6KM8ac8jAGiyLG__N63y7btQM9AaWGsan2h6u3yxfWW2prKEvmf_UBjatQELKJEKRlVAFMoJ3avXd8ZEXUyH6LtnJ8kTZdzjibbRx7wv_1-mfyqOh6XKvm96tNf910yU6GqHUv_BPb_k3EpW6aApSrgiY5J2RrBPffoQd_lKg59ruXKTSn8KOhzCvuj5PClS5rNDlpsfqif_53Cxoh0gl83Z1ybmic-Xmz1npOoiCI4mxndj0GQilnxQZWaaqpQnr0hQ4Z8HIu1wIsc098r1CCGg2WDz_EDBGZSlmpUe0qifeUGRaPMvCBvhInkn4MNnz6qXfPaKv4owV_9wvAaJEqh_riBbv2K3qgfuuVWy6Lb7g_1EMW-TyM39kCzAXORUHSZacpLEAVhobhTabi4OtAwzynfNpfoXf8ZfQN3d8D_A2p7wSB-gMXQ_LL9X7PZu7B5DXjSG9TqaS7XIMFLWLAVbtyNyE3nbKwd1QaVbp6S1jQYBiIOCgyctcomfKctPMNRLWY.%26ch%3DAQEAEAABABTWZdpshbN_LX_YLfn_ZFTh6LTFbOeNxNM.%26v%3D3%26pg%3DRV4EZK6EIVBFLDDCNTMWKYLS3Q
+.netflix.com	TRUE	/	FALSE	1797509472	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797509472	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1818157630	nfvdid	BQFmAAEBELsF5rcrZYDs9sWMY6oJZrRgJEjM9YLO6vLJ-DLvnQS-A1a70Q13G2XnMaCHHX3FZ5wWme7Dhy2GGBZoGke-TajTtKfPGd99NE4Q6aplUz4uDUGuQg7FI7ToaN_nPS7gbQXDqn_j-RNqxXaZ7brYmIug
+.netflix.com	TRUE	/	FALSE	1820937118	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+14+2026+22%3A51%3A58+GMT%2B0700+(Western+Indonesia+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=619e82fa-0621-4eff-84dd-098a8fcee8f5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1786621572874&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797509472	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1821269471	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLrOgdOzfIq6PGUNwsAz6BpbkL1ehvG5o.%26dt%3D1789733470696

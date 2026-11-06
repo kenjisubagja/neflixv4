@@ -1,0 +1,24 @@
+#USERNAME       : shahzaibaabidi
+#EMAIL          : shahzaibaabidi@gmail.com
+#PHONE          : +923008298775
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2026
+#COUNTRY        : Pakistan 🇵🇰
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : CC (6827)
+#EXPIRE         : 2026-11-10
+#DAYS LEFT      : 3 Days
+#EXTRA MEMBER   : No
+#PROFILES       : shahzaibaabidi
+#CHECKED AT     : 2026-11-06 07:43:39
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796488541	flwssn	41892584-4ce0-47fd-9650-ac984ba50c25
+.netflix.com	TRUE	/	TRUE	1796488541	gsid	4e246b63-0a9c-43bb-bc08-6290ae632ad2
+.netflix.com	TRUE	/	TRUE	1821802541	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKnA0dagf8Wi9mRWdymXGz7d_72jgdpYajZGVuxSOBcUznn4Cz126XZzEfTkc1L72u7cPjqXxrVeZnqHNninh-7IRAqSlwG4VFyqKWjvMe0hS1ZaMlOccT1J-UoE0PjCMpbrKP7keWmt4zgQ2CQperw8mOWgaE-BCkTp-WYY_Ejgk8r4IC8gLEqvV2jQuJMetz6esu6h6sFbc_sWsMxi4MTZ3cBuxti43pZTKug_0bBNzXMKT2e8zoOlZ3hjQg1vdqe3nPI7q91zX-f8X51L172AnxqzIup_6foKvaxVbyJ4HblFyQ1eEYmocRjhkTWGeldajt98SDORyRh0_jsUl4IUkThF3W6wvsWN9zJVsh6FeM_eorOWder2lNd4U50JshJ1mwNLIxeBXY0TIxw5d9sT68phAH7EX9JpgTpx61hkW0jZLLx0cQ5U5yZi3G1e6FcOU7IaNqzM5UbYEQiHuPxS9qXIuYkHXw9V1g2qufi67Jb5ajIZhzRjQqVBbIDzKQCPKY_foFaGlpDUItmWG4VAUh8qV_yK25VjoeOHtWpHnu2JD7nOy8VpxgGIg4KDG4E0WwIoDtEkNYDnA..%26pg%3DSGPXRXUM35BA7J7L6UAUD3YMKA%26ch%3DAQEAEAABABTSWSP1tRov4vrErqwpn8tcxls6ShvZTnE.
+.netflix.com	TRUE	/	FALSE	1821802544	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+24+2026+21%3A15%3A44+GMT%2B0500+(Pakistan+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5db3eb82-2d56-4611-9dd5-465ac7ecd0cc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1790266541489
+.netflix.com	TRUE	/	TRUE	1821802541	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGYaIa4NB-zTFq1b0hzjRnMOU34ynX0v0.%26dt%3D1790266541452
+.netflix.com	TRUE	/	FALSE	1798042543	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798042543	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1821802541	nfvdid	BQFmAAEBEGmsoaWe1NqmX96QVNSg56hgILr7vd1z1bavA0fsQAD0MxpdnWSxjjmeueg82m7PhIzZknK8hCo6Ki5PsyZadB_X2B5fCWsf2YmLkNVnT3TMChPgcs8swufsWPVxnOVsMVX-SxahNdaB3y90Y8pKNJaP
+.netflix.com	TRUE	/	FALSE	1796488541	profilesNewSession	0

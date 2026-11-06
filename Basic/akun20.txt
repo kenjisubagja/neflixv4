@@ -1,0 +1,24 @@
+#USERNAME       : azharkhanc38
+#EMAIL          : azharkhanc38@gmail.com
+#PHONE          : +923159301952
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2026
+#COUNTRY        : Pakistan 🇵🇰
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : CC (4711)
+#EXPIRE         : 2026-11-22
+#DAYS LEFT      : 15 Days
+#EXTRA MEMBER   : No
+#PROFILES       : azharkhanc38
+#CHECKED AT     : 2026-11-06 07:43:40
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808738083	nfvdid	BQFmAAEBEPAySRvRqrY4zp1aDcUtmqRg_5Lh32-xqFYLg0a6V5LKN_rTtfRoTBI2icBn_p_bVXB1ZTzPVs3J7bJqbhSOCTSvvnGdluF02Xn88QAJUYqii2vo_PQAE3fWbcBYOT2plBwjI_UonrZYxRwAnlTj4Ln6
+.netflix.com	TRUE	/	TRUE	1817887600	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA9FLGNfzgSzwhmZyfTEw_RkSc6eY85gx01nZdwiywT3tZJsP9O9cYdK8fPgVR2KMEcP9fI_G0DURsfZC38bYMHxcIVLJdxEFXhet-ePiof-BRlecWPKs3XyxFr6W3-xWkRG-TtQWYSqMCth1V1sOykog3QsdiBoCTu-ZmE3JNdp2fxBX7vCIy4L_FOg0nHr6iAxsMPnimGGWydl4Q5B6E-c6jPwmB0aRxVWmngQoO-gHl8lDmcsPcRz7UTU9KWXUn9XbTKet0PpbwH6AkIPnbIBHVf2m0sMEKx6Qkko_QJUI8aGxcwa2GC3qv0omKcpFObWaW98cm_AjbM1KzhJFHJHi4d_63dRvxXYUXLlMFt1yZkL0dDNTiuZ9Miu5tp8mLYo6114CARqr-rVTaQWOUzIk0R61kZvldx7RdTJJ_LjuVR4VxgrBRQ1V8OcN7Y6-InerPbuOs7gnloFK9rF5C0sSJ4JTf4zegYBaNSUa0DWCvYznPKqFns9MscndTm2buqE1Uuw9xh-uNCYuEVMFpGsm-o28YegEZV-9b2X7cBgGIg4KDI4wsKushqTfFj9EEg..%26pg%3DMRGMJXR52BBJ3BUAQNQUWKDOTU%26ch%3DAQEAEAABABT9kMLWegSze-fYOufFcF0O4CKnfQ4TdC8.
+.netflix.com	TRUE	/	TRUE	1817887600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTb6z4h7AXkV7jniNfhVjmLotxg3lJs6Ig.%26dt%3D1786351599872
+.netflix.com	TRUE	/	FALSE	1817895424	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+10+2026+15%3A57%3A04+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=de81f4c0-cb2c-438c-9ccb-91c6045a8022&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777202003303&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796488541	gsid	2eecfe03-6eb5-4954-939b-ec524872037b
+.netflix.com	TRUE	/	FALSE	1794135423	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794135423	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794135423	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1796488541	profilesNewSession	0

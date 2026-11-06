@@ -1,0 +1,24 @@
+#USERNAME       : Thaslee
+#EMAIL          : mthasleem2@gmail.com
+#PHONE          : +919600647231
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic | HD720p | 1 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-11-26
+#DAYS LEFT      : 19 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Thaslee
+#CHECKED AT     : 2026-11-06 03:27:20
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1786336727	gsid	f1afeb36-3c23-4b97-a222-1e3fb098327f
+.netflix.com	TRUE	/	TRUE	1817786327	NetflixId	ct%3DBgjHlOvcAxKFBPaeF3-j6qzI3INAmRHPAw1f15oX7kAj6XWtC_tZjYcbY5SrA7pY4vRXifIrlp0hlSb58TnVH-W2-h36S9yosLFyWWsebHDStcrWgODJ5N8LTzVOd9Uj68rPJhwavEpLtO20AytLpiW9ZWpjO7EDV1qBcPqMCYCgQmKmfu06eBpcvSUsANvV34xDdc_Z93IPGibONEiXyUBHfDeLXiszzPVOUlmf6iQmrgD1VDBXOWUamdW1jPztt3vxf9hjgMJCnRhRc25UIjYXxLyMh6yz7p9N9bzOY9q_1Mig8sSXreR7YhLp_UNoZ8pjNQ2Hd2N5pztf3YpAtWn1MOCUMdbVfXq-3SmOVA8jDqOO3O3jKBeLab7sQkTV11N4q4wAGNJ5y0zwJds83LnifPFkP7RS4Zg26xKCsdFTSVRQoEOrkE3WHJ4iA-J24hmkB0dsHDiJRB6NtIw-E3NcCt64bCyX34gKNijeZMM_wTOlWKEMd8zz70_-P7n7IMEzca_gMAo2h6x-klsHngkgXA3UC7Gwlo1VohLignFPFeuYx9Decf7b4L2nKrJ1l5MDKHhc1xt9LibmOT6wDGlqM2MxyN4gOLiAvrK5Ii-3r963bYWq143kEBYglL23S29xTPTlvD1ucVZITSAGr_6SRSobWl1NBFZiin1912ynaT8_sWpsShqqGaboDGQYBiIOCgwNLj3FkXtUUzCm428.%26ch%3DAQEAEAABABSHkxlbgELtgMcCp16gWhwq5y8ybu-L-b0.%26v%3D3%26pg%3DDQPDKBJNLNGVTCW7J52TVYXW2A
+.netflix.com	TRUE	/	FALSE	1794065366	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794065366	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798218280	nfvdid	BQFmAAEBEIulJQNfHwfnsUf2r4P2J1RgODegZtWQgGPwYlCuz4lPzwjnZdALFEFqGU8amIYyWIRjjH4C0YCebGof_-hoZFDKTRBSwGHtrdecS9itXK4CaoUZlglt7K8I79_5CIZ8kPlQCf166lDMsyo1Dqhv1Gio
+.netflix.com	TRUE	/	FALSE	1798386151	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+21%3A12%3A31+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=989a08ce-a07f-49aa-b28c-621d59092dfd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1817786327	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_S9z-FD8LsnpkJTeF7VEcZHsgRZk6sC0.%26dt%3D1786250327982
+secured.netflix.com	FALSE	/	TRUE	1801242674	thx_guid	628042dcda0e901f993af78f781cc37d
+secured.netflix.com	FALSE	/	TRUE	1801242674	tmx_guid	AAwTyhGmcErBP_76kKjjGzGutfzjpcdKN4015WahXS-Cw4xs5IaPwCbn7YSog2SFUrAr8SpqDlmip3kP1Pq0TI0FX_-XMw
